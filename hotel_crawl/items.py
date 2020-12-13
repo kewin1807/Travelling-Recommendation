@@ -22,7 +22,8 @@ def make_shorten(url):
     return s.shorten(url)
 
 
-DOMAIN = "https://www.booking.com"
+DOMAIN_HOTEL = "https://www.booking.com"
+DOMAIN_TOUR = "https://travel.com.vn"
 
 
 def parseDistance(text):
@@ -41,7 +42,7 @@ def parseIntNumber(text):
 
 
 def parseLinkHotel(text):
-    link = "{}/{}".format(DOMAIN, text)
+    link = "{}/{}".format(DOMAIN_HOTEL, text)
     print("link: ", link)
     short_link = make_shorten(link)
     return short_link
@@ -72,6 +73,24 @@ def parseQualityStar(text):
 
         txts = text.split(" ")
         return int(txts[0])
+
+
+def parseLinkTour(text):
+    link = "{}{}".format(DOMAIN_TOUR, text)
+    short_link = make_shorten(link)
+    return short_link
+
+
+def parseRatingTour(text):
+    return parseFloatNumber(text)
+
+
+def parseNumberPeopleRatingTour(text):
+    return parseIntNumber(text)
+
+
+def parseTourId(text):
+    return text.split(":")[-1]
 
 
 class HotelCrawlItem(scrapy.Item):
@@ -106,4 +125,31 @@ class HotelCrawlItem(scrapy.Item):
 
 
 class TourItem(scrapy.Item):
+
+    tour_name = Field(input_processor=MapCompose(
+        str.strip), output_processor=TakeFirst())
+    link = Field(input_processor=MapCompose(
+        parseLinkTour), output_processor=TakeFirst())
+    rating = Field(input_processor=MapCompose(
+        parseRatingTour), output_processor=TakeFirst())
+    city_id = Field(input_processor=MapCompose(
+        str.strip), output_processor=TakeFirst())
+    number_people_rating = Field(input_processor=MapCompose(
+        parseNumberPeopleRatingTour), output_processor=TakeFirst())
+
+    image = Field(input_processor=MapCompose(
+        parseImage), output_processor=TakeFirst())
+    price = Field(input_processor=MapCompose(
+        parsePrice), output_processor=TakeFirst())
+    start_date = Field(input_processor=MapCompose(
+        str.strip), output_processor=TakeFirst())
+    start_hour = Field(input_processor=MapCompose(
+        str.strip), output_processor=TakeFirst())
+    number_available_seat = Field(input_processor=MapCompose(
+        parseIntNumber), output_processor=TakeFirst())
+    number_days = Field(input_processor=MapCompose(
+        parseIntNumber), output_processor=TakeFirst())
+
+    tour_id = Field(input_processor=MapCompose(
+        parseTourId), output_processor=TakeFirst())
     pass

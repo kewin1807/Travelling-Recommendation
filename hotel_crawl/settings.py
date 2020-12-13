@@ -13,8 +13,12 @@ SPIDER_MODULES = ['hotel_crawl.spiders']
 NEWSPIDER_MODULE = 'hotel_crawl.spiders'
 
 ITEM_PIPELINES = {
-    "hotel_crawl.pipelines.DuplicatesPipeline": 100,
-    "hotel_crawl.pipelines.HotelCrawlPipeline": 200
+    "hotel_crawl.pipelinetours.DuplicatesPipeline": 200,
+
+    "hotel_crawl.pipelinetours.TourCrawPipeline": 200,
+    # "hotel_crawl.pipelines.DuplicatesPipeline": 100,
+    # "hotel_crawl.pipelines.HotelCrawlPipeline": 200
+
 }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
