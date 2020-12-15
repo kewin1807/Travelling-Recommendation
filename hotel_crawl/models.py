@@ -4,6 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import (
     Integer, String, Date, DateTime, Float, Boolean, Text)
 from scrapy.utils.project import get_project_settings
+from sqlalchemy.orm import sessionmaker, scoped_session
 
 Base = declarative_base()
 
@@ -14,6 +15,11 @@ def db_connect():
     Returns sqlalchemy engine instance
     """
     return create_engine(get_project_settings().get("CONNECTION_STRING"))
+
+
+engine = db_connect()
+db_session = scoped_session(sessionmaker(bind=engine))
+Base.query = db_session.query_property()
 
 
 def create_table(engine):
