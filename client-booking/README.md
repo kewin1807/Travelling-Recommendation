@@ -1,13 +1,25 @@
-## Hotel Booking App
-https://shubhamd99.github.io/react-hotel-booking-app/
+## Purpose 🎓 Learning React | React Context API | Contentful
 
-Hotel Booking App build with React JS with Context for state management and typescript for static type checking
+My goal was to get a deeper understanding of React and Context API with alternative state management than Redux. Local data was used during development and Contentful to pass data from external means.
 
-![alt_img](https://i.imgur.com/LFNqVsM.png)
+## Made with
 
-![alt_img](https://i.imgur.com/U3ccqc6.png)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Context API](https://reactjs.org/docs/context.html)
+- [Contentful](https://www.contentful.com/)
 
-![alt_img](https://i.imgur.com/RjO5oZl.png)
+## Upcoming Features
 
-![alt_img](https://i.imgur.com/xA2sIX7.png)
+I would like to add more features such as
 
+- Allow user to Reserve/Book/Cancel a room.
+- User Authentication to view those user actions.
+- Some more ideas down the road to come.
+
+## [Deployment](https://react-hotel-booking-app.netlify.com/)
+
+Deployed on [Nelify](https://www.netlify.com/)
+
+## Author
+
+Josiah Singh
