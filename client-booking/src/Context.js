@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { get, post } from "../src/api"
 // import items from "./data";
 // import Client from "./Contentful";
 
@@ -24,22 +25,23 @@ class RoomProvider extends Component {
   // getData ** TODO
   getData = async () => {
     try {
-      let response = await Client.getEntries({
-        content_type: "beachResortRoom",
-        order: "fields.price"
-      });
-      let rooms = this.formatData(response.items);
-      let featuredRooms = rooms.filter(room => room.featured === true);
-      let maxPrice = Math.max(...rooms.map(item => item.price));
-      let maxSize = Math.max(...rooms.map(item => item.size));
-      this.setState({
-        rooms,
-        featuredRooms,
-        sortedRooms: rooms,
-        loading: false,
-        maxPrice,
-        maxSize
-      });
+
+      const res = await get("/api/recommendation")
+      console.log(res)
+      const rooms = res.hotels
+      this.setState({ rooms: rooms, loading: false })
+      // let rooms = this.formatData(response.items);
+      // let featuredRooms = rooms.filter(room => room.featured === true);
+      // let maxPrice = Math.max(...rooms.map(item => item.price));
+      // let maxSize = Math.max(...rooms.map(item => item.size));
+      // this.setState({
+      //   rooms,
+      //   featuredRooms,
+      //   sortedRooms: rooms,
+      //   loading: false,
+      //   maxPrice,
+      //   maxSize
+      // });
     } catch (error) {
       console.log(error);
     }
