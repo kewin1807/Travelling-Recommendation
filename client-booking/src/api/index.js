@@ -1,8 +1,8 @@
 /* eslint-disable no-restricted-globals */
 
 // get param direct from process.env, because of bundle param
-export const API_BASE =
-    process.env.REACT_APP_API_BASE || window.location.origin;
+export const API_BASE = "http://localhost:8000"
+// process.env.REACT_APP_API_BASE || window.location.origin;
 
 export const WS_BASE = API_BASE.replace(/^http/, 'ws');
 

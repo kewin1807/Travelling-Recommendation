@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { get, post } from "../src/api"
+import {post } from "../src/api"
 // import items from "./data";
 // import Client from "./Contentful";
 
@@ -8,10 +8,11 @@ const RoomContext = React.createContext();
 class RoomProvider extends Component {
   state = {
     rooms: [],
+    tours: [],
     sortedRooms: [],
     featuredRooms: [],
-    loading: true,
-    type: "all",
+    loading: false,
+    province: "Chọn điểm đến",
     capacity: 1,
     price: 0,
     minPrice: 0,
@@ -23,13 +24,13 @@ class RoomProvider extends Component {
   };
 
   // getData ** TODO
-  getData = async () => {
+  getData = async (city_id) => {
+    this.setState({ loading: true })
     try {
 
-      const res = await get("/api/recommendation")
-      console.log(res)
-      const rooms = res.hotels
-      this.setState({ rooms: rooms, loading: false })
+      const res = await post("/api/recommendation", { data: { "city_id": city_id } })
+
+      this.setState({ rooms: res.hotels, loading: false, tours: res.tours })
       // let rooms = this.formatData(response.items);
       // let featuredRooms = rooms.filter(room => room.featured === true);
       // let maxPrice = Math.max(...rooms.map(item => item.price));
@@ -47,28 +48,7 @@ class RoomProvider extends Component {
     }
   };
 
-  componentDidMount() {
-    this.getData();
-  }
-
-  formatData(items) {
-    let tempItems = items.map(item => {
-      let id = item.sys.id;
-      let images = item.fields.images.map(image => image.fields.file.url);
-
-      let room = { ...item.fields, images, id };
-      return room;
-    });
-    return tempItems;
-  }
-
-  getRoom = slug => {
-    let tempRooms = [...this.state.rooms];
-    const room = tempRooms.find(room => room.slug === slug);
-    return room;
-  };
-
-  handleChange = event => {
+  handleChange = async event => {
     const target = event.target;
     const value = target.type === "checkbox" ? target.checked : target.value;
     const name = event.target.name;
@@ -76,59 +56,20 @@ class RoomProvider extends Component {
       {
         [name]: value
       },
-      this.filterRooms
+      await this.filterRooms
     );
   };
 
-  filterRooms = () => {
+  filterRooms = async () => {
     let {
-      rooms,
-      type,
-      capacity,
-      price,
-      minSize,
-      maxSize,
-      breakfast,
-      pets
+      province,
     } = this.state;
-
-    // all the rooms
-    let tempRooms = [...rooms];
-    // transform value
-    capacity = parseInt(capacity);
-
-    // filter by type
-    if (type !== "all") {
-      tempRooms = tempRooms.filter(room => room.type === type);
+    if (province === "Chọn điểm đến") {
+      alert("Bạn chưa chọn điểm đến")
     }
-
-    // filter by capacity
-    if (capacity !== 1) {
-      tempRooms = tempRooms.filter(room => room.capacity >= capacity);
+    else {
+      await this.getData(province)
     }
-
-    // filter by price
-    tempRooms = tempRooms.filter(room => room.price <= price);
-
-    // filter by size
-    tempRooms = tempRooms.filter(
-      room => room.size >= minSize && room.size <= maxSize
-    );
-
-    // filter by breakfast
-    if (breakfast) {
-      tempRooms = tempRooms.filter(room => room.breakfast === true);
-    }
-
-    // filter by pets
-    if (pets) {
-      tempRooms = tempRooms.filter(room => room.pets === true);
-    }
-
-    // change state
-    this.setState({
-      sortedRooms: tempRooms
-    });
   };
 
   render() {
