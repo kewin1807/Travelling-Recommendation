@@ -3,9 +3,9 @@ import RoomFilter from "./RoomFilter";
 import RoomList from "./RoomList";
 import { withRoomConsumer } from "../Context";
 import Loading from "./Loading";
-
+import TourList from "./TourList"
 function RoomContainer({ context }) {
-  const { loading, sortedRooms, rooms } = context;
+  const { loading, sortedRooms, rooms, tours } = context;
   // console.log(context);
   if (loading) {
     return <Loading />;
@@ -14,6 +14,8 @@ function RoomContainer({ context }) {
     <div>
       <RoomFilter rooms={rooms} />
       <RoomList rooms={rooms} />
+
+      <TourList tours={tours} />
     </div>
   );
 }
