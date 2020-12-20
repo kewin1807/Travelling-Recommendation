@@ -1,0 +1,201 @@
+id,name,link_tour,city_id,rating_tour,number_people_rating,image,price,tour_id,start_date,start_hour,number_available_seat,number_days
+1,"Huế - Đà Nẵng - Bà Nà - Hội An ( Khách sạn 4 sao)",https://is.gd/9oeMsX,6231,4.66,363,https://is.gd/7FzahK,4690000," NDHAN502-242-251220VN-U",25/12/2020,08:00,9,4
+2,"Huế - Đà Nẵng - Bà Nà - Hội An ( Khách sạn 4 sao)",https://is.gd/JbMJ1l,6231,4.69,359,https://is.gd/7FzahK,4690000," NDHAN502-243-261220VN-H",26/12/2020,08:00,9,4
+3,"Huế - Đà Nẵng - Bà Nà - Hội An",https://is.gd/itLQh7,6231,4.68,361,https://is.gd/tSYbuX,4390000," NDHAN501-253-261220VJ-V",26/12/2020,10:30,9,4
+4,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4 *)",https://is.gd/7ZNnHk,6231,4.7,359,https://is.gd/tSYbuX,4300000," NDHAN501-001-070121VJ-V",07/01/2021,10:30,9,4
+5,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4 *)",https://is.gd/zHllew,6231,4.7,358,https://is.gd/tSYbuX,4300000," NDHAN501-002-140121VJ-V",14/01/2021,10:30,9,4
+6,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4 *)",https://is.gd/Xrowzm,6231,4.7,358,https://is.gd/tSYbuX,4300000," NDHAN501-003-210121VJ-V",21/01/2021,10:30,9,4
+7,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4*)",https://is.gd/XAXOuL,6231,4.7,358,https://is.gd/tSYbuX,4300000," NDHAN501-004-040321VJ-V",04/03/2021,10:30,9,4
+8,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4*)",https://is.gd/nwAf7D,6231,4.69,359,https://is.gd/tSYbuX,4300000," NDHAN501-005-110321VJ-V",11/03/2021,10:30,9,4
+9,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4 *)",https://is.gd/t2dQWc,6231,4.7,358,https://is.gd/tSYbuX,4300000," NDHAN501-006-180321VJ-V",18/03/2021,10:30,9,4
+10,"Huế - Đà Nẵng - Bà Nà - Hội An (Khách sạn 4*)",https://is.gd/DZudIs,6231,4.7,358,https://is.gd/tSYbuX,4300000," NDHAN501-007-250321VJ-V",25/03/2021,10:30,9,4
+11,"Hà Nội - Bái Đính - Tràng An - Hạ Long - Yên Tử (Khách Sạn 3 Sao)",https://is.gd/rBWi6A,6228,4.15,429,https://is.gd/5lHcgJ,5390000," NDSGN106-090-171220VJ-V",17/12/2020,06:10,4,4
+12,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/pvL4cm,6228,4.39,405,https://is.gd/nxHpI8,8590000," NDSGN152-088-181220VJ-V",18/12/2020,06:10,1,6
+13,"Hà Nội - Sapa - Yên Tử - Nghỉ dưỡng FLC Hạ Long 5 sao - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 4&5 Sao)",https://is.gd/1ZQSdB,6228,4.14,434,https://is.gd/WGJMSb,8790000," NDSGN186-014-191220VN-D",19/12/2020,06:00,1,6
+14,"Hà Nội - Bái Đính - Tràng An - Hạ Long - Yên Tử (Khách sạn 4 sao)",https://is.gd/mtQP1a,6228,4.35,397,https://is.gd/rNQuyK,6190000," NDSGN101-022-191220VJ-D",19/12/2020,07:00,8,4
+15,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/hCuGRI,6228,4.53,388,https://is.gd/nxHpI8,8590000," NDSGN152-119-201220VJ-V",20/12/2020,05:30,3,6
+16,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 3 Sao) - Việt Nam Dưới Cánh Chim Bay",https://is.gd/lHIaGm,6228,4.3,411,https://is.gd/WGJMSb,8590000," NDSGN186-272-221220VJ-V",22/12/2020,05:30,9,6
+17,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/vHSi6U,6228,4.57,375,https://is.gd/nxHpI8,8590000," NDSGN152-144-221220VJ-V",22/12/2020,05:30,8,6
+18,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/8cOmbl,6228,4.45,388,https://is.gd/nxHpI8,8590000," NDSGN152-085-221220VJ-V",22/12/2020,05:30,6,6
+19,"Hà Nội - Tây Bắc: Đền Hùng - Nghĩa Lộ - Tú Lệ - Mù Cang Chải - Yên Bái - Sapa - Điện Biên - Sơn La - Mộc Châu",https://is.gd/1O4AHa,6228,4.34,404,https://is.gd/i4xZGt,8590000," NDSGN172-044-221220VN-V",22/12/2020,06:00,8,6
+20,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/ssshY0,6228,4.44,393,https://is.gd/nxHpI8,9290000," NDSGN152-120-241220VJ-V",24/12/2020,05:30,4,6
+21,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 3 Sao)",https://is.gd/jKSp1p,6228,4.41,394,https://is.gd/WGJMSb,8590000," NDSGN186-294-241220VJ-V",24/12/2020,05:50,9,6
+22,"Hà Nội - Sapa - Yên Tử - Nghỉ dưỡng FLC Hạ Long 5 sao- Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Bay cùng Vietnam Airlines, khách sạn 4&5 sao)",https://is.gd/m2YGDI,6228,4.42,397,https://is.gd/WGJMSb,8790000," NDSGN186-318-241220VN-V",24/12/2020,06:00,2,6
+23,"Hà Nội - Đông Tây Bắc: Nậm Ty - Nậm Hồng - Bắc Hà - Mù Cang Chải - Tú Lệ - Phú Thọ",https://is.gd/42vpXl,6228,4.39,399,https://is.gd/iWUZy1,9990000," NDSGN175-006-241220VJ-V",24/12/2020,06:00,2,6
+24,"Hà Nội - Bái Đính - Tràng An - Nghỉ Dưỡng Du Thuyền Paradise Hạ Long 5 sao - Hang Sửng Sốt - TiTốp (Tour Tiết Kiệm)",https://is.gd/TB3mcT,6228,4.53,379,https://is.gd/UCPvcK,7990000," NDSGN116-011-241220VJ-V-9",24/12/2020,07:30,4,4
+25,"Hà Nội - Bái Đính - Tràng An - Hạ Long - Yên Tử (Khách Sạn 3 Sao) - Lời Cảm Ơn Từ Trái Tim",https://is.gd/e5Oz9G,6228,4.49,383,https://is.gd/5lHcgJ,5390000," NDSGN106-091-241220VJ-V-F-1",24/12/2020,07:30,6,4
+26,"Hà Nội - Sapa - Bản Cát Cát - Fansipan (Tặng vé tàu hỏa Mường Hoa, bay cùng Vietnam Airlines)",https://is.gd/zNVU6I,6228,4.46,390,https://is.gd/kXU7Jg,6190000," NDSGN185-041-241220VN-V",24/12/2020,08:00,8,4
+27,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 3 Sao)",https://is.gd/WlaYXZ,6228,4.53,379,https://is.gd/WGJMSb,8590000," NDSGN186-295-251220VJ-V",25/12/2020,05:50,9,6
+28,"Hà Nội - Tây Bắc: Đền Hùng - Nghĩa Lộ - Tú Lệ - Mù Cang Chải - Yên Bái - Sapa - Điện Biên - Sơn La - Mộc Châu",https://is.gd/19BNBP,6228,4.47,394,https://is.gd/i4xZGt,8590000," NDSGN172-076-251220VN-V",25/12/2020,06:00,4,6
+29,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/0jMnhO,6228,4.63,369,https://is.gd/nxHpI8,9290000," NDSGN152-125-261220VJ-V",26/12/2020,05:30,9,6
+30,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/IuuV9K,6228,4.54,378,https://is.gd/nxHpI8,9290000," NDSGN152-121-261220VJ-V",26/12/2020,05:30,1,6
+31,"Hà Nội - Sapa - Yên Tử - Nghỉ dưỡng FLC Hạ Long 5 sao - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 4&5 Sao)",https://is.gd/DVO4j6,6228,4.49,390,https://is.gd/WGJMSb,8790000," NDSGN186-015-261220VN-D",26/12/2020,06:00,5,6
+32,"Hà Nội - Bái Đính - Tràng An - Nghỉ Dưỡng Du Thuyền Paradise Hạ Long 5 sao - Vịnh Lan Hạ - Yên Tử",https://is.gd/kXwoue,6228,4.68,362,https://is.gd/NVmTJX,8190000," NDSGN102-023-261220VJ-D-9",26/12/2020,07:50,2,4
+33,"Hà Nội - Bái Đính - Tràng An - Hạ Long - Yên Tử (Khách sạn 4 sao)",https://is.gd/qP5xhw,6228,4.55,381,https://is.gd/rNQuyK,6190000," NDSGN101-023-261220VJ-D",26/12/2020,07:50,8,4
+34,"Hà Nội - Sapa - Bản Cát Cát - Fansipan (Tặng vé tàu hỏa Mường Hoa, bay cùng Vietnam Airlines)",https://is.gd/qVclZB,6228,4.57,379,https://is.gd/kXU7Jg,6190000," NDSGN185-042-261220VN-V",26/12/2020,08:00,8,4
+35,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa)",https://is.gd/jMJd3d,6228,4.59,374,https://is.gd/WGJMSb,9290000," NDSGN186-319-271220VJ-V",27/12/2020,07:00,6,6
+36,"Hà Nội - Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể",https://is.gd/1EwTBa,6228,4.61,368,https://is.gd/nxHpI8,9290000," NDSGN152-126-271220VJ-V",27/12/2020,07:00,7,6
+37,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 4 sao)",https://is.gd/3bQ6LO,6228,4.62,373,https://is.gd/WGJMSb,9590000," NDSGN186-323-281220VJ-V",28/12/2020,06:10,4,6
+38,"Hà Nội - Sapa - Yên Tử - Hạ Long - Bái Đính - Tràng An (Tặng Vé Tàu Hỏa Mường Hoa, Khách Sạn 4 sao) - Tết Dương Lịch",https://is.gd/7PW1UR,6228,4.36,401,https://is.gd/WGJMSb,9590000," NDSGN186-320-291220VJ-V",29/12/2020,05:15,9,6
+39,"Hà Nội - Đông Bắc: Hà Giang Mùa Hoa Tam Giác Mạch - Lũng Cú - Đồng Văn - Mã Pí Lèng - Mèo Vạc - Cao Bằng - Thác Bản Giốc - Hồ Ba Bể - Tết Dương Lịch",https://is.gd/kVqaIp,6228,4.41,392,https://is.gd/nxHpI8,9590000," NDSGN152-136-291220VJ-V",29/12/2020,06:25,2,6
+40,"Hà Nội - Lào Cai - Sapa - Fansipan - Yên Tử - Hạ Long (Khách Sạn 3 Sao) - Tết Dương Lịch",https://is.gd/tTzvX2,6228,4.4,398,https://is.gd/Ezytf5,8590000," NDSGN135-049-301220VJ-V",30/12/2020,07:00,8,5
+41,"TP HCM - Sa đéc - Vĩnh Long - Củ Chi  ( Trải nghiệm Sunworld Bà Đen – Vinpearl Tây Ninh)  - Tết Dương Lịch 2021 **",https://is.gd/1ZJStq,6229,4.67,361,https://is.gd/arNI3O,7890000," NDHAN789-007-311220QH-D",31/12/2020,10:45,9,4
+42,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/g9HzQX,6927,4.66,364,https://is.gd/9ptNhm,3390000," NDHAN431-002-171220-H",17/12/2020,06:00,9,4
+43,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị - Tết Dương Lịch 2021",https://is.gd/d3aHCl,6927,4.57,374,https://is.gd/9ptNhm,4290000," NDHAN431-009-311220-H",31/12/2020,06:00,9,4
+44,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/RbAgKu,6927,4.68,360,https://is.gd/9ptNhm,3390000," NDHAN431-004-140121-H",14/01/2021,06:00,9,4
+45,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/nAm21Z,6927,4.7,358,https://is.gd/9ptNhm,3390000," NDHAN431-005-280121-H",28/01/2021,06:00,9,4
+46,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/MUZspO,6927,4.7,359,https://is.gd/9ptNhm,3390000," NDHAN431-006-250221-H",25/02/2021,06:00,9,4
+47,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/PNsTGD,6927,4.69,360,https://is.gd/9ptNhm,3390000," NDHAN431-007-110321-H",11/03/2021,06:00,9,4
+48,"Hành trình về nguồn: Thanh Hóa - Nghệ An - Quảng Bình - Quảng Trị",https://is.gd/RUXiGZ,6927,4.7,358,https://is.gd/9ptNhm,3390000," NDHAN431-008-250321-H",25/03/2021,06:00,9,4
+49,"Hạ Long – Suối khoáng nóng Yoko Onsen Quang Hanh - Khu nghỉ dưỡng Legacy Yên Tử 5*",https://is.gd/XBn7ou,5288,4.61,368,https://is.gd/Da6Jgp,3990000," NDHAN317-007-191220XE",19/12/2020,00:00,9,2
+50,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh (Dịch vụ nâng cấp:Trải nghiệm dịch vụ 5*, tắm khoáng khung giờ Vàng)",https://is.gd/Hv2pvH,5288,4.65,364,https://is.gd/64pXoR,2890000," NDHAN316-029-191220XE",19/12/2020,00:00,6,2
+51,"Du Thuyền 4* Victory : Du thuyền nghỉ đêm trên Vịnh Hạ Long",https://is.gd/vrK9xz,5288,4.69,359,https://is.gd/DE1FOO,2690000," NDHAN315-053-201220-H",20/12/2020,08:00,2,2
+52,"Du thuyền vịnh Hạ Long – Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf trên Du thuyền 5 sao Stellar)",https://is.gd/LnQGWQ,5288,4.67,362,https://is.gd/LFyI2a,2990000," NDHAN308-433-201220-H",20/12/2020,08:00,2,2
+53,"Du Thuyền 5* HERITAGE BÌNH CHUẨN : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/b6uWWI,5288,4.69,360,https://is.gd/LFyI2a,3290000," NDHAN308-167-201220-H",20/12/2020,08:00,8,2
+54,"Du Thuyền 5* Scarlet Pearl : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/Hw0Evc,5288,4.67,361,https://is.gd/LFyI2a,3290000," NDHAN308-193-231220-H",23/12/2020,08:00,2,2
+55,"Du Thuyền 5* Heritage Bình Chuẩn : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/tIYOFJ,5288,4.67,361,https://is.gd/LFyI2a,3290000," NDHAN308-168-231220-H",23/12/2020,08:00,2,2
+56,"Du thuyền vịnh Hạ Long – Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf trên Du thuyền 5 sao Stellar)",https://is.gd/kHbeT7,5288,4.67,361,https://is.gd/LFyI2a,2990000," NDHAN308-044-251220-H",25/12/2020,08:00,2,2
+57,"Du Thuyền 5* AQUAMARINE : Du thuyền nghỉ đêm trên Vịnh Hạ Long",https://is.gd/Ci4CMq,5288,4.69,359,https://is.gd/107WAy,2690000," NDHAN306-025-251220-H",25/12/2020,08:00,8,2
+58,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh (Dịch vụ nâng cấp:Trải nghiệm dịch vụ 5*, tắm khoáng khung giờ Vàng)",https://is.gd/4NoHYi,5288,4.65,363,https://is.gd/64pXoR,2890000," NDHAN316-031-261220XE",26/12/2020,00:00,6,2
+59,"Du Thuyền 5* CAPELLA : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/jTlZYg,5288,4.7,358,https://is.gd/LFyI2a,3590000," NDHAN308-236-261220-H",26/12/2020,08:00,2,2
+60,"Du Thuyền 5* Aquamarine : Du thuyền nghỉ đêm trên Vịnh Hạ Long",https://is.gd/awPAag,5288,4.68,360,https://is.gd/DE1FOO,2690000," NDHAN315-026-261220-H",26/12/2020,08:00,2,2
+61,"Du Thuyền 4* Victory : Du thuyền nghỉ đêm trên Vịnh Hạ Long",https://is.gd/Ujk8M8,5288,4.68,360,https://is.gd/DE1FOO,2690000," NDHAN315-054-261220-H",26/12/2020,08:00,2,2
+62,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh - Trải nghiệm Thủy Phi Cơ ( Tắm khoáng khung giờ Vàng)",https://is.gd/omctHU,5288,4.68,361,https://is.gd/uFSV1V,3990000," NDHAN305-001-261220XE",26/12/2020,08:00,6,2
+63,"Du Thuyền 5* Scarlet Pearl : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/tnF4sF,5288,4.69,359,https://is.gd/LFyI2a,3290000," NDHAN308-194-261220-H",26/12/2020,08:00,2,2
+64,"Du Thuyền 5* Heritage Bình Chuẩn : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/FmGmoX,5288,4.69,359,https://is.gd/LFyI2a,3290000," NDHAN308-169-271220-H",27/12/2020,08:00,2,2
+65,"Du Thuyền 4* Victory : Du thuyền nghỉ đêm trên Vịnh Hạ Long",https://is.gd/vQn5qq,5288,4.69,359,https://is.gd/DE1FOO,2690000," NDHAN315-055-271220-H",27/12/2020,08:00,2,2
+66,"Du Thuyền 5* Heritage Bình Chuẩn : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/PKcwAi,5288,4.67,361,https://is.gd/LFyI2a,3290000," NDHAN308-170-301220-H",30/12/2020,08:00,2,2
+67,"Du Thuyền 5* Scarlet Pearl : Du thuyền nghỉ đêm trên Vịnh Lan Hạ",https://is.gd/VhuNlM,5288,4.68,360,https://is.gd/LFyI2a,3290000," NDHAN308-195-301220-H",30/12/2020,08:00,2,2
+68,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh (Dịch vụ nâng cấp:Trải nghiệm dịch vụ 5*, tắm khoáng khung giờ Vàng) Tết Dương Lịch",https://is.gd/EGmlAK,5288,4.63,370,https://is.gd/64pXoR,3890000," NDHAN316-032-311220XE",31/12/2020,00:00,6,2
+69,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh (Dịch vụ nâng cấp:Trải nghiệm dịch vụ 5*, tắm khoáng khung giờ Vàng) Tết Dương Lịch",https://is.gd/z8BwFm,5288,4.69,361,https://is.gd/64pXoR,3890000," NDHAN316-001-010121XE",01/01/2021,00:00,6,2
+70,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh - Trải nghiệm Thủy Phi Cơ ( Tắm khoáng khung giờ Vàng)",https://is.gd/EKz7VH,5288,4.7,358,https://is.gd/uFSV1V,3990000," NDHAN305-001-010121XE",01/01/2021,08:00,6,2
+71,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh (Dịch vụ nâng cấp:Trải nghiệm dịch vụ 5*, tắm khoáng khung giờ Vàng) Tết Dương Lịch",https://is.gd/LAavCg,5288,4.69,359,https://is.gd/64pXoR,3890000," NDHAN316-002-020121XE",02/01/2021,00:00,6,2
+72,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh - Trải nghiệm Thủy Phi Cơ ( Tắm khoáng khung giờ Vàng)",https://is.gd/BnJfuG,5288,4.7,358,https://is.gd/uFSV1V,3990000," NDHAN305-002-020121XE",02/01/2021,08:00,6,2
+73,"Du thuyền vịnh Hạ Long – Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf trên Du thuyền 5 sao Stellar) -Senior- Tết Dương Lịch 2021",https://is.gd/YHMvC0,5288,4.69,359,https://is.gd/LFyI2a,3490000," NDHAN308-002-020121-H",02/01/2021,08:00,4,2
+74,"Du Thuyền 5* PARADISE : Du thuyền nghỉ đêm trên Vịnh Hạ Long - Xe đón tiễn Limousine Dcar - Tết dương lịch 2021",https://is.gd/KKsIFF,5288,4.7,358,https://is.gd/DE1FOO,3290000," NDHAN315-002-020121-D",02/01/2021,12:00,6,2
+75,"Du thuyền Stellar Of The Sea 5* - Vịnh Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf)",https://is.gd/L09To0,5288,4.7,358,https://is.gd/LFyI2a,2990000," NDHAN308-003-030121-H",03/01/2021,08:00,4,2
+76,"Du thuyền Stellar Of The Sea 5* - Vịnh Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf)",https://is.gd/pW1Ai8,5288,4.7,358,https://is.gd/LFyI2a,2990000," NDHAN308-004-080121-H",08/01/2021,08:00,4,2
+77,"Hạ Long – Khu suối khoáng nóng Yoko Onsen Quang Hanh - Trải nghiệm Thủy Phi Cơ ( Tắm khoáng khung giờ Vàng)",https://is.gd/Fs3WzH,5288,4.69,359,https://is.gd/uFSV1V,3990000," NDHAN305-003-090121XE",09/01/2021,08:00,6,2
+78,"Du thuyền Stellar Of The Sea 5* - Vịnh Lan Hạ  : Đảo Tuần Châu – Khu vực Ao Ếch – Hang Sáng, Tối (Trải nghiệm câu mực đen, chèo thuyền Kayak , chơi golf)",https://is.gd/HhjWic,5288,4.7,359,https://is.gd/LFyI2a,2990000," NDHAN308-005-090121-H",09/01/2021,08:00,4,2
+79,"Đà Nẵng - Bà Nà - Hội An",https://is.gd/BugddU,6232,4.69,359,https://is.gd/eDCszu,4390000," NDHAN506-015-251220VJ-D",25/12/2020,10:20,9,4
+80,"Đà Nẵng - Hội An-Nghỉ dưỡng tại Melia Resort",https://is.gd/jCnKDn,6232,4.7,359,https://is.gd/hjYs4a,4690000," NDHAN504-231-251220VJ-V",25/12/2020,10:50,9,3
+81,"Đà Nẵng- Bà Nà-Hội An(Vinpearl Nam Hội An Resort 5 *)",https://is.gd/zlSyHJ,6232,4.69,359,https://is.gd/yuNi10,5990000," NDHAN505-159-261220VN-D",26/12/2020,09:00,9,3
+82,"Đà Nẵng - Bà Nà - Hội An (Khách sạn 4 *) -Tết Dương Lịch ***",https://is.gd/T3poyE,6232,4.66,363,https://is.gd/XuhVqz,7950000," NDHAN508-020-311220VN-D",31/12/2020,10:00,9,4
+83,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/8OA5y7,6232,4.68,360,https://is.gd/eDCszu,4290000," NDHAN506-001-070121VJ-D",07/01/2021,10:20,9,4
+84,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/YkUqzk,6232,4.68,360,https://is.gd/hjYs4a,3990000," NDHAN504-002-080121VJ-V",08/01/2021,10:20,9,3
+85,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/6zZz0h,6232,4.7,359,https://is.gd/hjYs4a,3990000," NDHAN504-010-090121VJ-V",09/01/2021,10:20,9,3
+86,"Đà Nẵng - Bà Nà - Hội An- Khách sạn 4 *",https://is.gd/UrgrXy,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-008-090121VJ-D",09/01/2021,12:20,9,4
+87,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/gIO3op,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-002-140121VJ-D",14/01/2021,10:20,9,4
+88,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/4pIoYi,6232,4.69,360,https://is.gd/hjYs4a,3990000," NDHAN504-003-150121VJ-V",15/01/2021,10:20,9,3
+89,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/yt5tUJ,6232,4.7,358,https://is.gd/hjYs4a,3990000," NDHAN504-011-160121VJ-V",16/01/2021,10:20,9,3
+90,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/PbEjPY,6232,4.69,359,https://is.gd/eDCszu,4290000," NDHAN506-009-160121VJ-D",16/01/2021,12:20,9,4
+91,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/Yo93TX,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-003-210121VJ-D",21/01/2021,10:20,9,4
+92,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/cJptCo,6232,4.69,359,https://is.gd/hjYs4a,3990000," NDHAN504-004-220121VJ-V",22/01/2021,10:20,9,3
+93,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/8iMd1M,6232,4.7,358,https://is.gd/hjYs4a,3990000," NDHAN504-012-230121VJ-V",23/01/2021,10:20,9,3
+94,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/ijGypf,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-010-230121VJ-D",23/01/2021,12:20,9,4
+95,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/tuCoFa,6232,4.68,360,https://is.gd/eDCszu,4290000," NDHAN506-004-040321VJ-D",04/03/2021,10:20,9,4
+96,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/vRTEvQ,6232,4.7,358,https://is.gd/hjYs4a,3990000," NDHAN504-005-050321VJ-V",05/03/2021,10:20,9,3
+97,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/4DwrUd,6232,4.69,359,https://is.gd/hjYs4a,3990000," NDHAN504-013-060321VJ-V",06/03/2021,10:20,9,3
+98,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/xjCRAw,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-011-060321VJ-D",06/03/2021,12:20,9,4
+99,"Đà Nẵng - Bà Nà - Hội An-Khách sạn 4 *",https://is.gd/P6w9bu,6232,4.7,358,https://is.gd/eDCszu,4290000," NDHAN506-005-110321VJ-D",11/03/2021,10:20,9,4
+100,"Đà Nẵng - Hội An - Khách sạn Radisson 5 *",https://is.gd/f159XE,6232,4.7,359,https://is.gd/hjYs4a,3990000," NDHAN504-006-120321VJ-V",12/03/2021,10:20,9,3
+101,"Miền Tây:Cần Thơ - Châu Đốc - Rừng Tràm Trà Sư - Hà Tiên- Bay Vietnam Airlines",https://is.gd/uQTKyX,6230,4.69,359,https://is.gd/mfNTao,5790000," NDHAN775-019-261220VN-D",26/12/2020,07:00,3,4
+102,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng - Bay Vietnam Airlines - ( trải nghiệm khách sạn 4*& 5*) - Tết Dương Lịch 2021 ***",https://is.gd/0XK7TI,6230,4.67,363,https://is.gd/DeuGH6,8690000," NDHAN776-450-311220VN-D",31/12/2020,07:00,9,4
+103,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*) *",https://is.gd/d4VYpL,6230,4.66,363,https://is.gd/A5qgsc,5290000," NDHAN790-002-060121QH-D",06/01/2021,07:25,6,4
+104,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/QmJUCZ,6230,4.65,364,https://is.gd/NWrBJn,5590000," NDHAN774-001-070121VJ-V",07/01/2021,08:30,9,4
+105,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/BLTjJ1,6230,4.68,360,https://is.gd/NWrBJn,5590000," NDHAN774-002-140121VJ-V",14/01/2021,08:30,9,4
+106,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/DhI7kH,6230,4.7,361,https://is.gd/NWrBJn,5590000," NDHAN774-003-210121VJ-V",21/01/2021,08:30,9,4
+107,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/8mDZo3,6230,4.68,360,https://is.gd/NWrBJn,5590000," NDHAN774-004-040321VJ-V",04/03/2021,08:30,9,4
+108,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/7WeU4L,6230,4.68,360,https://is.gd/NWrBJn,5590000," NDHAN774-005-110321VJ-V",11/03/2021,08:30,9,4
+109,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/V7Lx4R,6230,4.7,359,https://is.gd/NWrBJn,5590000," NDHAN774-006-180321VJ-V",18/03/2021,08:30,9,4
+110,"Miền Tây : Cần Thơ - Sóc Trăng - Nhà Công Tử Bạc Liêu - Đất Mũi Cà Mau - Chợ Nổi Cái Răng ( trải nghiệm khách sạn 4*& 5*)",https://is.gd/Klyxck,6230,4.66,363,https://is.gd/NWrBJn,5590000," NDHAN774-007-250321VJ-V",25/03/2021,08:30,9,4
+111,"Đà Lạt - Cà Phê Mê Linh - Đỉnh Lang Biang - Hồ Tuyền Lâm - TOUR SKM MỪNG SINH NHẬT CÔNG TY 25 TUỔI",https://is.gd/jdjrdj,6269,4.63,368,https://is.gd/op9Biq,3800000," NDHAN614-018-211220VN-H",21/12/2020,09:35,9,3
+112,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/RKzv9Q,6269,4.65,365,https://is.gd/gUyJgt,6590000," NDHAN771-244-261220VJ-D",26/12/2020,10:50,9,4
+113,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/N99Qw3,6269,4.67,364,https://is.gd/JleID6,6690000," NDHAN542-001-060121VJ-D",06/01/2021,07:30,9,5
+114,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/7wnO37,6269,4.63,367,https://is.gd/gUyJgt,6590000," NDHAN771-001-070121VJ-D",07/01/2021,10:50,9,4
+115,"Liên tuyến: Nha Trang - Đà Lạt - Hòn Mun - Đỉnh Lang Biang - Phim trường Happy Hill",https://is.gd/7uC9gr,6269,4.65,363,https://is.gd/JleID6,5990000," NDHAN542-002-130121VJ-D",13/01/2021,07:30,9,5
+116,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/hVKb3F,6269,4.67,362,https://is.gd/gUyJgt,6590000," NDHAN771-002-140121VJ-D",14/01/2021,10:50,9,4
+117,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/Hkr8II,6269,4.68,360,https://is.gd/JleID6,6690000," NDHAN542-003-200121VJ-D",20/01/2021,07:30,9,5
+118,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/ZBeltF,6269,4.67,364,https://is.gd/gUyJgt,6590000," NDHAN771-003-210121VJ-D",21/01/2021,10:50,9,4
+119,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/Rel1fW,6269,4.7,360,https://is.gd/JleID6,6690000," NDHAN542-004-030321VJ-D",03/03/2021,07:30,9,5
+120,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/50rTvJ,6269,4.64,364,https://is.gd/gUyJgt,6590000," NDHAN771-004-040321VJ-D",04/03/2021,10:50,9,4
+121,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/5qwnNr,6269,4.7,358,https://is.gd/JleID6,6690000," NDHAN542-005-100321VJ-D",10/03/2021,07:30,9,5
+122,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/GOXiEq,6269,4.68,360,https://is.gd/gUyJgt,6590000," NDHAN771-005-110321VJ-D",11/03/2021,10:50,9,4
+123,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/ubaBvJ,6269,4.68,360,https://is.gd/JleID6,6690000," NDHAN542-006-170321VJ-D",17/03/2021,07:30,9,5
+124,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/gUYznA,6269,4.68,361,https://is.gd/gUyJgt,6590000," NDHAN771-006-180321VJ-D",18/03/2021,10:50,9,4
+125,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/vcRdVl,6269,4.69,359,https://is.gd/JleID6,6990000," NDHAN542-007-240321VJ-D",24/03/2021,07:30,9,5
+126,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá,Hàng Không Vietjet",https://is.gd/O3jxOx,6269,4.68,361,https://is.gd/gUyJgt,6590000," NDHAN771-007-250321VJ-D",25/03/2021,10:50,9,4
+127,"Liên tuyến: Nha Trang - Đà Lạt -  KS 4 sao",https://is.gd/DA9SYa,6269,4.68,360,https://is.gd/JleID6,6990000," NDHAN542-008-310321VJ-D",31/03/2021,07:30,9,5
+128,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 3 sao)",https://is.gd/PM8OWQ,6265,4.53,379,https://is.gd/tfkqj5,2290000," NDHAN155-011-181220-H",18/12/2020,06:00,9,3
+129,"Sapa - Hàm Rồng - Bản Cát Cát- khách sạn KK 5 sao)",https://is.gd/c98kbw,6265,4.58,373,https://is.gd/n7FsR7,2950000," NDHAN150-020-181220-D",18/12/2020,06:00,9,3
+130,"Sapa - Hàm Rồng - Bản Cát Cát (Khách sạn 4 sao) - Tặng vé tàu lửa mường hoa",https://is.gd/7L8X9L,6265,4.61,371,https://is.gd/gabzDc,2850000," NDHAN151-286-191220-H",19/12/2020,06:00,9,3
+131,"Sapa - Hàm Rồng - Bản Cát Cát (Khách sạn 4 sao) - Tặng vé tàu lửa mường hoa",https://is.gd/Az3adX,6265,4.61,369,https://is.gd/gabzDc,2850000," NDHAN151-309-241220-H",24/12/2020,06:00,9,3
+132,"Sapa - Khu du lịch Fansipan  (Khách sạn KK 5 sao)",https://is.gd/gjE0Ic,6265,4.58,375,https://is.gd/n7FsR7,2950000," NDHAN150-021-251220-D",25/12/2020,06:00,9,3
+133,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 3 sao)",https://is.gd/KdGo4U,6265,4.65,364,https://is.gd/tfkqj5,2290000," NDHAN155-012-251220-H",25/12/2020,06:00,9,3
+134,"Sapa - Hàm Rồng - Bản Cát Cát (Khách sạn 4 sao) - Tặng vé tàu lửa mường hoa",https://is.gd/AvusQ5,6265,4.66,364,https://is.gd/gabzDc,2850000," NDHAN151-412-251220-H",25/12/2020,06:00,9,3
+135,"Sapa - Hàm Rồng - Bản Cát Cát (Khách sạn 4 sao) - Tặng vé tàu lửa mường hoa",https://is.gd/Mpm1yr,6265,4.64,366,https://is.gd/gabzDc,2850000," NDHAN151-287-261220-H",26/12/2020,06:00,9,3
+136,"Sapa - Hàm Rồng - Bản Cát Cát (Khách sạn 4 sao) - Tặng vé tàu lửa mường hoa",https://is.gd/uykYL8,6265,4.68,360,https://is.gd/gabzDc,2850000," NDHAN151-500-271220-H",27/12/2020,06:00,9,3
+137,"Sapa - Hàm Rồng - Fansipan - Cát Cát - Secret Garden - thiên đường sống ảo giữa lòng phố núi (Silk Path 5 sao) - Tết Dương Lịch 2021",https://is.gd/neXk5Y,6265,4.61,369,https://is.gd/n7FsR7,5200000," NDHAN150-458-311220-D",31/12/2020,06:00,9,3
+138,"Sapa - Hàm Rồng - Fansipan - Cát Cát - Secret Garden - thiên đường sống ảo giữa lòng phố núi (Khách sạn KK 5 sao) - Tết dương lịch 2021",https://is.gd/bQgG86,6265,4.59,373,https://is.gd/n7FsR7,4600000," NDHAN150-022-311220-D",31/12/2020,06:00,9,3
+139,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 3 sao) - Tết dương lịch 2021",https://is.gd/IbIDuv,6265,4.61,371,https://is.gd/tfkqj5,3290000," NDHAN155-015-311220-D",31/12/2020,06:00,9,3
+140,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 3 sao) - Tết dương lịch 2021",https://is.gd/WKGoWK,6265,4.63,368,https://is.gd/tfkqj5,3290000," NDHAN155-510-311220-D",31/12/2020,06:00,9,3
+141,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 4 sao) - Tết dương lịch 2021",https://is.gd/HSCHnm,6265,4.63,365,https://is.gd/gabzDc,3690000," NDHAN151-500-311220-D",31/12/2020,06:00,9,3
+142,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 4 sao) - Tết dương lịch 2021",https://is.gd/smXOM3,6265,4.65,364,https://is.gd/gabzDc,3690000," NDHAN151-520-311220-D",31/12/2020,06:00,9,3
+143,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 4 sao) - Tết dương lịch 2021",https://is.gd/5IEhY6,6265,4.68,360,https://is.gd/gabzDc,3890000," NDHAN151-100-010121-D",01/01/2021,06:00,9,3
+144,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 4 sao) - Tết dương lịch 2021",https://is.gd/Hk6CZp,6265,4.68,361,https://is.gd/gabzDc,3690000," NDHAN151-001-010121-D",01/01/2021,06:00,9,3
+145,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 4 sao) - Tết dương lịch 2021",https://is.gd/Ym3g2Q,6265,4.7,358,https://is.gd/gabzDc,3890000," NDHAN151-200-010121-D",01/01/2021,06:00,9,3
+146,"Sapa - Hàm Rồng - Fansipan - Cát Cát (Khách sạn 3 sao) - Tết dương lịch 2021",https://is.gd/qrHH1e,6265,4.68,360,https://is.gd/tfkqj5,3290000," NDHAN155-001-010121-D",01/01/2021,06:00,9,3
+147,"Sapa - Hàm Rồng - Fansipan - Cát Cát - Secret Garden - thiên đường sống ảo giữa lòng phố núi (Silk Path 5 sao) - Tết Dương Lịch 2021",https://is.gd/ik51xx,6265,4.66,362,https://is.gd/n7FsR7,5200000," NDHAN150-100-010121-D",01/01/2021,06:00,6,3
+148,"Sapa - Hàm Rồng - Fansipan - Cát Cát - Secret Garden - thiên đường sống ảo giữa lòng phố núi (Khách sạn KK 5 sao) - Tết dương lịch 2021",https://is.gd/fpQvMq,6265,4.66,365,https://is.gd/n7FsR7,4600000," NDHAN150-001-010121-D",01/01/2021,06:00,9,3
+149,"Nha Trang - Thành phố biển Mộng Mơ - Ks 5* InterContinental Nha Trang",https://is.gd/NQ7Spb,5425,4.7,360,https://is.gd/yxSaAm,5690000," NDHAN548-037-261220VN-D",26/12/2020,14:00,9,3
+150,"Nha Trang - Ninh Chữ - Đồng Cừu - Vĩnh Hy - TOUR SKM MỪNG SINH NHẬT CÔNG TY 25 TUỔI",https://is.gd/H8sOTw,5425,4.69,360,https://is.gd/gfuFns,4990000," NDHAN544-030-271220VN-H",27/12/2020,08:40,9,4
+151,"Phú Quốc -  Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá (Khách Sạn 4*  ,Bamboo Airways) -Tết Dương Lịch 2021",https://is.gd/rc5Vyx,5425,4.64,368,https://is.gd/D9huYe,7490000," NDHAN772-029-311220QH-D",31/12/2020,13:55,9,4
+152,"Phú Quốc -  Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá (Khách Sạn 4*,Bamboo Airways) - Tết Dương Lịch 2021",https://is.gd/oi9OsY,5425,4.66,362,https://is.gd/D9huYe,7990000," NDHAN772-049-020121QH-D",02/01/2021,07:55,9,4
+153,"Phú Quốc -  Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá (Khách Sạn 5*,Bamboo Airways)",https://is.gd/549Zdk,5425,4.68,360,https://is.gd/D9huYe,6990000," NDHAN772-039-070121QH-D",07/01/2021,07:55,9,4
+154,"Phú Quốc -  Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá (Khách Sạn 5*,Bamboo Airways)",https://is.gd/1TSJKf,5425,4.68,360,https://is.gd/D9huYe,6990000," NDHAN772-050-090121QH-D",09/01/2021,07:55,9,4
+155,"Phú Quốc -  Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá (Khách Sạn 5*,Bamboo Airways)",https://is.gd/Bzuoxu,5425,4.68,360,https://is.gd/D9huYe,6990000," NDHAN772-040-140121QH-D",14/01/2021,07:55,9,4
+156,"Phú Quốc - Thiên đường biển Tây Nam - Bãi sao - Thử Tài Câu Cá - Tết Dương Lịch 2021***",https://is.gd/pmXJ8O,1499,4.68,360,https://is.gd/RmBg7v,9990000," NDHAN770-114-311220VN-H",31/12/2020,09:30,9,4
+157,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/7KDJMV,1499,4.68,360,https://is.gd/DvWjFS,4990000," NDHAN782-002-080121VJ-V",08/01/2021,10:50,9,3
+158,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/dFOlzE,1499,4.69,359,https://is.gd/DvWjFS,4990000," NDHAN782-010-090121VJ-V",09/01/2021,10:50,9,3
+159,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/nqm8yC,1499,4.7,358,https://is.gd/DvWjFS,4990000," NDHAN782-003-150121VJ-V",15/01/2021,10:50,9,3
+160,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/IKIyI4,1499,4.7,359,https://is.gd/DvWjFS,4990000," NDHAN782-011-160121VJ-V",16/01/2021,10:50,9,3
+161,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/NclO3v,1499,4.7,359,https://is.gd/DvWjFS,4990000," NDHAN782-004-220121VJ-V",22/01/2021,10:50,9,3
+162,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/30kzR2,1499,4.69,360,https://is.gd/DvWjFS,4990000," NDHAN782-012-230121VJ-V",23/01/2021,10:50,9,3
+163,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/j4i8O1,1499,4.67,361,https://is.gd/DvWjFS,4990000," NDHAN782-005-050321VJ-V",05/03/2021,10:50,9,3
+164,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/B3IYXe,1499,4.68,360,https://is.gd/DvWjFS,4990000," NDHAN782-013-060321VJ-V",06/03/2021,10:50,9,3
+165,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/0bpkDx,1499,4.7,358,https://is.gd/DvWjFS,4990000," NDHAN782-006-120321VJ-V",12/03/2021,10:50,9,3
+166,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/s7ZT25,1499,4.69,359,https://is.gd/DvWjFS,4990000," NDHAN782-014-130321VJ-V",13/03/2021,10:50,9,3
+167,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/7QRpIL,1499,4.69,359,https://is.gd/DvWjFS,4990000," NDHAN782-007-190321VJ-V",19/03/2021,10:50,9,3
+168,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/tVFYm5,1499,4.69,359,https://is.gd/DvWjFS,4990000," NDHAN782-015-200321VJ-V",20/03/2021,10:50,9,3
+169,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/TX4tjO,1499,4.7,358,https://is.gd/DvWjFS,4990000," NDHAN782-008-260321VJ-V",26/03/2021,10:50,9,3
+170,"Phú Quốc - Ngắm Hoàng Hôn Tại Sunset Sanato - Bãi Sao - Thiền Viện Trúc Lâm Hộ Quốc - Bay Vietjet",https://is.gd/0qEXUq,1499,4.69,359,https://is.gd/DvWjFS,4990000," NDHAN782-016-270321VJ-V",27/03/2021,10:50,9,3
+171,"Phú Yên - Quy Nhơn (Khách sạn 4&3*) - Việt Nam Dưới Cánh Chim Bay",https://is.gd/vaKG7S,6268,4.28,422,https://is.gd/S6AfHp,3590000," NDSGN687-081-161220VJ-D-F-7",16/12/2020,05:40,6,3
+172,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/82am3b,6268,4.59,374,https://is.gd/S6AfHp,3590000," NDSGN687-033-201220VJ-D-F-7",20/12/2020,05:40,9,3
+173,"Phú Yên - Quy Nhơn (Khách sạn 4&3*) - Lễ Giáng Sinh",https://is.gd/sGhhmA,6268,4.4,396,https://is.gd/S6AfHp,3790000," NDSGN687-084-231220VJ-D-F-7",23/12/2020,05:40,9,3
+174,"Phú Yên - Quy Nhơn (Khách sạn 4*) - Việt Nam Dưới Cánh Chim Bay",https://is.gd/fZ3vEO,6268,4.5,386,https://is.gd/S6AfHp,4390000," NDSGN687-085-261220VJ-D-F",26/12/2020,05:40,9,3
+175,"Phú Yên - Quy Nhơn (Khách sạn 4*) - Việt Nam Dưới Cánh Chim Bay",https://is.gd/pmGhCe,6268,4.53,379,https://is.gd/S6AfHp,3990000," NDSGN687-086-271220VJ-D-F",27/12/2020,05:40,9,3
+176,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/EXPUTL,6268,4.6,371,https://is.gd/S6AfHp,3590000," NDSGN687-003-060121VJ-D-F",06/01/2021,06:05,9,3
+177,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/FKwchj,6268,4.58,374,https://is.gd/S6AfHp,3990000," NDSGN687-004-080121VJ-D-F",08/01/2021,06:05,9,3
+178,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4&3*. Tour Tiêu Chuẩn)",https://is.gd/p7aap8,6268,4.67,361,https://is.gd/QlJVUJ,4390000," NDSGN593-001-090121VJ-D",09/01/2021,05:40,9,4
+179,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4* trọn tour. Tour Tiêu Chuẩn)",https://is.gd/64YLMj,6268,4.69,359,https://is.gd/QlJVUJ,4990000," NDSGN593-001-090121VJ-D-1",09/01/2021,05:40,10,4
+180,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/XFUUzw,6268,4.63,368,https://is.gd/S6AfHp,3590000," NDSGN687-005-100121VJ-D-F",10/01/2021,06:05,9,3
+181,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/DZvcSf,6268,4.61,368,https://is.gd/S6AfHp,3590000," NDSGN687-006-130121VJ-D-F",13/01/2021,06:05,9,3
+182,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/SxXzro,6268,4.65,363,https://is.gd/S6AfHp,3990000," NDSGN687-007-150121VJ-D-F",15/01/2021,06:05,9,3
+183,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4* trọn tour. Tour Tiêu Chuẩn)",https://is.gd/Elbv0D,6268,4.7,358,https://is.gd/QlJVUJ,4990000," NDSGN593-002-160121VJ-D-1",16/01/2021,05:40,10,4
+184,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4&3*. Tour Tiêu Chuẩn)",https://is.gd/r4YdMA,6268,4.7,358,https://is.gd/QlJVUJ,4390000," NDSGN593-002-160121VJ-D",16/01/2021,05:40,9,4
+185,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/cOFaG1,6268,4.65,364,https://is.gd/S6AfHp,3590000," NDSGN687-008-170121VJ-D-F",17/01/2021,06:05,9,3
+186,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/ljY4UI,6268,4.67,367,https://is.gd/S6AfHp,3590000," NDSGN687-009-200121VJ-D-F",20/01/2021,06:05,9,3
+187,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/m1vz94,6268,4.65,363,https://is.gd/S6AfHp,3990000," NDSGN687-010-220121VJ-D-F",22/01/2021,06:05,9,3
+188,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4&3*. Tour Tiêu Chuẩn)",https://is.gd/GiQZ63,6268,4.7,358,https://is.gd/QlJVUJ,4390000," NDSGN593-003-230121VJ-D",23/01/2021,05:40,9,4
+189,"Phú Yên - Quy Nhơn - Eo Gió (Khách sạn 4* trọn tour. Tour Tiêu Chuẩn)",https://is.gd/2Ge3lF,6268,4.7,358,https://is.gd/QlJVUJ,4990000," NDSGN593-003-230121VJ-D-1",23/01/2021,05:40,10,4
+190,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/o8HF7S,6268,4.68,362,https://is.gd/S6AfHp,3590000," NDSGN687-011-240121VJ-D-F",24/01/2021,06:05,9,3
+191,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Giá Sốc)",https://is.gd/VOHHHU,6268,4.65,363,https://is.gd/S6AfHp,3990000," NDSGN687-012-270121VJ-D-F",27/01/2021,06:05,9,3
+192,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Tiêu Chuẩn) - Mùng 2 Tết",https://is.gd/ZwoDzm,6268,4.48,383,https://is.gd/S6AfHp,7990000," NDSGN687-013-130221VJ-D",13/02/2021,05:40,9,3
+193,"Quy Nhơn - Phú Yên (Nghỉ dưỡng FLC Luxury 5*) - Mùng 2 Tết",https://is.gd/R86CYm,6268,4.7,358,https://is.gd/5CfWt0,11390000," NDSGN595-001-130221VJ-D",13/02/2021,11:45,9,4
+194,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Tiêu Chuẩn)  - Mùng 3 Tết",https://is.gd/HBswho,6268,4.54,378,https://is.gd/S6AfHp,7990000," NDSGN687-014-140221VJ-D",14/02/2021,05:40,9,3
+195,"Quy Nhơn - Phú Yên (Khách sạn 3*. Tour Tiết Kiệm) - Mùng 3 Tết",https://is.gd/eF47Nz,6268,4.68,360,https://is.gd/KC2Cu5,8790000," NDSGN591-002-140221VJ-V",14/02/2021,11:45,9,4
+196,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Tiêu Chuẩn) - Mùng 4 Tết",https://is.gd/WIZv5Z,6268,4.6,370,https://is.gd/S6AfHp,7990000," NDSGN687-015-150221VJ-D",15/02/2021,05:40,9,3
+197,"Quy Nhơn - Phú Yên (Khách sạn 3*. Tour Tiết Kiệm) - Mùng 4 Tết",https://is.gd/vSdbHo,6268,4.7,358,https://is.gd/KC2Cu5,8790000," NDSGN591-003-150221VJ-V",15/02/2021,11:45,9,4
+198,"Phú Yên - Quy Nhơn (Nghỉ dưỡng 2 đêm FLC Luxury 5*)  - Mùng 5 Tết",https://is.gd/VP1NIS,6268,4.65,367,https://is.gd/LCGANH,8590000," NDSGN685-001-160221VJ-D",16/02/2021,05:40,9,3
+199,"Phú Yên - Quy Nhơn (Khách sạn 4&3*. Tour Tiêu Chuẩn)  - Mùng 6 Tết",https://is.gd/58nyDc,6268,4.65,366,https://is.gd/S6AfHp,6590000," NDSGN687-017-170221VJ-D",17/02/2021,05:40,4,3
+200,"Quy Nhơn - Phú Yên (Khách sạn 3*. Tour Tiết Kiệm) - Mùng 6 Tết",https://is.gd/TOKxRZ,6268,4.69,359,https://is.gd/KC2Cu5,7990000," NDSGN591-004-170221VJ-V",17/02/2021,11:45,9,4

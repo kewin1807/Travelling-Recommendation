@@ -1,0 +1,1001 @@
+id,name,hotel_id,address,link_hotel,city_id,quality,rating,number_people_rating,description,distance,image,price
+1,"Amigo Hue Hotel",hotel_261787,Huế,https://is.gd/Wowzu1,6231,2,8.5,623,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.594314813614,16.4699942671879",https://is.gd/yRNZqN,198000
+2,"Vinpearl Hotel Hue",hotel_3990894,Huế,https://is.gd/yVqTQp,6231,5,9.4,739,"Phòng Deluxe Có Giường Cỡ King","107.594339,16.463738",https://is.gd/GDv1PI,1470000
+3,"Century Riverside Hue",hotel_261782,Huế,https://is.gd/tqSrhz,6231,4,8,449,"Phòng Deluxe Nhìn ra Khu vườn","107.593837380409,16.4706475930836",https://is.gd/SoQIpp,682500
+4,"Alba Wellness Resort By Fusion",hotel_2975980,Huế,https://is.gd/IgyK1j,6231,5,9.1,170,"Gói Spa Và Onsen - Phòng Deluxe","107.394263825378,16.4866809184294",https://is.gd/3AzSVp,2317189
+5,"Hue Serene Palace Hotel",hotel_582961,Huế,https://is.gd/3i5BDo,6231,3,9.1,1083,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.597286701202,16.4703466519013",https://is.gd/EvBSPg,512000
+6,"The Scarlett Boutique Hotel",hotel_1881189,Huế,https://is.gd/lyqvRY,6231,3,9.6,1329,"Phòng Passion","107.594556802447,16.4663059379624",https://is.gd/w7sAqR,626971
+7,"Hue Nino Hotel",hotel_264181,Huế,https://is.gd/XvpNO8,6231,3,9,1533,"Phòng Tiêu Chuẩn Giường Đôi","107.595814168453,16.4718539252684",https://is.gd/iXhxqO,259000
+8,"Angsana Lang Co",hotel_426581,"Lăng Cô",https://is.gd/6FwFGh,6231,5,8.9,201,"Phòng Grand 2 Giường Đơn có Ban công và Nhìn ra Vườn","107.954460382461,16.3394342071659",https://is.gd/X8bcQr,3479259
+9,"Pilgrimage Village Boutique Resort & Spa",hotel_235127,Huế,https://is.gd/7fl3NP,6231,5,9.3,674,"Biệt Thự Với Lối Dẫn Ra Hồ Bơi - Chỉ Dành Cho Người Lớn","107.58060336113,16.4354008614919",https://is.gd/etQVWj,1742306
+10,"Huong Giang Hotel Resort & Spa",hotel_235269,Huế,https://is.gd/MXNljt,6231,4,8.4,638,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Vườn","107.594743967056,16.4716661597715",https://is.gd/0X2VfP,1138500
+11,"Beaulieu Boutique Hotel",hotel_2384668,Huế,https://is.gd/89fmM4,6231,3,9.1,2116,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","107.593933939934,16.4698805297405",https://is.gd/9bpMMD,363375
+12,"Rosaleen Boutique Hotel",hotel_246018,Huế,https://is.gd/lkE6Sh,6231,3,9.2,1818,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.595366239548,16.4695364233184",https://is.gd/qPl4kE,622080
+13,"Poetic Hue Hotel & Spa",hotel_2069098,Huế,https://is.gd/JQrpZq,6231,0,8.5,312,"Phòng 2 Giường Đơn","107.596398210641,16.4702658124736",https://is.gd/WmXSxk,229500
+14,"Vedana Lagoon Resort & Spa",hotel_266027,Huế,https://is.gd/5TKnoq,6231,5,9.4,404,"Phòng Deluxe Nhìn Ra Đầm Phá","107.859864234924,16.2876630387088",https://is.gd/T9yUPO,2484928
+15,"Villa Hue Hotel",hotel_776000,Huế,https://is.gd/OLsUuf,6231,4,9,300,"Phòng Superior 3 Người","107.595940232277,16.4650556694893",https://is.gd/DUDtRK,1078500
+16,"Alba Hotel",hotel_265476,Huế,https://is.gd/RNKYaN,6231,3,8.7,420,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.590099573008,16.461707182968",https://is.gd/7WJ4VJ,536000
+17,"SH Hotel",hotel_2890181,Huế,https://is.gd/QmNMVz,6231,2,7.1,461,"Phòng Deluxe Giường Đôi","107.588388,16.461398",https://is.gd/yLsyhZ,153000
+18,"Sunshine Hostel Hue",hotel_2418257,Huế,https://is.gd/8zS0nO,6231,1,8.5,1361,"Phòng Giường Đôi","107.594942450523,16.46844835656",https://is.gd/lPnVeF,243000
+19,"The Sunriver Boutique Hotel",hotel_264445,Huế,https://is.gd/wNU3g2,6231,3,7.7,546,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","107.59394466877,16.4687339078592",https://is.gd/RZPj6a,1311000
+20,"Banyan Tree Lang Co",hotel_426582,"Lăng Cô",https://is.gd/ExnB7K,6231,5,9.1,106,"Biệt thự 1 Phòng ngủ bên Đầm phá có Hồ bơi Riêng","107.953459918499,16.3379948884788",https://is.gd/5NPzNx,12043591
+21,"Cherish Hue Hotel",hotel_249258,Huế,https://is.gd/cD1nTq,6231,4,8.8,1694,"Phòng Giường Đôi Nhìn Ra Cảnh Thành Phố","107.594784200191,16.4654908884985",https://is.gd/5DfHV6,826000
+22,"Thien Phu Hotel",hotel_3259650,Huế,https://is.gd/eWfNOG,6231,1,7.5,250,"Phòng Giường Đôi","107.5872751,16.4540373",https://is.gd/oKQL9C,221400
+23,"MyFa House",hotel_6544051,Huế,https://is.gd/5Ed5Il,6231,3,9.5,36,"Phòng có Giường cỡ King Nhìn ra Vườn","107.601772,16.462543",https://is.gd/ivHGsf,360000
+24,"Senna Hue Hotel",hotel_5612679,Huế,https://is.gd/vR9tsf,6231,5,9.1,30,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.59402,16.465979",https://is.gd/2QYHER,1307900
+25,"Amona Hotel",hotel_1980186,Huế,https://is.gd/l50Y0K,6231,2,8.6,322,"Phòng Superior Giường Đôi","107.595877498776,16.472295165538",https://is.gd/3S3S4K,348000
+26,"Sunshine Hostel 3 Huế",hotel_4207969,Huế,https://is.gd/9aPduU,6231,0,8.4,759,"Phòng Giường Đôi","107.59636,16.470259",https://is.gd/V5PxTB,250750
+27,"Na Na Homestay",hotel_6019732,Huế,https://is.gd/gm0jvJ,6231,0,9.1,52,"Phòng Deluxe","107.590863,16.463712",https://is.gd/XCaIad,350000
+28,"Silk Path Grand Hue Hotel & Spa",hotel_257693,Huế,https://is.gd/5FTYI6,6231,5,8.8,11,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.580018639565,16.4578378884416",https://is.gd/l1wMd8,1884318
+29,"Ancient Huế Garden Houses",hotel_5016369,"Thôn Dương Xuân Hạ",https://is.gd/TfDhjn,6231,0,9.8,7,"Phòng 2 Giường đơn có tầm nhìn","107.562569,16.462335",https://is.gd/PML2BH,3465000
+30,"Gold Hotel",hotel_245159,Huế,https://is.gd/b90IWX,6231,4,7.7,467,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.598625123501,16.4685847219268",https://is.gd/j7wwSN,380000
+31,"The G.Hotel Hue",hotel_4778947,Huế,https://is.gd/62O4dK,6231,3,9,147,"Phòng Superior Giường Đôi","107.596873262566,16.4717476459993",https://is.gd/6fDlra,574000
+32,"The Chill - Homestay In Hue",hotel_5171819,Huế,https://is.gd/pKhXzM,6231,3,9.5,193,"Phòng Tiêu Chuẩn Giường Đôi","107.599345,16.475215",https://is.gd/VfyLO9,380000
+33,"Hue Sweethouse 2 Homestay",hotel_4083342,Huế,https://is.gd/8VtS4Y,6231,0,9.7,612,"Phòng Deluxe Giường Đôi Có Ban Công","107.597254136246,16.4725192835407",https://is.gd/aBP1DD,405000
+34,"Muong Thanh Holiday Hue Hotel",hotel_235886,Huế,https://is.gd/lxfykN,6231,4,8,141,"Phòng Deluxe Có Giường Cỡ King","107.593716681004,16.4699711178047",https://is.gd/8o2g2V,999000
+35,"Sapphire Hotel Hue",hotel_4625702,Huế,https://is.gd/ByjxW4,6231,2,9.1,368,"Phòng Có Giường Cỡ King","107.596155,16.47079",https://is.gd/hvGc6P,363750
+36,"Nice Hue Hotel",hotel_3814733,Huế,https://is.gd/12cEa0,6231,0,9.1,978,"Phòng Superior Deluxe Đôi hoặc 2 Giường đơn","107.589320568123,16.4607392367221",https://is.gd/dYRuEO,356000
+37,"Thành đạt Homestay",hotel_5403156,Huế,https://is.gd/7BwduG,6231,0,7.4,111,"Phòng Deluxe","107.589027,16.461486",https://is.gd/vXcmMj,160000
+38,"Forest Tag Homestay",hotel_6528393,Huế,https://is.gd/5Tlll4,6231,0,9.7,21,"Phòng 2 Giường Đơn Nhìn Ra Khu Vườn","107.606436,16.459197",https://is.gd/pQmcfZ,290000
+39,"Asia Hotel Hue",hotel_250899,Huế,https://is.gd/AuCQR0,6231,4,8.4,49,"Phòng Deluxe Executive","107.594752013683,16.4689139596937",https://is.gd/jaOVIQ,600000
+40,"Alba Spa Hotel",hotel_262892,Huế,https://is.gd/10xrH8,6231,4,9.1,1262,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.595366239548,16.4652640191219",https://is.gd/HWeXam,972000
+41,"Hue Ecolodge",hotel_1812978,Huế,https://is.gd/WFwNtt,6231,4,9,451,"Phòng Deluxe Gia đình Thông nhau","107.534971091193,16.4387910301796",https://is.gd/yb9gZh,1974000
+42,"Bien Khoi Mini Hotel",hotel_1787961,Huế,https://is.gd/FgxRkH,6231,2,7,124,"Phòng Giường Đôi Hạng Bình Dân","107.588371906746,16.461421150407",https://is.gd/c1Irz1,150000
+43,"Lacasa Homestay",hotel_6267688,Huế,https://is.gd/qLuPMw,6231,0,9.7,23,"Phòng Deluxe","107.592249,16.455489",https://is.gd/KItE2b,308133
+44,"Lapochine Beach Resort (formerly Ana Mandara Hue)",hotel_295083,Huế,https://is.gd/lTVoE5,6231,4,9,467,"Phòng Deluxe 2 Giường Đơn","107.652148604393,16.5593940077592",https://is.gd/WPEXxf,1690807
+45,"Lam Vien Homestay Hue",hotel_6450862,Huế,https://is.gd/3wECE6,6231,0,9.7,56,"Phòng Tiêu Chuẩn Có Giường Cỡ King","107.575068124481,16.4423474031359",https://is.gd/HJOpeU,181000
+46,"The Purple Hue Homestay",hotel_2469289,Huế,https://is.gd/Jhph3u,6231,0,9.6,133,"Phòng Tiêu Chuẩn Giường Đôi","107.570102834361,16.4657939974741",https://is.gd/qBaOKU,450000
+47,"Mondial Hotel",hotel_258361,Huế,https://is.gd/gXjy0k,6231,4,8.4,179,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","107.583478689194,16.457719561924",https://is.gd/ItWtLA,792000
+48,"Anh Xuan Guest House",hotel_2273200,Huế,https://is.gd/5cSYA9,6231,3,7,130,"Phòng Giường Đôi","107.588645255434,16.4611276103627",https://is.gd/NCy0V4,140000
+49,"Baly Hotel",hotel_253384,Huế,https://is.gd/XfGtZ3,6231,3,8.5,218,"Phòng Tiêu Chuẩn Giường Đôi","107.599883079529,16.4616860332274",https://is.gd/h5Vy01,437805
+50,"Amy Hostel Hue",hotel_5623243,Huế,https://is.gd/b7ZEbZ,6231,0,9.1,79,"Phòng Superior Giường Đôi","107.595805,16.471771",https://is.gd/LyxVYC,280000
+51,"Friendly House Hostel",hotel_3220077,Huế,https://is.gd/X93Pav,6231,0,9,324,"Phòng Deluxe Giường Đôi","107.600202,16.464516",https://is.gd/qZCnrj,230000
+52,"Hue Sweethouse Homestay",hotel_2623704,Huế,https://is.gd/o61XUB,6231,0,9.5,628,"Phòng Giường Đôi có Phòng tắm riêng","107.589300457672,16.4643523113263",https://is.gd/FxziVN,315000
+53,"IBIZA Hostel",hotel_2808318,Huế,https://is.gd/rbU3cM,6231,0,9.3,487,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.597317190738,16.470607894498",https://is.gd/IJYyKg,217350
+54,"Tam Family Homestay",hotel_3346390,Huế,https://is.gd/opmYdW,6231,2,9.2,418,"Phòng Superior Giường Đôi","107.574847658895,16.4645117166791",https://is.gd/8kWRgq,315000
+55,"Saigon Morin Hotel",hotel_254292,Huế,https://is.gd/WCrbIJ,6231,4,8.8,673,"Phòng Colonial Deluxe Giường đôi/2 Giường đơn","107.590550184123,16.4671474439277",https://is.gd/84tUMJ,1338751
+56,"Than Thien - Friendly Hotel",hotel_262066,Huế,https://is.gd/KeI4u6,6231,3,9,1119,"Phòng Superior Giường Đôi","107.595012187958,16.4719542382675",https://is.gd/FXitUB,297500
+57,"Tabi Homestay Hue",hotel_4460872,Huế,https://is.gd/6ken2H,6231,0,9.4,8,"Phòng Giường Đôi","107.598223677246,16.4699746535964",https://is.gd/iIkyQd,245000
+58,"Florence Villa Hue",hotel_6513080,Huế,https://is.gd/aOsU5B,6231,0,0,0,"Biệt Thự","107.5955734,16.4722674",https://is.gd/oX9Dui,6000000
+59,"Robin House",hotel_6730317,Huế,https://is.gd/joLzoO,6231,0,10,8,"Phòng Deluxe Giường Đôi","107.597947496402,16.4739959479829",https://is.gd/lzyhBx,288600
+60,"Carnosa Hotel Hue",hotel_2627464,Huế,https://is.gd/d6B2lo,6231,3,8,306,"Phòng Giường Đôi","107.595698841768,16.4722438881108",https://is.gd/F9tWAl,343200
+61,"Jade Hotel",hotel_1356663,Huế,https://is.gd/2GULK3,6231,2,9,1443,"Phòng Tiêu Chuẩn Giường Đôi","107.593716688955,16.4646106278295",https://is.gd/L7VCPx,373500
+62,"Soleil House",hotel_3545543,Huế,https://is.gd/xYyKnC,6231,0,8.8,212,"Phòng Giường Đôi Hạng Bình Dân","107.592138,16.458118",https://is.gd/P6YFhj,360000
+63,"SOLEIL BOUTIQUE",hotel_6839329,"Thôn Kim Long (1)",https://is.gd/Rr7uvF,6231,0,0,0,"Phòng Giường Đôi Hạng Tiết kiệm","107.583306,16.4675764",https://is.gd/aAgKru,350000
+64,"SOLEIL HOSTEL",hotel_4171959,Huế,https://is.gd/nMGvcH,6231,0,8.9,349,"Phòng Giường Đôi với Phòng tắm Riêng Bên ngoài","107.60725,16.463405",https://is.gd/7UYhmM,350000
+65,"White Lotus Hue Hotel",hotel_6341340,Huế,https://is.gd/bGNMU9,6231,4,9.7,17,"Phòng Superior có giường cỡ Queen","107.590719,16.465288",https://is.gd/dv8wrY,1269000
+66,"Lang Co Beach Resort",hotel_772612,"Lăng Cô",https://is.gd/jcmtgH,6231,3,7.5,165,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Vườn","108.076120018959,16.2463611950756",https://is.gd/f0v85w,887034
+67,"Serene Shining Hotel & Spa",hotel_236233,Huế,https://is.gd/Szfcrx,6231,3,9.2,979,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.59786337614,16.471167165649",https://is.gd/bzjSdc,412500
+68,"Purple Hue BnB",hotel_3773069,Huế,https://is.gd/SchVrx,6231,0,9.4,416,"Phòng Giường Đôi Hạng Bình Dân","107.589756048935,16.4606666500773",https://is.gd/1tWELm,350000
+69,"la Luz de la Luna",hotel_4801750,Huế,https://is.gd/hx2VD9,6231,3,9.4,33,"Ngôi Nhà 2 Phòng Ngủ","107.597427439951,16.470584081801",https://is.gd/aKGjNY,1298765
+70,"THE MANOR CROWN HUE",hotel_6905076,"Thôn Trường Giang",https://is.gd/dmh2k9,6231,0,0,0,"Căn Hộ 2 Phòng Ngủ","107.608138120308,16.46315984867",https://is.gd/RmLCvC,540000
+71,"Samba Hue Hostel",hotel_6574090,"Ấp Tư Tây",https://is.gd/Ant4Rc,6231,1,9.7,11,"Phòng Giường Đôi với Ban công","107.599951,16.436651",https://is.gd/iGGtCa,296000
+72,"Thanh An 2 Guesthouse",hotel_4074587,Huế,https://is.gd/IkqQFj,6231,0,7.1,183,"Phòng Giường Đôi Hạng Bình Dân","107.589221,16.460843",https://is.gd/JhV39p,148000
+73,"Asean Garden Homestay Hue",hotel_6123950,Huế,https://is.gd/dZxSO2,6231,0,9.1,75,"Phòng Deluxe Giường Đôi","107.582233,16.473135",https://is.gd/FxeXZ1,304000
+74,"Leranda Homestay",hotel_6433329,Huế,https://is.gd/YOYlw3,6231,0,8.8,6,"Phòng Superior có giường cỡ Queen","107.596173,16.471089",https://is.gd/NTUzjZ,852500
+75,"Tùng Homestay",hotel_4624936,Huế,https://is.gd/QOTXxK,6231,3,9.4,201,"Phòng Giường Đôi Nhìn Ra Vườn","107.595483,16.464861",https://is.gd/1AFbUW,231000
+76,"Hue River Side Villa",hotel_2130272,Huế,https://is.gd/aVGQhU,6231,3,9.7,552,"Villa Deluxe","107.59592952209,16.4727503115325",https://is.gd/OMO8zd,652192
+77,"Champa Hue Hotel",hotel_621677,Huế,https://is.gd/l7VjsX,6231,2,7,59,"Phòng Superior Giường Đôi","107.600891590118,16.4678696567254",https://is.gd/F6Rx6W,220000
+78,"Laguna Park Townhouses",hotel_2206200,"Lăng Cô",https://is.gd/cUGM1V,6231,3,7.9,14,"Biệt Thự 2 Phòng Ngủ","107.954804348265,16.3338115376781",https://is.gd/w5aAvU,3510000
+79,"Thanh Lich Royal Boutique",hotel_1006132,Huế,https://is.gd/10sMC5,6231,4,8.6,972,"Phòng Superior Giường Đôi","107.589379549026,16.460446198125",https://is.gd/Y3kCfA,958800
+80,"Hà Phương Homestay",hotel_5174646,"Lăng Cô",https://is.gd/TiUqu7,6231,0,8.4,26,"Phòng Giường Đôi","108.078345,16.237197",https://is.gd/FcB5Of,525000
+81,"ÊMM Hotel Hue",hotel_248499,Huế,https://is.gd/xgBndJ,6231,4,8.9,182,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.591530680656,16.4598700064998",https://is.gd/yBAJE5,961170
+82,"Cat An Guesthouse",hotel_2952633,Huế,https://is.gd/DJZYym,6231,1,6.3,25,"Phòng Giường Đôi Hạng Bình Dân","107.588388,16.461398",https://is.gd/pQtVY8,160000
+83,"Holiday Diamond Hotel",hotel_403446,Huế,https://is.gd/gy22h0,6231,3,9.3,697,"Phòng Superior Giường Đôi","107.5954413414,16.4715375531618",https://is.gd/zabfQz,269280
+84,"Villa Louise Hue Beach Boutique Hotel",hotel_1453583,Huế,https://is.gd/dAe3XP,6231,4,8.9,230,"Phòng Tiêu Chuẩn Giường Đôi","107.67687857151,16.5458077844499",https://is.gd/T5ftfa,1470150
+85,"Indochine Palace",hotel_384981,Huế,https://is.gd/ImtpIo,6231,5,9.3,337,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.597957253456,16.4603175840714",https://is.gd/x7eMHI,2219040
+86,"An Thai Homestay Hue",hotel_6810705,Huế,https://is.gd/F7NZDH,6231,0,10,3,"Phòng Giường Đôi","107.593503327044,16.464614639501",https://is.gd/HczeiM,280000
+87,"Baloo Hostel",hotel_4389800,Huế,https://is.gd/HuYAyK,6231,0,9.2,556,"Phòng Superior Gia Đình","107.59445,16.466317",https://is.gd/rUqrVB,288000
+88,"Rubis Hostel",hotel_1768854,Huế,https://is.gd/9u2drd,6231,0,8.8,123,"Phòng Đôi hạng Phổ thông có Quạt máy","107.608017224537,16.4523625321444",https://is.gd/UUwk96,195000
+89,"Eureka Eco",hotel_6308023,Huế,https://is.gd/3iIcWP,6231,0,9.3,8,"Căn Hộ 2 Phòng Ngủ","107.608825277246,16.4666575409",https://is.gd/fRvEIw,712000
+90,"Thanh Tam Resort",hotel_1003758,"Lăng Cô",https://is.gd/bWs9vX,6231,3,6.8,84,"Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Biển Ở Mặt Bên","108.077563047409,16.2442566816741",https://is.gd/8y7QVF,664226
+91,"Sahi Homestay Retreat",hotel_5573716,Huế,https://is.gd/8mgdDd,6231,0,9.4,82,"Phòng có Giường cỡ Queen và Sân hiên","107.564014,16.452983",https://is.gd/Ud4xIB,1170000
+92,"Snooze Hotel",hotel_2910502,Huế,https://is.gd/QxNTWK,6231,2,8.6,187,"Phòng Deluxe Giường Đôi","107.597067641872,16.4701553630267",https://is.gd/kwIwRy,220000
+93,"Thanh An Homestay",hotel_2304774,Huế,https://is.gd/Foevla,6231,0,8.8,279,"Phòng Tiêu Chuẩn Giường Đôi","107.595826238394,16.469354804651",https://is.gd/BM0BwH,198000
+94,"The Times Hotel",hotel_2161875,Huế,https://is.gd/BPLfj5,6231,2,9.2,409,"Phòng Tiêu Chuẩn Có Giường Cỡ King","107.597200343586,16.4701485850736",https://is.gd/Uizwaz,280000
+95,"Moonlight Hotel Hue",hotel_460817,Huế,https://is.gd/0OFKeu,6231,4,8.8,643,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.59413510561,16.4693640885481",https://is.gd/Uie9OH,714000
+96,"Le Robinet Homestay",hotel_3395789,Huế,https://is.gd/6XGZRK,6231,2,9,685,"Phòng 4 Người với Phòng tắm Riêng","107.574295008598,16.466531075714",https://is.gd/sntnjw,376650
+97,"Pilgrimage Wellness Retreat",hotel_4541776,Huế,https://is.gd/RlbjKJ,6231,5,0,0,"Biệt Thự Với Quyền Sử Dụng Hồ Bơi Cùng Gói Chăm Sóc Sức Khỏe","107.578572,16.425444",https://is.gd/Mv48Ft,5878607
+98,"OYO 882 Lucky Hotel",hotel_6094640,Huế,https://is.gd/OQFPwy,6231,2,7.8,18,"Phòng Tiêu Chuẩn Giường Đôi","107.566881,16.470426",https://is.gd/W2yC08,227472
+99,"a-mâze house",hotel_4620928,Huế,https://is.gd/YPXOYm,6231,0,9.4,142,"Phòng gia đình với phòng tắm riêng.","107.580149341105,16.4783655720425",https://is.gd/1SoBMO,450000
+100,"Azerai La Residence, Hue",hotel_235924,Huế,https://is.gd/BoITHS,6231,5,9.4,100,"Phòng Superior Tiêu chuẩn có Giường Đôi/2 Giường Đơn","107.580034732819,16.4590108604505",https://is.gd/O1ZjKW,10015583
+101,"Tâm Homestay",hotel_5163838,Huế,https://is.gd/ZYOuKO,6231,0,9.8,171,"Phòng Deluxe Có Giường Cỡ Queen","107.596359,16.469324",https://is.gd/F6WAs5,280500
+102,"Sunny A Hotel",hotel_1137759,Huế,https://is.gd/8jFn5g,6231,2,8.9,634,"Phòng Tiêu Chuẩn Giường Đôi","107.592823505402,16.4648473196328",https://is.gd/MmdSXk,277200
+103,"OYO 1117 Ngoc Lan Motel",hotel_6382640,Huế,https://is.gd/Yg6Ql1,6231,2,9.3,36,"Phòng Tiêu Chuẩn Giường Đôi","107.600177,16.467275",https://is.gd/sr7Tzn,199536
+104,"Nhà nghỉ Kiến An",hotel_4126893,Huế,https://is.gd/SHLTyr,6231,3,7.2,14,"Phòng Deluxe Có Giường Cỡ King","107.596198,16.459892",https://is.gd/dJzXcy,230000
+105,"Dimpless Homestay",hotel_5403734,Huế,https://is.gd/01xyuC,6231,0,8,125,"Phòng Deluxe Giường Đôi","107.588459,16.461269",https://is.gd/s8ewTl,200000
+106,"La Luz Del Sol Homestay",hotel_5191360,Huế,https://is.gd/1k9xoB,6231,3,9.5,26,"Căn hộ Studio","107.6052367,16.4650497",https://is.gd/urT5o9,498000
+107,"Vietnam Backpacker Hostels - Hue",hotel_2849605,Huế,https://is.gd/TTQgct,6231,0,7.8,187,"Phòng Tiêu Chuẩn Giường Đôi","107.594034484656,16.469723868239",https://is.gd/kWahjr,300000
+108,"Purple Hue Central Hub",hotel_5015515,Huế,https://is.gd/LmYQdT,6231,0,9.4,667,"Phòng Giường Đôi Hạng Bình Dân","107.594192,16.46586",https://is.gd/9S5MWp,350000
+109,"Hue Riverside Boutique Resort & Spa",hotel_540102,Huế,https://is.gd/BZLdks,6231,4,8.2,39,"Phòng Superior Đôi Nhìn ra Sông","107.539302706718,16.4480113969739",https://is.gd/dW5vH1,1308300
+110,"Tom House",hotel_5445634,Huế,https://is.gd/RkLVOJ,6231,0,0,0,"Phòng Giường Đôi hoặc 2 Giường Đơn","107.587497,16.455358",https://is.gd/dL5FzG,350000
+111,"Hue 1962 INN",hotel_5896366,Huế,https://is.gd/yMz1Zr,6231,0,9.3,22,"Phòng Gia đình","107.574877,16.472332",https://is.gd/vpklvq,455430
+112,"5.T Hostel",hotel_6521029,Huế,https://is.gd/hvTTGV,6231,0,9.6,5,"Phòng Giường Đôi Có Ban Công (2 Người Lớn + 1 Trẻ Em)","107.596209,16.469685",https://is.gd/vOYhNR,230000
+113,"Hue Royal Hotel",hotel_664200,Huế,https://is.gd/EaOjhm,6231,3,8,236,"Phòng Deluxe Giường Đôi","107.596291601658,16.4710874293557",https://is.gd/W3q1q1,352755
+114,"La Paix Hue",hotel_4089533,Huế,https://is.gd/sg9ZVt,6231,3,9.4,262,"Phòng Deluxe","107.595454520169,16.4812886042596",https://is.gd/NMFGzF,690000
+115,"OYO 721 Ben Homestay",hotel_5970150,Huế,https://is.gd/kuQQU0,6231,3,9.2,42,"Phòng Tiêu Chuẩn Giường Đôi","107.595858,16.469585",https://is.gd/wSJXi7,199536
+116,"Tin Tin Hue Hostel",hotel_2462077,Huế,https://is.gd/JYCQ98,6231,0,8.4,230,"Phòng Tiêu Chuẩn Giường Đôi","107.595063218032,16.4687132601632",https://is.gd/WwxhyG,275000
+117,"Hotel La Perle",hotel_1881999,Huế,https://is.gd/ATJgD3,6231,3,9.5,1828,"Phòng Giường Đôi/ 2 Giường Đơn Hạng Tiết Kiệm","107.597073800862,16.4702286545368",https://is.gd/2bOcfm,531250
+118,"Sline Hotel",hotel_6814886,Huế,https://is.gd/YGZDB5,6231,1,0,0,"Phòng Giường Đôi","107.597158,16.471419",https://is.gd/lYhwjt,457600
+119,"Hong Thien 1 Hotel",hotel_5648642,Huế,https://is.gd/lRLzSX,6231,3,8.6,49,"Phòng Giường Đôi Nhỏ","107.596339,16.469172",https://is.gd/AsZdgi,297500
+120,"Romance Hotel",hotel_240715,Huế,https://is.gd/4SZfmq,6231,4,8.6,55,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.596032768488,16.4680795466565",https://is.gd/4I22it,883728
+121,"SPOT ON 1058 Khoi Nguyen Motel",hotel_2880993,"Cư Chinh",https://is.gd/pLWLGE,6231,3,0,0,"Phòng Tiêu Chuẩn Giường Đôi","107.574069058228,16.435327579098",https://is.gd/xUhWWA,179582
+122,"Shark Homestay",hotel_3373406,Huế,https://is.gd/AphPJQ,6231,0,9.3,663,"Phòng Deluxe Giường Đôi","107.596062,16.470458",https://is.gd/5XCHWp,350000
+123,"Ngoc Binh Hotel",hotel_431915,Huế,https://is.gd/ttroRR,6231,1,8.5,506,"Phòng Giường Đôi Lớn","107.592663913965,16.4647560057363",https://is.gd/IFLYDL,230000
+124,"Gardenia Hue Hotel",hotel_3611881,Huế,https://is.gd/CNEdiw,6231,3,9.2,329,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.596012,16.47055",https://is.gd/gjWmCs,496320
+125,"DMZ Hostel",hotel_5457311,Huế,https://is.gd/4kj8Hg,6231,1,8.4,168,"Phòng Superior Giường Đôi","107.594503,16.469266",https://is.gd/thNIfb,400000
+126,"Silk Path Boutique Hanoi",hotel_1462640,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/xyLesk,6228,4,9.3,502,"Ưu Đãi Đặc Biệt - Lưu Trú 24h - Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn","105.852204711639,21.0256619492252",https://is.gd/1JPQKZ,1221412
+127,"Peridot Grand Hotel & Spa by AIRA",hotel_6105345,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/B7P1uA,6228,5,9.7,247,"Chic Deluxe","105.846272,21.033082",https://is.gd/754SOq,1685454
+128,"The Oriental Jade Hotel",hotel_4857532,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/BIAQzd,6228,5,9.6,1390,"Phòng Oriental Pearl 2 Giường Đơn","105.850278131283,21.0296450377077",https://is.gd/Wm7853,1733286
+129,"Acoustic Hotel & Spa",hotel_4438946,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/toYhZx,6228,4,9.4,2673,"Phòng Deluxe Giường Đôi Có Ban Công","105.844548,21.027695",https://is.gd/LPIv4P,724714
+130,"Solaria Hanoi Hotel",hotel_5695057,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/vT29sq,6228,4,9.4,662,"Phòng Sol Giường Đôi/2 Giường Đơn","105.850444,21.030072",https://is.gd/XvWzT5,1044166
+131,"Sofitel Legend Metropole Hanoi",hotel_71003,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/n5lzbU,6228,5,9.3,645,"Cánh Opera - Phòng Premium 2 Giường Đơn","105.855524539948,21.0256664587259",https://is.gd/hfv9v5,5046365
+132,"Hanoi Paradise Center Hotel & Spa",hotel_5580161,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/wzztpH,6228,4,9.5,966,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.856129186508,21.0305154403295",https://is.gd/sACbYj,524906
+133,"La Sinfonía del Rey Hotel & Spa",hotel_5016050,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/wZIaV5,6228,4,9.6,436,"Phòng Superior không có Cửa sổ","105.853974031391,21.0311663967357",https://is.gd/dPZphQ,1149000
+134,"Mövenpick Hotel Hanoi",hotel_71077,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/1ApOmI,6228,5,8.6,387,"Ưu Đãi Du Lịch Tại Chỗ - Sử Dụng Trong Ngày (11:00 - 17:00) - Phòng Superior","105.844087600708,21.025098134315",https://is.gd/IKB7Qa,1230000
+135,"Halais Hotel",hotel_4299846,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/l2bS4V,6228,4,8.6,332,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","105.848663,21.017079",https://is.gd/mqfLTA,648000
+136,"Hanoi Chic Hotel",hotel_274137,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/iOCRw3,6228,3,9.2,2217,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.848666131496,21.0319028630921",https://is.gd/Tk9js4,343050
+137,"Rising Dragon Palace Hotel",hotel_250168,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/OIcXSl,6228,3,9.2,2382,"Ưu Đãi Sử Dụng Trong Ngày (6 Giờ) - Phòng Superior","105.847062170506,21.034786892793",https://is.gd/is2Iqe,212500
+138,"Dal Vostro Hotel & Spa",hotel_3249175,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/lqQhLn,6228,4,8.9,1085,"Phòng Deluxe Giường Đôi","105.850200388885,21.0307417517939",https://is.gd/52NQ3k,664331
+139,"Melia Hanoi",hotel_71048,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/wO4UB6,6228,5,8.9,477,"Phòng Deluxe","105.847907066345,21.0243795888964",https://is.gd/Ru3YP8,2974472
+140,"Grande Collection Hotel & Spa",hotel_300447,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/k7BtGV,6228,4,9.3,510,"Phòng Deluxe Giường Đôi","105.847510099411,21.0346617190516",https://is.gd/0VsAcj,735000
+141,"Queen Light Hotel",hotel_2073025,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/JafiIE,6228,3,8.8,1045,"Sử Dụng Trong Ngày 3 Giờ","105.847770635582,21.0342624547299",https://is.gd/Q8gwnd,220000
+142,"Lotte Hotel Hanoi",hotel_1093646,"Quận Ba Đình, Hà Nội",https://is.gd/lkoR9j,6228,5,9.1,594,"Phòng Deluxe Có Giường Cỡ King","105.812703073025,21.0319496476565",https://is.gd/8WaxjA,3450000
+143,"JM Marvel Hotel & Spa",hotel_3066066,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/sCRfiy,6228,4,9.5,969,"Phòng Deluxe Giường Đôi - Sử Dụng Trong Ngày (4 Giờ)","105.846654,21.030981",https://is.gd/ZNUi4p,586500
+144,"Hanoi House Hostel & Travel",hotel_293792,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/WRFCq6,6228,3,9.3,801,"Phòng Deluxe - Sử Dụng Trong Ngày (4 Giờ)","105.853464603424,21.0345039999878",https://is.gd/oZ7maz,199750
+145,"Shining Central Hotel & Spa",hotel_5597157,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/FGB5Te,6228,4,9.4,437,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.855279,21.031617",https://is.gd/mkKscV,750000
+146,"Dragon Pearl Hotel",hotel_308730,"Quận Ba Đình, Hà Nội",https://is.gd/u6XqcZ,6228,3,9.3,2465,"Ưu Đãi Sử Dụng Trong Ngày (6 Giờ) - Phòng Superior Giường Đôi/2 Giường Đơn","105.845503807068,21.039911415473",https://is.gd/DUWpgI,212500
+147,"Canary Hotel",hotel_369175,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/YyP3YL,6228,4,8.8,214,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.841963291168,21.0194873792492",https://is.gd/nFbRxk,561000
+148,"Hanoi Lullaby Hotel and Travel",hotel_5304484,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/iYgKaj,6228,3,9.5,499,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.845574,21.030784",https://is.gd/5nOtFq,471526
+149,"Amorita Boutique Hotel Hanoi",hotel_266695,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/Nf9vc4,6228,3,8.7,1387,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.854017138481,21.031094223217",https://is.gd/8PBSg3,336000
+150,"Libra Hotel Residence",hotel_5073238,"Cau Giay, Hà Nội",https://is.gd/fFCJ67,6228,4,8.8,254,"Căn hộ Tiêu chuẩn","105.786959,21.032232",https://is.gd/8pr2Si,619200
+151,"Imperial Hotel & Spa",hotel_238147,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/ZgEruy,6228,4,9.6,285,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.85018157959,21.0312844918177",https://is.gd/FICutS,852039
+152,"The Lapis Hotel",hotel_2153594,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/TPmyUL,6228,4,9,721,"Phòng Giường Đôi - Sử Dụng Trong Ngày (3 Giờ)","105.85617,21.019801",https://is.gd/BiGaC5,714400
+153,"La Siesta Premium Hang Be",hotel_4725823,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/yigrqN,6228,4,9.6,441,"Phòng Superior - Không Có Cửa Sổ","105.853973,21.033103",https://is.gd/uA3eq9,1622745
+154,"Emerald Hotel",hotel_618299,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/aGbcX7,6228,4,9.2,355,"Ưu Đãi Sử Dụng Trong Ngày (2 Giờ) - Phòng Deluxe","105.850524902344,21.0157818116792",https://is.gd/gtjvbM,249192
+155,"Babylon Premium Hotel & Spa",hotel_5174005,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/AxUayi,6228,4,9.6,237,"Sử Dụng Trong Ngày (6 Giờ) - Phòng Superior Giường Đôi","105.848546,21.032278",https://is.gd/uszIWo,450000
+156,"Grand Vista Hanoi",hotel_5476572,"Quận Ba Đình, Hà Nội",https://is.gd/rGoFnD,6228,5,8.9,134,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","105.821712,21.025351",https://is.gd/oCKyis,1398382
+157,"InterContinental Hanoi Westlake",hotel_71181,"Quận Tây Hồ, Hà Nội",https://is.gd/d9hcub,6228,5,8.7,500,"Phòng Superior","105.831915736198,21.0589910137589",https://is.gd/eitBoB,2605680
+158,"Mercury Central Hotel Hanoi",hotel_482104,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/BjpUCe,6228,3,9.3,368,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.849685370922,21.0306510967184",https://is.gd/wFLUqK,789124
+159,"Apricot Hotel",hotel_1199533,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/J1fK9g,6228,5,9,555,"Phòng Deluxe Đôi - Sketch 1 Giường cỡ King","105.851251780987,21.0271686273529",https://is.gd/cJaJd7,3360500
+160,"Hanoi A25 Sahul Hotel",hotel_1092730,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/6xyZKi,6228,4,7.8,59,"Phòng Superior Giường Đôi","105.870735288955,21.0008609160673",https://is.gd/6IpKd6,760500
+161,"Serene Boutique Hotel & Spa",hotel_437602,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/2LOmoM,6228,4,9.2,428,"Phòng Superior 2 Giường Đơn","105.847426950932,21.0352800763104",https://is.gd/ez6fyz,460000
+162,"InterContinental Hanoi Landmark72",hotel_2672294,"Hà Nội",https://is.gd/hf3fYP,6228,5,9.1,211,"Phòng Deluxe Intercontinental","105.78422,21.016973",https://is.gd/YXQG98,2768535
+163,"Hilton Hanoi Opera",hotel_42289,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/XeFXFZ,6228,5,8.2,523,"Phòng Hilton Deluxe 2 Giường Đơn","105.8578312397,21.0230977152982",https://is.gd/dV7odm,1870249
+164,"Hanoi Hotel",hotel_184515,"Quận Ba Đình, Hà Nội",https://is.gd/SjLR9A,6228,4,7.9,124,"Gói Doanh nhân - Chỉ Phòng","105.821852087975,21.0276368001471",https://is.gd/d1e90s,1348500
+165,"Hanoi Emerald Waters Hotel & Spa",hotel_1742647,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/BDZUJr,6228,4,9.3,633,"Phòng Deluxe Giường Đôi","105.855121364418,21.0313184682132",https://is.gd/kThcM6,571500
+166,"JW Marriott Hotel Hanoi",hotel_696696,"Hà Nội",https://is.gd/fsWNsT,6228,5,8.9,299,"Phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố","105.781999826431,21.0081775985701",https://is.gd/GncV8G,3190000
+167,"Anatole Hotel Hanoi",hotel_5663337,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/1L1lYt,6228,4,9.1,128,"Ưu Đãi Sử Dụng Trong Ngày (3 Giờ) - Phòng Superior","105.849954,21.027819",https://is.gd/bvhFkR,741238
+168,"Hanoi Marvellous Hotel & Spa",hotel_330129,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/2ECvnK,6228,4,9.6,702,"Sử Dụng Trong Ngày (4 Giờ) - Phòng Deluxe Giường Đôi","105.847180187702,21.0311568115993",https://is.gd/ffAUlb,297500
+169,"Pan Pacific Hanoi",hotel_71041,"Quận Ba Đình, Hà Nội",https://is.gd/9Jvqua,6228,5,8.8,578,"Phòng Deluxe Giường Đôi","105.839656591415,21.0500297646443",https://is.gd/em0J6P,2141082
+170,"Marina Hotel",hotel_4801118,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/mlnQvf,6228,3,8.9,259,"Phòng Superior Giường Đôi","105.854528,21.032686",https://is.gd/YmdKGL,506250
+171,"Hestia Legend Hotel",hotel_557811,"Quận Ba Đình, Hà Nội",https://is.gd/t1KrNL,6228,3,9,1455,"Ưu Đãi Sử Dụng Trong Ngày (6 Giờ) - Phòng Deluxe","105.844615972947,21.0410504725381",https://is.gd/VsUPAr,195500
+172,"Hanoi Ancient Paradise Hotel & Travel",hotel_6511456,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/aSx3EM,6228,3,9.5,113,"Ưu Đãi Sử Dụng Trong Ngày (3 Giờ) - Phòng Deluxe","105.851412,21.037119",https://is.gd/k0XBL8,250000
+173,"Soleil Boutique Hotel Hanoi",hotel_5393451,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/H5WTj3,6228,4,9.4,179,"Phòng Cổ điển","105.844346991402,21.028775294688",https://is.gd/OyxLHA,765000
+174,"Hanoi Elite Hotel",hotel_260400,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/xaBlaG,6228,3,9.4,710,"Phòng Superior Giường Đôi","105.852480232716,21.0353051109632",https://is.gd/yhNKlr,352105
+175,"Serenity Diamond Hotel",hotel_253237,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/zZHF5W,6228,3,8.7,1024,"Ưu Đãi Sử Dụng Trong Ngày (giá trong ngày, sử dụng 7 giờ) - Phòng Superior","105.846812725067,21.0343988538525",https://is.gd/VYlGbV,198000
+176,"RedDoorz Plus @ Tran Duy Hung Street",hotel_5179713,"Cau Giay, Hà Nội",https://is.gd/Y9spWG,6228,3,8.2,117,"Căn hộ Studio","105.798567542328,21.0100962178173",https://is.gd/qK0xF2,354250
+177,"Hanoi Media Hotel & Spa",hotel_338801,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/eWcOQC,6228,4,9.2,372,"Phòng Superior Giường Đôi","105.854148566722,21.0319479264855",https://is.gd/VVihND,637500
+178,"Le Beryl Hanoi Hotel",hotel_4526103,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/iSqZgZ,6228,3,8.7,681,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.843662,21.028519",https://is.gd/uNSzJS,300000
+179,"Somerset Hoa Binh Hanoi",hotel_72676,"Quận Tây Hồ, Hà Nội",https://is.gd/2FUE5n,6228,4,8.9,187,"Studio Executive","105.795137286186,21.0464551270533",https://is.gd/IIl14H,1715175
+180,"Minerva Church Hotel",hotel_434850,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/aCG1O9,6228,4,9.2,173,"Phòng St Gildas 2 Giường đơn","105.850031375885,21.0290187775719",https://is.gd/NT6WQg,1260000
+181,"Hanoi Golden Hotel",hotel_3884777,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/DJMgNJ,6228,2,8.5,688,"Ưu Đãi Sử Dụng Trong Ngày (2 Giờ) - Phòng Superior","105.85018,21.036362",https://is.gd/muqUZM,150300
+182,"Artisan Lakeview Hotel",hotel_247972,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/r6LXfU,6228,3,8.4,247,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.8501547575,21.0312594564894",https://is.gd/NxGxEE,351000
+183,"Hanoi 3B Premier Hotel",hotel_288437,"Quận Ba Đình, Hà Nội",https://is.gd/T95d3V,6228,3,9,2080,"Phòng Superior Giường Đôi/2 Giường Đơn - Ưu Đãi Sử Dụng Trong Ngày (6 Giờ)","105.847778320312,21.0403044468168",https://is.gd/guiKCl,190900
+184,"Mely Hotel",hotel_748676,"Quận Thanh Xuân, Hà Nội",https://is.gd/mPtHnN,6228,3,8.2,230,"Phòng Superior Giường Đôi","105.809540748596,21.0023283253549",https://is.gd/GXuhh2,302400
+185,"Pullman Hanoi",hotel_184587,"Quận Đống Đa, Hà Nội",https://is.gd/G37UJh,6228,5,7.7,251,"Phòng Superior Có Giường Cỡ King Nhìn Ra Cảnh Thành Phố","105.828284025192,21.0297473148602",https://is.gd/VyJCvL,1501500
+186,"Ja Cosmo Hotel and Spa",hotel_243952,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/JvA96h,6228,3,9.5,744,"Ưu Đãi Sử Dụng Trong Ngày (4 Giờ) - Phòng Deluxe","105.855739116669,21.0312995130127",https://is.gd/ev0QPI,301980
+187,"Shining Boutique Hotel & Spa",hotel_3994899,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/QF3R8l,6228,4,9.5,709,"Phòng Superior Giường Đôi/2 Giường Đơn Không Có Cửa Sổ","105.845134,21.029166",https://is.gd/eJkuyK,672000
+188,"Hanoi Brilliant Hotel and Spa",hotel_710374,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/Ssvi5x,6228,3,9.3,272,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.849387645722,21.0307412242486",https://is.gd/mYaPbv,1033741
+189,"Hanoi Graceful Hotel",hotel_435392,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/vtwED1,6228,3,8.2,276,"Sử Dụng Trong Ngày - Tối Đa 3 Giờ - Phòng Giường Đôi","105.847660303116,21.0342912041609",https://is.gd/Jo4JAe,184800
+190,"Rising Dragon Villa Hotel",hotel_360839,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/FNw8Ju,6228,3,9.2,3561,"Ưu Đãi Sử Dụng Trong Ngày (6 Giờ) - Phòng Superior","105.847467184067,21.0346366842908",https://is.gd/jz78d5,212500
+191,"Golden Moon Suite Hotel",hotel_1692454,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/CoVGlU,6228,3,9,340,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.848094626984,21.032123",https://is.gd/pXzEQR,352000
+192,"Mercure Hanoi La Gare Hotel",hotel_184526,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/FGs2cS,6228,4,8.4,130,"Phòng Tiêu chuẩn có giường cỡ Queen","105.841646790504,21.0260870674675",https://is.gd/MkXQCF,1386000
+193,"Hanoi La Siesta Hotel & Spa",hotel_1115837,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/YeqkPc,6228,4,9.6,393,"Phòng Superior không có Cửa sổ","105.853440483397,21.0351098513314",https://is.gd/I6LEw6,1278070
+194,"Little Hanoi Hostel",hotel_469048,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/kJlFM8,6228,2,8.1,251,"Phòng 3 Người Nhìn Ra Thành Phố","105.847125202417,21.034825946994",https://is.gd/ZnybWZ,315000
+195,"Delicacy Central Hotel & Spa",hotel_5174629,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/y8trgD,6228,4,9.5,131,"Phòng Trung Tâm","105.853857,21.032334",https://is.gd/zxcID7,1008000
+196,"Diamond Westlake Suites",hotel_360467,"Quận Tây Hồ, Hà Nội",https://is.gd/fd1XxQ,6228,5,8.6,387,"Studio Executive","105.820130109787,21.0671507879327",https://is.gd/ZIyPlJ,2745178
+197,"Thang Long Opera Hotel",hotel_1822435,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/On6bWg,6228,4,8.5,160,"Ưu Đãi Sử Dụng Trong Ngày (3 Giờ) - Phòng Superior Giường Đôi","105.857156093185,21.0285188415348",https://is.gd/HWEjkH,493000
+198,"Super Hotel Candle",hotel_557807,"Quận Ba Đình, Hà Nội",https://is.gd/du0FIL,6228,4,8.3,168,"Phòng Tiêu Chuẩn Giường Đôi","105.818467140198,21.0356606025787",https://is.gd/PFl5OT,1070753
+199,"Blue Hanoi Inn Luxury Hotel & Spa",hotel_2645133,"Quận Đống Đa, Hà Nội",https://is.gd/uuwJb0,6228,3,8.8,154,"Phòng Superior Giường Đôi - Ưu Đãi Sử Dụng Trong Ngày (3 Giờ)","105.821698,21.023015",https://is.gd/pjGAnH,331500
+200,"Splendid Hotel & Spa",hotel_2130356,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/aCkzMo,6228,3,8.7,405,"Sử Dụng Trong Ngày - 4 Giờ","105.850682649762,21.0316778588616",https://is.gd/kvUnhV,274224
+201,"Hanoi Pearl Hotel",hotel_598353,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/R9vDx1,6228,4,9,1005,"Phòng Romance Cổ Điển","105.850940644741,21.0306254353978",https://is.gd/E76g68,984850
+202,"The Wooden Apartments - Hidden Gem in Old Quarter",hotel_3962989,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/P0GOEo,6228,3,8.5,241,"Căn hộ Deluxe","105.847095,21.021473",https://is.gd/7IkWOH,816000
+203,"Poonsa Cau Giay Apartment",hotel_2193623,"Cau Giay, Hà Nội",https://is.gd/LXkDvg,6228,3,7.7,43,"Superior Studio","105.791240036488,21.0314647460574",https://is.gd/wHotJL,611076
+204,"Irest Apartment",hotel_3430599,"Quận Đống Đa, Hà Nội",https://is.gd/rjvX3F,6228,3,9.1,269,"Căn hộ Studio","105.817687,21.01229",https://is.gd/ERUxOW,585000
+205,"The Chi Boutique Hotel",hotel_1927870,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/gJikri,6228,4,8.9,368,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","105.849806,21.028363",https://is.gd/UBIiJp,1165500
+206,"Holiday Emerald Hotel",hotel_252236,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/vUPhJH,6228,3,9.3,438,"Phòng Superior Giường Đôi","105.848172605038,21.0316850564987",https://is.gd/cKM8Yk,457875
+207,"Regal Hotel",hotel_708245,"Quận Ba Đình, Hà Nội",https://is.gd/qQAy4d,6228,2,7.8,62,"Phòng Deluxe Giường Đôi","105.81040173769,21.0266328556128",https://is.gd/MLReAa,498000
+208,"La Batisse Kim Ma Hotel",hotel_5173361,"Quận Ba Đình, Hà Nội",https://is.gd/bsb6Vj,6228,3,8.7,160,"Ưu Đãi Sử Dụng Trong Ngày - 3 Giờ","105.824159,21.031514",https://is.gd/T4FSoG,246539
+209,"Hanoi Suji Hotel",hotel_2743968,"Quận Thanh Xuân, Hà Nội",https://is.gd/5JQXxl,6228,3,8.7,126,"Phòng Tiêu Chuẩn Giường Đôi","105.8069511,21.0028684",https://is.gd/CjTW8r,522000
+210,"PentStudio West Lake Hanoi",hotel_5684356,"Quận Tây Hồ, Hà Nội",https://is.gd/t7PaN1,6228,4,8.3,27,"Căn Hộ Deluxe 1 Phòng Ngủ","105.817089,21.080295",https://is.gd/E3ux4y,2079000
+211,"Dolce by Wyndham Hanoi Golden Lake",hotel_6739744,"Quận Ba Đình, Hà Nội",https://is.gd/QsNeGG,6228,5,9.7,3,"Phòng 2 Giường Đơn","105.821162,21.029274",https://is.gd/zpDAao,2439360
+212,"Hanoi Vision Boutique Hotel",hotel_496280,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/uwSf0G,6228,3,8.7,598,"Phòng Superior Giường Đôi - Ưu Đãi Sử Dụng Trong Ngày (4 Giờ)","105.848958492279,21.0292741415629",https://is.gd/moxuKr,313144
+213,"Grand Plaza Hanoi Hotel",hotel_292225,"Cau Giay, Hà Nội",https://is.gd/uPBVPp,6228,5,7.3,141,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.797041654587,21.0083553768282",https://is.gd/tS7Noa,2236500
+214,"Eco Luxury Hotel Hanoi",hotel_1395624,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/BpHK3d,6228,3,8.5,741,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","105.846732249074,21.0346090947647",https://is.gd/aOekJf,630000
+215,"Rising Dragon Estate Hotel",hotel_257868,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/Otgis2,6228,3,8.6,674,"Ưu Đãi Sử Dụng Trong Ngày (giá trong ngày, sử dụng 3 giờ) - Phòng Superior","105.846296399832,21.0318517912451",https://is.gd/6KXiob,143100
+216,"The Wooden Apartments - On the side of Old Quarter",hotel_5336878,"Quận Đống Đa, Hà Nội",https://is.gd/l6x3Pm,6228,3,8.7,223,"Căn hộ với Ban công","105.838363,21.026273",https://is.gd/mDreyD,720000
+217,"Bonsella Hotel",hotel_631952,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/LQ8HMC,6228,4,9.5,604,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","105.85050880909,21.0296822223264",https://is.gd/PQgmKa,844329
+218,"RedDoorz Hostel near St. Joseph's Cathedral",hotel_2475927,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/hUevjb,6228,3,7.9,525,"Phòng Superior Giường Đôi","105.84998,21.027752",https://is.gd/hDPtEu,209250
+219,"Hanoi Posh Boutique Hotel",hotel_498113,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/6BXEoQ,6228,3,8.3,988,"Phòng Superior Giường Đôi/2 Giường Đơn - Minibar Miễn Phí & Trả Phòng Trễ Lúc 14:00","105.847790390253,21.0398227955388",https://is.gd/j2tQQE,296400
+220,"Hanoi Amber Hotel",hotel_275284,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/YJq9bP,6228,3,9.2,622,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.852295160294,21.0353301456118",https://is.gd/5fTmMl,513788
+221,"Reyna Hotel Hanoi",hotel_5815928,"Hà Nội",https://is.gd/rXCzH5,6228,4,8,6,"Phòng Superior Giường Đôi","105.776677,21.013619",https://is.gd/x5ZPe6,1323000
+222,"Golden Sun Suites Hotel",hotel_706775,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/nhKxYh,6228,4,9.3,409,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.849191844463,21.0325713020289",https://is.gd/9rOYRZ,375077
+223,"Bonsella Prestige Hotel & Spa",hotel_4295623,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/GGM6lC,6228,4,9.5,639,"Phòng Deluxe Giường Đôi Có Cửa Sổ","105.851798,21.036504",https://is.gd/qTNpTF,572562
+224,"Le Grand Hanoi Hotel",hotel_1967504,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/8ubCSs,6228,3,8.2,610,"Phòng Giường Đôi - Ưu Đãi Sử Dụng Trong Ngày (3 Giờ)","105.865104887635,21.0102987172467",https://is.gd/YaFMl2,267750
+225,"Bao Son International Hotel",hotel_295103,"Quận Đống Đa, Hà Nội",https://is.gd/9pPrUm,6228,4,7.2,61,"Phòng Tiêu chuẩn 2 Giường Đơn","105.810313224792,21.0239765009257",https://is.gd/hSkYCS,950000
+226,"Lotus Inn West Lake",hotel_2748689,"Quận Tây Hồ, Hà Nội",https://is.gd/qGNPiQ,6228,3,8.6,181,"Căn hộ - Lệch tầng","105.8258711,21.0423781",https://is.gd/gxRsIb,550000
+227,"Golden Sun Villa Hotel",hotel_804994,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/PYFMCo,6228,3,9.2,615,"Phòng Deluxe Giường Đôi","105.849886536598,21.0301028197354",https://is.gd/3UEDsN,665000
+228,"NYT Home Giang Vo",hotel_2543373,"Quận Ba Đình, Hà Nội",https://is.gd/jb9JwM,6228,3,8.3,117,"Studio Tiêu chuẩn","105.823330655694,21.0278732526677",https://is.gd/nrMkl6,632500
+229,"Somerset West Point Hanoi",hotel_2418842,"Quận Tây Hồ, Hà Nội",https://is.gd/VJ45op,6228,5,8.9,138,"Studio Executive","105.8263209,21.0662632",https://is.gd/J1xolH,2125200
+230,"An Phu Ha Noi Hotel",hotel_2086813,"Hà Nội",https://is.gd/MMgY31,6228,2,7.9,165,"Phòng Giường Đôi","105.776126731653,21.0286737733969",https://is.gd/q70NR7,400000
+231,"Labevie Hotel",hotel_257570,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/fRgZ7C,6228,3,9.2,756,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.855728387833,21.0320956341793",https://is.gd/tHgmRz,364000
+232,"Prince II Hotel",hotel_260418,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/IW3bId,6228,2,9.4,1095,"Phòng Superior Giường Đôi Có Cửa Trời","105.851225,21.034791",https://is.gd/widICQ,374000
+233,"Olympus Hanoi Hotel",hotel_5348786,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/vvTFDP,6228,4,9.1,744,"Phòng Superior Có Giường Cỡ King","105.855127,21.033803",https://is.gd/WNDSx4,517275
+234,"Hanoi Esplendor Hotel and Spa",hotel_4782586,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/uQmeU2,6228,3,9.7,555,"Phòng Deluxe Ấm Cúng Giường Đôi - Không Có Cửa Sổ","105.846909575853,21.0338623542936",https://is.gd/GLMgJM,646000
+235,"Paragon Resort",hotel_6462038,"Ba Vì",https://is.gd/MLAdWE,6228,3,7.8,43,"Phòng 2 Giường Đơn Nhìn Ra Khu Vườn","105.397150056966,21.058934465402",https://is.gd/flGFK6,972000
+236,"Somerset West Lake Hanoi",hotel_74856,"Quận Tây Hồ, Hà Nội",https://is.gd/jMw3S2,6228,4,8.4,129,"Studio Executive","105.818402767181,21.0437765958637",https://is.gd/amNi7B,1524600
+237,"Old Quarter Hotel 1961",hotel_5501546,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/a9TFfk,6228,0,8.4,96,"Phòng Deluxe Giường Đôi Có Cửa Sổ","105.856339,21.030317",https://is.gd/mXYphd,360000
+238,"O'Gallery Premier Hotel & Spa",hotel_1810527,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/1rRWlm,6228,4,9.3,795,"Phòng Deluxe 2 Giường Đơn","105.845514808529,21.0294877507066",https://is.gd/JMkZ9d,752899
+239,"MAPLE GARDEN",hotel_5309817,"Cau Giay, Hà Nội",https://is.gd/BukoPu,6228,3,9,219,"Căn Hộ","105.786965458653,21.0427713830492",https://is.gd/Aqrqzf,591011
+240,"My Hotel Eiffel Hanoi",hotel_341691,"Quận Hai Bà Trưng, Hà Nội",https://is.gd/2ZmACh,6228,3,8.2,133,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","105.849925428629,21.0173056123165",https://is.gd/xVnVRg,538200
+241,"Golden Rooster Hotel",hotel_2914849,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/LmjZS6,6228,3,9.1,838,"Phòng Giường Đôi/ 2 Giường Đơn Hạng Tiết Kiệm","105.847181,21.035805",https://is.gd/OvUhDt,408000
+242,"Bavi Homestead",hotel_1485545,"Ba Vì",https://is.gd/eELJKX,6228,0,8.3,350,"Giường Đơn Trong Phòng Nghỉ Tập Thể Cho Cả Nam Và Nữ","105.391625761986,21.082550828947",https://is.gd/lEKMzZ,199500
+243,"Millennium Hanoi Hotel",hotel_241267,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/TqNJrd,6228,3,8.9,401,"Phòng Tiêu Chuẩn Giường Đôi","105.842845737934,21.0280649140889",https://is.gd/BihRZv,338675
+244,"Diamond Legend Hotel",hotel_236232,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/9U2qo3,6228,3,8.9,115,"Phòng Tiêu Chuẩn Giường Đôi","105.847213715315,21.0384509319686",https://is.gd/3okWlU,400000
+245,"Trang Trang Premium Hotel",hotel_2977842,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/8C5A9a,6228,3,9.4,726,"Phòng Deluxe Có Giường Cỡ Queen","105.852985,21.032626",https://is.gd/WVZEWm,674100
+246,"Lavender Central Hotel & Spa Hanoi",hotel_536812,"Quận Hoàn Kiếm, Hà Nội",https://is.gd/0OkvdC,6228,3,9.2,358,"Phòng Superior có giường cỡ Queen","105.85310921073,21.0336893658629",https://is.gd/yh8WUx,332161
+247,"MAI HOUSE Saigon",hotel_4857560,"Quận 3, TP. Hồ Chí Minh",https://is.gd/vVy8IW,6229,5,9.4,252,"Phòng Deluxe Giường Đôi - Tủ Lạnh Mini Miễn Phí","106.691944,10.782278",https://is.gd/Nq2Euw,2744280
+248,"Icon Saigon - LifeStyle Design Hotel",hotel_5739875,"Quận 1, TP. Hồ Chí Minh",https://is.gd/tgFdJP,6229,4,8.8,919,"Phòng Superior 2 Giường Đơn (Cửa Sổ Bên Trong)","106.70449,10.776769",https://is.gd/QCuQuF,854280
+249,"Grand Hotel Saigon",hotel_184542,"Quận 1, TP. Hồ Chí Minh",https://is.gd/IOmMGt,6229,5,8.7,1618,"Sử Dụng Trong Ngày (Lưu Trú Trong Ngày Từ 09:00 - 18:00)","106.705656051636,10.7738942200765",https://is.gd/RdrEgY,1480027
+250,"AEM Hotel Selection",hotel_311073,"Quận 1, TP. Hồ Chí Minh",https://is.gd/KggIWW,6229,3,7,40,"Ưu Đãi Sử Dụng Trong Ngày - Phòng Superior Giường Đôi - Lưu Trú 2 Giờ","106.698018461466,10.7734910757546",https://is.gd/he7PY5,90000
+251,"Winsuites Saigon",hotel_4796195,"Quận 1, TP. Hồ Chí Minh",https://is.gd/zRv8jg,6229,4,8.8,1632,"Phòng Deluxe ở Góc","106.697106,10.771542",https://is.gd/Bix7Bt,940000
+252,"Orchids Saigon Hotel",hotel_4028344,"Quận 3, TP. Hồ Chí Minh",https://is.gd/LnW2eu,6229,4,9,2654,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","106.695544,10.781072",https://is.gd/0pqwrT,2146500
+253,"Cicilia Saigon Hotels & Spa",hotel_3546320,"Quận 1, TP. Hồ Chí Minh",https://is.gd/HIPQWs,6229,4,7.8,741,"Phòng Superior Giường Đôi","106.692649457794,10.7719902937347",https://is.gd/twO8R1,621000
+254,"Vinpearl Luxury Landmark 81",hotel_4485125,"Quận Bình Thạnh, TP. Hồ Chí Minh",https://is.gd/egtyBE,6229,5,9,119,"Phòng Premier Có Giường Cỡ King","106.718709,10.795414",https://is.gd/Dg0yx8,2700001
+255,"Hotel Nikko Saigon",hotel_321193,"Quận 1, TP. Hồ Chí Minh",https://is.gd/2pIdUw,6229,5,9.1,691,"Phòng Deluxe 2 Giường Đơn","106.682668179274,10.7642054323537",https://is.gd/H6NsMR,2221320
+256,"Hong Vina Hotel",hotel_738246,"Quận 1, TP. Hồ Chí Minh",https://is.gd/prBPH2,6229,3,7.5,494,"Sử Dụng Trong Ngày (3 Giờ) - Phòng Deluxe Giường Đôi","106.698218017882,10.769111347841",https://is.gd/Jkotga,108000
+257,"Fusion Suites Saigon",hotel_1724717,"Quận 1, TP. Hồ Chí Minh",https://is.gd/MiQUov,6229,4,9.1,1612,"Phòng Giường Đôi Không có Cửa sổ","106.689976430372,10.7724915406753",https://is.gd/oeBSK9,1793504
+258,"The Myst Dong Khoi",hotel_2066904,"Quận 1, TP. Hồ Chí Minh",https://is.gd/556RUh,6229,5,8.8,1095,"Phòng Dong Khoi 2 Giường Đơn Không Có Tầm Nhìn","106.705235430086,10.7743817142385",https://is.gd/TJi09t,2091032
+259,"Central Palace Hotel",hotel_1830458,"Quận 1, TP. Hồ Chí Minh",https://is.gd/bmIBOp,6229,4,8.4,1431,"Phòng Deluxe Giường Đôi - Không Kèm Bữa Sáng","106.697163188361,10.7755097586319",https://is.gd/N651RW,882307
+260,"Quy Hung Hotel",hotel_1598376,"Quận 1, TP. Hồ Chí Minh",https://is.gd/07khcU,6229,2,6.9,272,"Phòng Tiêu Chuẩn Giường Đôi","106.697625517845,10.7698709868329",https://is.gd/kR2xxp,225000
+261,"Bonita Signature Hotel",hotel_3529801,"Quận 1, TP. Hồ Chí Minh",https://is.gd/IjwqLV,6229,3,7.3,874,"Cloud 9","106.68864,10.770325",https://is.gd/MO4qja,480000
+262,"Lucky Star Hotel 146 Nguyen Trai",hotel_1597893,"Quận 1, TP. Hồ Chí Minh",https://is.gd/8Wa2sB,6229,3,8.2,352,"Ưu Đãi Sử Dụng Trong Ngày - Phòng Superior Giường Đôi - Lưu Trú 4 Giờ","106.690630842471,10.7695335737845",https://is.gd/cwPAli,157500
+263,"Gemini Saigon",hotel_3077284,"Quận 1, TP. Hồ Chí Minh",https://is.gd/3ivdjj,6229,0,8.9,809,"Phòng Deluxe - Ưu Đãi Sử Dụng Trong Ngày (Lưu Trú Từ 09:00 - 18:00)","106.694707,10.767133",https://is.gd/FD4Ben,352000
+264,"Lotus Central Hotel",hotel_3919600,"Quận 1, TP. Hồ Chí Minh",https://is.gd/e3iTFN,6229,4,8.9,464,"Phòng Ledro Superior Giường Đôi","106.6971,10.768519",https://is.gd/FVk4QD,735000
+265,"Au Lac Legend Hotel",hotel_288108,"Quận 3, TP. Hồ Chí Minh",https://is.gd/norXvV,6229,4,8.6,1345,"Phòng Superior Giường Đôi - Không có Cửa sổ","106.695994734764,10.7809346665493",https://is.gd/EtYNTG,888000
+266,"Hotel Majestic Saigon",hotel_184704,"Quận 1, TP. Hồ Chí Minh",https://is.gd/D50F5j,6229,5,8.5,1371,"Phòng Colonial Deluxe Giường Đôi/2 Giường Đơn","106.70621663332,10.7729693587722",https://is.gd/6FDZQg,1673795
+267,"Senses Legend Hotel",hotel_1067056,"Quận 1, TP. Hồ Chí Minh",https://is.gd/T0D4jY,6229,3,7.8,970,"Ưu Đãi Sử Dụng Trong Ngày (từ 11:00 - 15:00) Lưu trú Trong Cùng Ngày - Phụ Phí Áp Dụng Cho Khách Lưu Trú Qua Đêm","106.689670085907,10.7712803597152",https://is.gd/n1f3IJ,157500
+268,"Lotus Universe Apartment",hotel_3639571,"Quận Phú Nhuận, TP. Hồ Chí Minh",https://is.gd/CKfC23,6229,3,8.6,189,"Căn Hộ 1 Phòng Ngủ","106.691694515961,10.802223936978",https://is.gd/CBYeed,408000
+269,"Lucky Star Hotel 266 De Tham (New Pearl Hotel)",hotel_709459,"Quận 1, TP. Hồ Chí Minh",https://is.gd/XRMT3e,6229,3,8,461,"Ưu Đãi Sử Dụng Trong Ngày - Phòng Superior Giường Đôi - Lưu Trú 4 Giờ","106.693541623593,10.768321320964",https://is.gd/KAdOBM,157500
+270,"Bonita THT",hotel_2186804,"Quận 10, TP. Hồ Chí Minh",https://is.gd/Git6pP,6229,2,7.6,135,"Phòng Tiêu Chuẩn Giường Đôi","106.668208139018,10.779800518928",https://is.gd/VtUkVY,426880
+271,"Huong Sen Hotel",hotel_281415,"Quận 1, TP. Hồ Chí Minh",https://is.gd/b3gIGe,6229,3,8.6,1082,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","106.70427069068,10.7750588561964",https://is.gd/gTRfR9,914040
+272,"Saigon Sparkle Hotel",hotel_264198,"Quận 1, TP. Hồ Chí Minh",https://is.gd/55VVx5,6229,3,7.7,793,"Phòng Superior Giường Đôi","106.695721149445,10.7717968097302",https://is.gd/0YynuE,342000
+273,"Common Inn Thao Dien",hotel_3052471,"Quận 2, TP. Hồ Chí Minh",https://is.gd/1Qrge4,6229,3,8.7,312,"Ưu Đãi Du Lịch Tại Chỗ - Phòng Giường Đôi - Bao Gồm Giảm Giá 20% Đồ Ăn & Đồ Uống Và Các Quyền Lợi Miễn Phí","106.732724905014,10.8028875754455",https://is.gd/wRNo2K,500000
+274,"Mia Saigon – Luxury Boutique Hotel",hotel_4295424,"Quận 2, TP. Hồ Chí Minh",https://is.gd/aBGc7d,6229,5,9.2,143,"Phòng Deluxe 2 Giường Đơn Nhìn Ra Sông","106.751698327047,10.8101453361996",https://is.gd/82EHZI,4995000
+275,"Queen Central Hotel",hotel_1587298,"Quận 1, TP. Hồ Chí Minh",https://is.gd/NdSmXg,6229,3,8,168,"Phòng Superior Giường Đôi","106.696897242328,10.7718312338815",https://is.gd/ggkYLx,1725900
+276,"A in Hotel Riverside",hotel_2483215,"Quận 4, TP. Hồ Chí Minh",https://is.gd/QeWr9L,6229,2,8.2,396,"Phòng Tiêu Chuẩn Giường Đôi","106.697520725066,10.7615405430256",https://is.gd/4TfG5p,382500
+277,"Camelia Saigon Hotel",hotel_278947,"Quận 1, TP. Hồ Chí Minh",https://is.gd/MFRi7P,6229,3,8.5,124,"Phòng Deluxe có giường cỡ King","106.7049908638,10.776102282016",https://is.gd/WtgcGT,775000
+278,"LA VELA Saigon Hotel",hotel_5937937,"Quận 3, TP. Hồ Chí Minh",https://is.gd/Vs1rHl,6229,5,8.7,67,"Phòng La Vela Deluxe 2 Giường Đơn Có Ban Công","106.685473,10.788561",https://is.gd/Fnk5zl,2301000
+279,"The Art - Sunshine Apartment",hotel_5975065,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/PpJswl,6229,4,9,260,"Căn hộ Tiêu chuẩn","106.665491,10.806684",https://is.gd/tLsS8Y,630990
+280,"The Akoya Ben Thanh Hotel",hotel_5221488,"Quận 1, TP. Hồ Chí Minh",https://is.gd/wuON5Z,6229,3,8.9,241,"Phòng Giường Đôi Hạng Bình dân không có cửa sổ","106.697447,10.774503",https://is.gd/mzDrZh,336375
+281,"Cabana Hotel SaiGon",hotel_1175535,"Quận 1, TP. Hồ Chí Minh",https://is.gd/NsVnUz,6229,3,8.4,169,"Phòng Tiêu chuẩn có giường cỡ Queen","106.696341673611,10.7715381698982",https://is.gd/cpTKUz,399181
+282,"M Hotel Saigon",hotel_4330592,"Quận 1, TP. Hồ Chí Minh",https://is.gd/yhNSsy,6229,4,8.9,501,"Phòng Zen Ở Góc","106.701965,10.773215",https://is.gd/cJS1UT,1497686
+283,"Anh Duy Hotel",hotel_389464,"Quận 1, TP. Hồ Chí Minh",https://is.gd/MH0VuW,6229,2,7.2,101,"Ưu Đãi Sử Dụng Trong Ngày (3 giờ) - Lưu trú trong cùng ngày - Phụ phí áp dụng cho nghỉ qua đêm","106.702488362789,10.7693120446511",https://is.gd/dNH5rC,100000
+284,"Saigon Prince Hotel",hotel_239681,"Quận 1, TP. Hồ Chí Minh",https://is.gd/ycqqcG,6229,4,8.1,795,"Phòng Deluxe 2 Giường Đơn","106.704406142235,10.773130089858",https://is.gd/kOiHuj,1400000
+285,"Somerset Chancellor Court",hotel_191364,"Quận 1, TP. Hồ Chí Minh",https://is.gd/SuKdFt,6229,5,8.7,379,"Căn hộ Studio Executive","106.699452102184,10.7841386475347",https://is.gd/D2LbS8,1746360
+286,"Muong Thanh Luxury Saigon Hotel",hotel_6498581,"Quận Phú Nhuận, TP. Hồ Chí Minh",https://is.gd/O7nZnw,6229,5,8.7,64,"Phòng Deluxe 2 Giường Đơn","106.67183,10.797575",https://is.gd/Cc3BVA,1440000
+287,"7s Ken Luxury Saigon",hotel_5553598,"Quận 10, TP. Hồ Chí Minh",https://is.gd/Bb5IbN,6229,4,8.4,86,"Phòng Deluxe Giường Đôi","106.669115,10.772761",https://is.gd/Ze2l17,442350
+288,"The Chill Suites - City Center",hotel_783782,"Quận 1, TP. Hồ Chí Minh",https://is.gd/MY3PxJ,6229,3,8.7,352,"Phòng 2 Giường đơn có tầm nhìn","106.690531075001,10.7719232871499",https://is.gd/RYKrTq,396000
+289,"Sao Nam Hotel - Bui Vien Walking Street",hotel_476390,"Quận 1, TP. Hồ Chí Minh",https://is.gd/rpoLHp,6229,2,7.9,133,"Phòng Tiêu Chuẩn Giường Đôi","106.693996489048,10.7687797805368",https://is.gd/J6zhYa,300000
+290,"Silverland Sakyo Hotel",hotel_1035494,"Quận 1, TP. Hồ Chí Minh",https://is.gd/y51ca6,6229,4,8.8,473,"Phòng Deluxe Giường Đôi - Không có Cửa sổ","106.704921126366,10.7806546680772",https://is.gd/op3u5W,1423681
+291,"Thanh Long Hotel - Tra Khuc",hotel_5511436,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/ZgxXY0,6229,3,9.1,342,"Phòng Tiêu Chuẩn 2 Giường Đơn - Trả Khách Tại Sân Bay Miễn Phí","106.665414,10.805701",https://is.gd/shEn1M,528000
+292,"Country House 373",hotel_1769437,"Quận 1, TP. Hồ Chí Minh",https://is.gd/m8qfhE,6229,2,8.2,444,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.690123906746,10.7664489200521",https://is.gd/hSsctt,366435
+293,"Oakwood Residence Saigon",hotel_2894092,"Quận 7, TP. Hồ Chí Minh",https://is.gd/oABqCO,6229,5,9.1,161,Studio,"106.704553663736,10.7302250237147",https://is.gd/4E8Dlh,1899799
+294,"A in Hotel Glamour",hotel_4095072,"Quận 2, TP. Hồ Chí Minh",https://is.gd/uSyCJT,6229,2,7.7,391,"Phòng Superior Giường Đôi","106.729765,10.798249",https://is.gd/VF5TK7,307800
+295,"Palace Hotel Saigon",hotel_171881,"Quận 1, TP. Hồ Chí Minh",https://is.gd/88Snpv,6229,4,7.3,296,"Phòng Deluxe Giường Đôi","106.703606843948,10.7744053957607",https://is.gd/8VCqJw,1390950
+296,"Full House Retreat - The Water Front",hotel_2162149,"Quận 1, TP. Hồ Chí Minh",https://is.gd/1XMrzw,6229,3,8.6,112,"Căn hộ với Ban công","106.687829901644,10.7931205423611",https://is.gd/EMnzLs,443750
+297,"Vilion Central Hotel",hotel_3307684,"Quận 1, TP. Hồ Chí Minh",https://is.gd/1JwkOa,6229,3,7,166,"Ưu Đãi Sử Dụng Trong Ngày (2 Giờ) - Phòng Superior Giường Đôi","106.695130993883,10.7719153814469",https://is.gd/Fvgz9z,149400
+298,"Memory Thảo Điền Hotel & Apartment",hotel_5872384,"Quận 2, TP. Hồ Chí Minh",https://is.gd/gLSDEF,6229,3,8.6,81,"Căn hộ Tiêu chuẩn","106.747536,10.8046",https://is.gd/5vQ1Ca,453333
+299,"Papaya Saigon Central Hotel",hotel_2795870,"Quận 1, TP. Hồ Chí Minh",https://is.gd/cgfYjS,6229,3,8.5,407,"Phòng Deluxe Giường Đôi","106.699054956141,10.7739402453455",https://is.gd/Hf72ZM,636000
+300,"An Lam Retreats Saigon River",hotel_347037,"TP. Hồ Chí Minh",https://is.gd/02ukPz,6229,5,8.9,169,"Suite An Lam Deluxe","106.699513792992,10.8707174933393",https://is.gd/h0Dbzd,5162184
+301,"The Blue Airport Hotel",hotel_2711779,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/N2ndsq,6229,2,7.4,185,"Phòng Giường Đôi Sử Dụng Trong Ngày - Lưu Trú Tối Đa 4 Giờ","106.6621721,10.8037146",https://is.gd/ErAXj4,300000
+302,"UpTown Hotel",hotel_4632781,"Quận 1, TP. Hồ Chí Minh",https://is.gd/6ybxTz,6229,3,8.7,417,"Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn (Không Có Cửa Sổ)","106.699468,10.77353",https://is.gd/A1xsRu,617500
+303,"Somerset D1Mension Ho Chi Minh City",hotel_5281990,"Quận 1, TP. Hồ Chí Minh",https://is.gd/UBGgGp,6229,5,9.1,125,"Căn Hộ Executive 1 Phòng Ngủ","106.687757,10.754952",https://is.gd/JEpb33,1924230
+304,"The Odys Boutique Hotel",hotel_439803,"Quận 1, TP. Hồ Chí Minh",https://is.gd/77gR9c,6229,4,8.4,472,"Phòng Superior 2 Giường Đơn (Không có Cửa sổ)","106.700095832348,10.7695096672263",https://is.gd/CzrDZE,997920
+305,"Silverland Charner Hotel",hotel_351831,"Quận 1, TP. Hồ Chí Minh",https://is.gd/RbblTg,6229,4,9.2,1616,"Phòng Deluxe 2 Giường đơn (Không Cửa sổ)","106.703952848911,10.7716202682431",https://is.gd/zs7hE5,963950
+306,"Universe Saigon Apartment",hotel_5409263,"Quận Phú Nhuận, TP. Hồ Chí Minh",https://is.gd/IbRFHF,6229,2,8.5,362,"Phòng Tiêu Chuẩn Giường Đôi","106.678955668749,10.809500616305",https://is.gd/o3Qqdp,455000
+307,"Cozrum Homes - Premier Residence",hotel_5441301,"Quận Bình Thạnh, TP. Hồ Chí Minh",https://is.gd/dGNSNu,6229,3,8.8,320,"Căn hộ Studio","106.705442470886,10.79631528795",https://is.gd/m4Uebe,448843
+308,"DYN OPERA Hotel",hotel_464309,"Quận 1, TP. Hồ Chí Minh",https://is.gd/w3nepf,6229,3,8.5,369,"Phòng Deluxe Giường Đôi/2 Giường Đơn","106.704129874706,10.7779915059262",https://is.gd/EorShQ,381600
+309,"Harmony Saigon Hotel & Spa",hotel_270254,"Quận 1, TP. Hồ Chí Minh",https://is.gd/N5OX4q,6229,4,8.7,760,"Phòng Deluxe Giường Đôi/2 Giường Đơn","106.690346002579,10.7720444946273",https://is.gd/xRMBwY,745208
+310,"Hà Nội Hotel",hotel_3789563,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/6OuoSr,6229,3,8.1,454,"Phòng Deluxe Có Giường Cỡ King","106.66023,10.796567",https://is.gd/dwUh9b,600000
+311,"Lotte Hotel Saigon",hotel_291654,"Quận 1, TP. Hồ Chí Minh",https://is.gd/f8pjmc,6229,5,8.6,283,"Phòng Deluxe 2 Giường Đơn","106.706782579422,10.7787213702865",https://is.gd/ztemfK,2504320
+312,"Somerset Ho Chi Minh City",hotel_191363,"Quận 1, TP. Hồ Chí Minh",https://is.gd/HeqgaQ,6229,5,8.9,1087,"Căn hộ Deluxe 1 Phòng ngủ (2 Người lớn)","106.702769994736,10.7893503134332",https://is.gd/6cpNBU,1891890
+313,"PT House",hotel_5799676,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/310yWg,6229,3,8.7,156,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.639834,10.803178",https://is.gd/Lnqhw6,260000
+314,"Meraki Boutique Hotel",hotel_557184,"Quận 1, TP. Hồ Chí Minh",https://is.gd/XwYcgv,6229,2,8.3,15,"Sử Dụng Trong Ngày (3 Giờ) - Phòng Tiêu Chuẩn Giường Đôi","106.691869452115,10.7663793003904",https://is.gd/dxZTkr,105000
+315,"Prague Hotel",hotel_2663394,"Quận 1, TP. Hồ Chí Minh",https://is.gd/YNjSRQ,6229,3,8.4,1345,"Phòng Superior Giường Đôi Không có Cửa sổ","106.693574,10.768784",https://is.gd/F04URD,456000
+316,"Blue Diamond Luxury Hotel",hotel_4684105,"Quận 1, TP. Hồ Chí Minh",https://is.gd/yvbZO6,6229,4,8.4,240,"Phòng Đôi Deluxe","106.705417,10.777787",https://is.gd/RS1OkL,692605
+317,"Havana Airport Hotel",hotel_5479543,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/mI1Tpc,6229,3,8.3,170,"Phòng Tiêu Chuẩn Giường Đôi","106.666538,10.811016",https://is.gd/oAOXFz,617400
+318,"CityHouse-Sonata Residence & Hotel",hotel_4005116,"Quận 7, TP. Hồ Chí Minh",https://is.gd/O2xyjs,6229,3,8.2,239,"Phòng Studio Đôi","106.725648,10.737473",https://is.gd/JvZbQ2,573750
+319,"Saigon Hanoi Hotel",hotel_258892,"Quận 1, TP. Hồ Chí Minh",https://is.gd/GSW5Iz,6229,3,8.1,40,"Phòng Superior Giường đôi - Không kèm Bữa sáng","106.705476343632,10.7776331603218",https://is.gd/4d7wqb,534650
+320,"The Art - G9 Homestay",hotel_5363596,"Quận 1, TP. Hồ Chí Minh",https://is.gd/c0O68V,6229,0,9.5,409,"Studio Có Ban Công","106.686007,10.766085",https://is.gd/l4sfWC,419184
+321,"Mars & Venus Hotel",hotel_6114292,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/HM5NQf,6229,3,8.5,187,"Phòng Tiêu Chuẩn Giường Đôi","106.666754,10.811231",https://is.gd/bAY2oF,373500
+322,"Ipeace Hotel",hotel_278849,"Quận 1, TP. Hồ Chí Minh",https://is.gd/GnbLaA,6229,3,8.2,520,"Phòng Tiêu chuẩn Giường Đôi - Không có Cửa sổ","106.694090366364,10.7685558077324",https://is.gd/JFsTVx,241500
+323,"Christina's - Hotel & Café",hotel_1822893,"Quận 1, TP. Hồ Chí Minh",https://is.gd/eTQxhb,6229,0,9.4,244,"Suite có Ban công.","106.686581728836,10.7653494599874",https://is.gd/XvMN8M,1762500
+324,"The One Hotel Ben Thanh",hotel_796825,"Quận 1, TP. Hồ Chí Minh",https://is.gd/xWGXJn,6229,3,7.5,319,"Ưu Đãi Sử Dụng Trong Ngày (2 giờ) - Lưu trú trong cùng ngày - Phụ phí áp dụng cho nghỉ qua đêm","106.694825828108,10.7724158020259",https://is.gd/bB6bsS,150000
+325,"Indochine Ben Thanh Hotel & Apartments",hotel_4523571,"Quận 1, TP. Hồ Chí Minh",https://is.gd/m33A2e,6229,3,8.3,757,"Phòng Superior có giường cỡ Queen","106.698911,10.773266",https://is.gd/nP2DtC,544000
+326,"Love Hotel Airport",hotel_5805742,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/WNf8Lx,6229,1,8.7,81,"Phòng Superior Giường Đôi","106.672862845404,10.8154641676104",https://is.gd/tE5u3N,433500
+327,"HoLo Bui Vien Saigon Serviced HomeStay",hotel_5512227,"Quận 1, TP. Hồ Chí Minh",https://is.gd/GwHc37,6229,3,8.4,131,"Phòng Tiêu Chuẩn Giường Đôi","106.694231,10.767823",https://is.gd/B3HUWI,420000
+328,"Innside by Melia Saigon Central",hotel_4698055,"Quận 1, TP. Hồ Chí Minh",https://is.gd/Kxui8y,6229,4,8.6,193,"The INNSIDE Room","106.702529,10.772435",https://is.gd/11Qnb8,1200000
+329,"SAIGON GARDEN HILL Resort & Apartment",hotel_4653768,"Quận Gò Vấp, TP. Hồ Chí Minh",https://is.gd/OAn1py,6229,3,7.8,65,"Căn Hộ","106.686646,10.815017",https://is.gd/dwESb5,490000
+330,"Cactusland Apartment",hotel_4342502,"Quận Phú Nhuận, TP. Hồ Chí Minh",https://is.gd/4VJw8n,6229,3,8.8,275,"Ưu Đãi Sử Dụng Trong Ngày ( 4 giờ ) - Nâng Cấp Phòng Miễn Phí (tùy vào tình trạng sẵn có)","106.673755,10.795837",https://is.gd/NGy4ee,349999
+331,"GK Central Hotel",hotel_849618,"Quận 1, TP. Hồ Chí Minh",https://is.gd/qVAFYR,6229,3,8.3,592,"Phòng Superior","106.696960330009,10.7738889502195",https://is.gd/A6omMX,520200
+332,"Sabay Airport Apartment - The Connect",hotel_4711077,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/JzlK4d,6229,3,8.6,195,"Căn Hộ có Cửa Sổ","106.66566,10.809949",https://is.gd/W48NLe,522504
+333,"Triple E",hotel_2835881,"Quận 1, TP. Hồ Chí Minh",https://is.gd/PXZqU7,6229,3,8.7,712,"Phòng Giường Đôi","106.699868,10.769153",https://is.gd/zRu8XQ,594720
+334,"Blue Sky Hotel",hotel_4328612,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/zGRsnl,6229,3,8.1,478,"Phòng Superior có giường cỡ Queen","106.66856,10.812307",https://is.gd/RMn2IY,633250
+335,"Orchid Boutique Hotel & Apartment",hotel_4439224,"Quận 7, TP. Hồ Chí Minh",https://is.gd/Ajqlqo,6229,3,9.3,58,"Phòng Deluxe 2 Giường Đơn","106.709051,10.731624",https://is.gd/BnstdN,866250
+336,"The Hut Boutique Hotel-Notre Dame",hotel_5038730,"Quận 3, TP. Hồ Chí Minh",https://is.gd/805zOW,6229,3,9.1,611,"Phòng Tiêu Chuẩn Giường Đôi","106.692978,10.786279",https://is.gd/1UgCSD,587138
+337,"Saigon Charm Hotel",hotel_3783190,"Quận 1, TP. Hồ Chí Minh",https://is.gd/fsEOST,6229,0,6.4,139,"Phòng Giường Đôi - Sử Dụng Trong Ngày (4 Giờ)","106.696585,10.773538",https://is.gd/hnPJDF,160000
+338,"HOME Hotel",hotel_6717989,"Quận Phú Nhuận, TP. Hồ Chí Minh",https://is.gd/4OX39v,6229,3,9.3,18,"Phòng Superior có giường cỡ Queen","106.675831,10.796012",https://is.gd/iVxdSD,788312
+339,"H79 HOTEL",hotel_5143598,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/hUh8SU,6229,2,8.1,264,"Ưu Đãi Sử Dụng Trong Ngày (4 Giờ) - Phòng Tiêu Chuẩn Giường Đôi","106.660005370535,10.8009308090862",https://is.gd/LibDar,170000
+340,"Novotel Saigon Centre",hotel_391572,"Quận 3, TP. Hồ Chí Minh",https://is.gd/V1hDLG,6229,4,8.3,262,"Phòng Superior Giường Đôi","106.695975959301,10.7843547042348",https://is.gd/DfjIBo,1829982
+341,"OYO 231 Thien Cung Hotel",hotel_3023885,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/QbX5uE,6229,2,8,339,"Phòng Tiêu Chuẩn Giường Đôi","106.648953,10.79668",https://is.gd/VfPDGs,316066
+342,"Saigonciti Hotel A",hotel_475727,"Quận 1, TP. Hồ Chí Minh",https://is.gd/WUXObs,6229,3,8.3,673,"Phòng Deluxe 2 Giường Đơn","106.694090366364,10.7689088941955",https://is.gd/gJB7nf,429000
+343,"Sheraton Saigon Hotel & Towers",hotel_380813,"Quận 1, TP. Hồ Chí Minh",https://is.gd/lfciwb,6229,5,8.7,151,"Phòng Superior Deluxe Có 1 Giường Cỡ King","106.704140603542,10.7756543471324",https://is.gd/CntpkM,3927000
+344,"Joy Inn Airport Hotel",hotel_6563924,"Quận Tân Bình, TP. Hồ Chí Minh",https://is.gd/OrG9uD,6229,3,7.6,52,"Phòng Tiêu Chuẩn Giường Đôi","106.637284,10.804411",https://is.gd/ZWERQL,333000
+345,"La Memoria Hotel - City Centre",hotel_571877,"Quận 1, TP. Hồ Chí Minh",https://is.gd/S7CKBD,6229,1,9.2,58,"Phòng Tiêu chuẩn 2 Giường Đơn","106.689761281013,10.7636230938754",https://is.gd/IM3giw,472000
+346,"OYO 463 Phu Hoang Nam",hotel_1835003,"Quận Bình Tân, TP. Hồ Chí Minh",https://is.gd/xL0FWO,6229,2,8.8,254,"Phòng Superior Giường Đôi","106.603734481614,10.7904730824622",https://is.gd/TAl0er,307286
+347,"The Royal Hotel & Apartment - Phu My Hung",hotel_5690082,"Quận 7, TP. Hồ Chí Minh",https://is.gd/usu9Bz,6229,2,9.1,97,"Phòng Có Giường Cỡ Queen Nhìn Ra Vườn","106.709406710889,10.7315862588328",https://is.gd/kQbxJV,515289
+348,"Sunshine Boutique Hotel Phu My Hung",hotel_5337889,"Quận 7, TP. Hồ Chí Minh",https://is.gd/FxEOvj,6229,3,8.1,57,"Phòng Tiêu Chuẩn Giường Đôi","106.70985,10.732096",https://is.gd/IazVeF,476850
+349,"Cozrum Lux Hotel",hotel_5986256,"Quận 1, TP. Hồ Chí Minh",https://is.gd/NCHEPy,6229,3,8.7,225,"Phòng Deluxe cho 3 Người","106.690591,10.771782",https://is.gd/ZzFjbm,557095
+350,"Homestead Parkview",hotel_1113703,"Quận 1, TP. Hồ Chí Minh",https://is.gd/K7opWX,6229,4,8.2,249,"Phòng Deluxe Giường Đôi","106.693178413492,10.7725609216859",https://is.gd/MkIZKS,742900
+351,"Shibrowns Nguyễn Đình Chiểu",hotel_3326356,"Quận 3, TP. Hồ Chí Minh",https://is.gd/oLbhhC,6229,3,7.5,111,"Phòng Tiêu Chuẩn Giường Đôi","106.685734,10.772566",https://is.gd/FcIeaK,226800
+352,"Mecozy Apartel",hotel_5191423,"Quận 2, TP. Hồ Chí Minh",https://is.gd/Qstp1C,6229,3,8.9,168,"Căn Hộ có Cửa Sổ","106.72985,10.804359",https://is.gd/6rl4dp,523160
+353,"Bayhomes Millenium Masteri Serviced Apartment",hotel_5758159,"Quận 4, TP. Hồ Chí Minh",https://is.gd/rFhBAk,6229,0,0,0,"Căn Hộ 1 Phòng Ngủ","106.699446,10.763508",https://is.gd/KXtNL9,950000
+354,"ACE Hotel",hotel_475362,"Quận 1, TP. Hồ Chí Minh",https://is.gd/8Q7f9O,6229,2,7.4,225,"Phòng Tiêu Chuẩn Giường Đôi","106.690238714218,10.7690195630017",https://is.gd/9a4Hdw,397500
+355,"A&EM Saigon Hotel",hotel_251823,"Quận 1, TP. Hồ Chí Minh",https://is.gd/2FE2Ar,6229,4,8,526,"Ưu Đãi Sử Dụng Trong Ngày – Phòng Premium Deluxe Giường Đôi – Lưu Trú 4 Giờ","106.696536540985,10.7744001259127",https://is.gd/o4ronA,650000
+356,"An Nam Corner - Dreamer",hotel_4032498,"Quận 1, TP. Hồ Chí Minh",https://is.gd/CoCNsp,6229,0,8.1,118,"Phòng Tiêu Chuẩn Giường Đôi","106.691318,10.765888",https://is.gd/FPY8ff,252000
+357,"The Wooden Apartments - In the heart of Ben Thanh",hotel_5146647,"Quận 1, TP. Hồ Chí Minh",https://is.gd/PMVcWf,6229,3,8.4,87,"Căn Hộ 2 Phòng Ngủ","106.6950628,10.76801",https://is.gd/BCrkJ8,1728000
+358,"A25 Star Hotel-06 Trương Định",hotel_1367267,"Quận 3, TP. Hồ Chí Minh",https://is.gd/QfgJZK,6229,3,7.4,67,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","106.691402782803,10.7763420860895",https://is.gd/EqhdT8,729000
+359,"KunKin Luxury Apartment - The Mothership",hotel_5965645,"Quận Bình Thạnh, TP. Hồ Chí Minh",https://is.gd/yJnXD4,6229,3,9.4,147,"Căn hộ Deluxe","106.707156077385,10.7967450178909",https://is.gd/7J8qYy,595320
+360,"Savanna Hotel",hotel_4822164,"Quận 1, TP. Hồ Chí Minh",https://is.gd/2i2g7k,6229,2,8.2,386,"Phòng Tiêu Chuẩn Giường Đôi","106.689887,10.76422",https://is.gd/4o4CuV,306000
+361,"The One Loft Penthouse",hotel_6235910,"Quận 1, TP. Hồ Chí Minh",https://is.gd/hIEd1q,6229,0,0,0,"Căn Hộ 1 Phòng Ngủ","106.6971482,10.7689128",https://is.gd/v0dLga,1552320
+362,"Song Xanh Hotel near SECC - FV",hotel_4787731,"Quận 7, TP. Hồ Chí Minh",https://is.gd/bQOxKs,6229,2,7.7,263,"Phòng Giường Đôi - Sử Dụng Trong Ngày (4 Giờ)","106.720763,10.736854",https://is.gd/ts1HzV,150000
+363,"9 Hostel and Bar",hotel_3443503,"Quận 1, TP. Hồ Chí Minh",https://is.gd/Kd7Gep,6229,0,8.6,1215,"Phòng Deluxe 2 Giường Đơn","106.690822,10.772065",https://is.gd/bSNWMn,142280
+364,"C Central Hotel",hotel_255264,"Quận 1, TP. Hồ Chí Minh",https://is.gd/M1KPAp,6229,3,8.3,1622,"Phòng Smart - Tòa Nhà Đề Thám","106.693966984749,10.7676520099005",https://is.gd/0SMgsZ,880000
+365,"Muong Thanh Luxury Nhat Le Hotel",hotel_1514536,"Nhat Le Beach, Ðồng Hới",https://is.gd/Zx91gA,6927,5,8.2,268,"Phòng Deluxe Giường Đôi","106.627265810966,17.4867425758527",https://is.gd/G4ru5f,900000
+366,"Vinpearl Hotel Quang Binh",hotel_3991019,"Ðồng Hới",https://is.gd/8B3NSv,6927,5,9.4,227,"Phòng Deluxe 2 Giường đơn Nhìn ra Thành phố","106.625486,17.467376",https://is.gd/aJnq7k,1197000
+367,"Sun Spa Resort & Villa",hotel_285463,"Nhat Le Beach, Ðồng Hới",https://is.gd/KKrHmc,6927,5,7.9,97,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Vườn.","106.633472442627,17.479645518912",https://is.gd/TvGEOf,1808800
+368,"Phong Nha Farmstay",hotel_4123330,"Phong Nha",https://is.gd/4j5SIR,6927,0,9.4,286,"Biệt thự có Hồ bơi Riêng","106.385233991913,17.6244335255527",https://is.gd/v1aZaD,8120000
+369,"Funny Monkeys Homestay",hotel_4022486,"Phong Nha",https://is.gd/KqRGiQ,6927,0,9.6,241,"Phòng Tiêu Chuẩn Giường Đôi","106.302875352123,17.6103027030812",https://is.gd/BFGYRZ,386100
+370,"Nguyen Shack - Phong Nha Eco Resort",hotel_3160891,"Phong Nha",https://is.gd/vdKROR,6927,0,9.5,865,"Bungalow Tam Giác Nhìn Ra Núi","106.328934431075,17.6007738797351",https://is.gd/Fef7th,562500
+371,"CKC Thien Duong Hotel",hotel_2265765,"Ðồng Hới",https://is.gd/QwndQa,6927,3,8.1,82,"Phòng Tiêu Chuẩn Giường Đôi","106.623983375147,17.4791451107219",https://is.gd/lspXAu,585000
+372,"Văn Vỏ Cổ Kim",hotel_6685263,"Thượng Thộn",https://is.gd/uvwvyP,6927,0,0,0,"Phòng Giường Đôi","106.643099001064,17.418725680479",https://is.gd/prlXYg,270000
+373,"Gold Coast Hotel Resort & Spa",hotel_2321190,"Nhat Le Beach, Ðồng Hới",https://is.gd/Net9LO,6927,5,8.7,77,"Phòng Superior Có Giường Cỡ King Nhìn Ra Cảnh Thành Phố","106.642358679346,17.463053580133",https://is.gd/0wnLkq,1275000
+374,"Carambola Bungalow",hotel_3127186,"Phong Nha",https://is.gd/S2BC0b,6927,3,9.3,535,"Bungalow Riêng Với Ban Công Và Tầm Nhìn Ra Núi","106.291346898659,17.5989171929203",https://is.gd/QWUHqH,546250
+375,"Phương Bắc Luxury Hotel",hotel_6546377,"Nhat Le Beach, Ðồng Hới",https://is.gd/QEyhGF,6927,4,8.3,4,"Phòng 2 Giường Đơn Nhìn Ra Biển","106.624390926598,17.4963556364304",https://is.gd/9s4lng,780000
+376,"THE NEST QUANG BINH",hotel_6546058,"Ðồng Hới",https://is.gd/4sWPrc,6927,0,9.7,13,"Phòng Giường Đôi Hạng Bình Dân","106.621465457672,17.4792245044809",https://is.gd/BzrkcM,287500
+377,"Windy Hotel Quang Binh",hotel_5328227,"Ðồng Hới",https://is.gd/PAyudM,6927,2,9,45,"Phòng Giường Đôi Nhìn Ra Cảnh Thành Phố","106.61683569577,17.4812056428747",https://is.gd/QPF5vk,380000
+378,"Son Doong Bungalow",hotel_4075523,"Phong Nha",https://is.gd/mlryco,6927,0,9.2,64,"Phòng Superior đôi hoặc 2 giường đơn nhìn ra hồ bơi","106.298295353287,17.6033804073255",https://is.gd/k3l3eq,800000
+379,"Vinh Hoang Hotel",hotel_2259807,"Nhat Le Beach, Ðồng Hới",https://is.gd/8YER7Q,6927,4,8.5,269,"Phòng Superior Giường Đôi","106.627142429351,17.4875097308807",https://is.gd/NH00IY,738703
+380,"Anh Linh 2 Hotel",hotel_2442805,"Ðồng Hới",https://is.gd/yWhAKm,6927,3,8.3,183,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","106.625155997206,17.4816081582926",https://is.gd/af70uS,400000
+381,"Cagina Boutique Hostel",hotel_6487781,"Ðồng Hới",https://is.gd/WgOf3H,6927,0,9.2,25,"Phòng Giường Đôi Nhìn ra Biển","106.625041682209,17.4848485889648",https://is.gd/yBJI4B,450000
+382,"Nguyễn Hoàng",hotel_6476107,"Bố Trạch",https://is.gd/GVqPaH,6927,0,0,0,"Phòng 2 Giường Đơn","106.536585,17.580133",https://is.gd/XwSlVC,250000
+383,"Karst Villas Phong Nha",hotel_5233244,"Phong Nha",https://is.gd/8ZGk4P,6927,3,9.5,46,"Căn hộ Deluxe","106.336942680542,17.6094443245163",https://is.gd/2L2CkH,552500
+384,"Riverside Hotel - Quang Binh",hotel_1696611,"Ðồng Hới",https://is.gd/Tw6mqm,6927,4,8.3,209,VIP,"106.624454855919,17.4791805373743",https://is.gd/HXX6h6,1806684
+385,"Victory Road Villas",hotel_2514207,"Phong Nha",https://is.gd/2QoVv4,6927,4,9.5,58,"Biệt Thự 1 Phòng Ngủ","106.300735708598,17.6068393827836",https://is.gd/i08k2N,3150000
+386,"Phong Nha Coco Riverside",hotel_4390297,"Phong Nha",https://is.gd/36cJt7,6927,0,9.2,105,"Phòng Deluxe Giường Đôi","106.302509139534,17.6099421985929",https://is.gd/WPLf8V,360000
+387,"Phong Nha Lake House Resort",hotel_578800,"Phong Nha",https://is.gd/DlTZKl,6927,3,9.1,227,"Phòng Deluxe Giường Đôi Nhìn Ra Hồ Bơi","106.3742852211,17.6163943089296",https://is.gd/PxDMpx,680000
+388,"Palafita Bungalow",hotel_4476874,"Phong Nha",https://is.gd/Vi0KAu,6927,0,9.6,126,"Bungalow Deluxe Nhìn Ra Khu Vườn","106.348408544594,17.6114753818364",https://is.gd/s31lv4,396000
+389,"High Dream Hostel",hotel_3451305,"Ðồng Hới",https://is.gd/O3GZQ1,6927,0,8.6,350,"Phòng 2 Giường Đơn Với Phòng Tắm Riêng","106.621687,17.474605",https://is.gd/99cets,180000
+390,"Phu Cuong Beach Hotel",hotel_2942455,"Nhat Le Beach, Ðồng Hới",https://is.gd/EcPxpk,6927,3,8.3,5,"Phòng Superior Giường Đôi","106.614316312073,17.5094843106637",https://is.gd/4l9gDR,660000
+391,"MANLI Resort Quảng Bình",hotel_6217805,"Nhat Le Beach, Ðồng Hới",https://is.gd/i69Qxy,6927,3,0,0,"Phòng Giường Đôi Nhìn Ra Vườn","106.614798373016,17.5090214635306",https://is.gd/jGqmf3,1080000
+392,"Hugo Homestay",hotel_3957008,"Phong Nha",https://is.gd/Byfy4g,6927,3,9.4,258,"Phòng Giường Đôi Nhìn ra Hồ bơi","106.320114120804,17.6163699615622",https://is.gd/EqO3qI,315900
+393,"Lucky Homes",hotel_4512118,"Phong Nha",https://is.gd/5S5NtJ,6927,0,9.5,306,"Phòng 2 Giường Đơn Nhìn Ra Hồ Bơi","106.299785442497,17.6056573070558",https://is.gd/djLAi7,356400
+394,"Sai Gon Quang Binh Hotel",hotel_394820,"Ðồng Hới",https://is.gd/ueRviT,6927,4,7.5,53,"Phòng Deluxe 2 Giường Đơn Nhìn Ra Thành Phố","106.625495553017,17.4674212902226",https://is.gd/Qvd0aD,820800
+395,"motorvina's homestay",hotel_4166864,"Phong Nha",https://is.gd/4Pww39,6927,0,9,201,"Phòng Giường Đôi","106.313814459755,17.6082232154321",https://is.gd/LurXjN,146880
+396,"Restful River Bungalow",hotel_4776629,"Phong Nha",https://is.gd/Xwv6cE,6927,0,9.2,105,"Bungalow - Nhìn Ra Mặt Nước","106.291761292126,17.599167566937",https://is.gd/IM4ivT,500500
+397,"Peaceful House Hostel",hotel_4719307,"Ðồng Hới",https://is.gd/UFtxAR,6927,0,9,100,"Phòng Deluxe Giường Đôi Có Ban Công","106.625039,17.484713",https://is.gd/JREhie,411764
+398,"Nam Long Plus Hotel",hotel_815588,"Ðồng Hới",https://is.gd/kcVYrZ,6927,2,9,292,"Phòng Tiêu Chuẩn Giường Đôi","106.623060107231,17.4784200629449",https://is.gd/X8Cbqj,360000
+399,"Phong Nha Rice Field Homestay",hotel_3429890,"Phong Nha",https://is.gd/odykNl,6927,0,9.8,96,"Phòng Giường Đôi Nhìn Ra Núi","106.325647430038,17.6028908994225",https://is.gd/3agTXq,350000
+400,"Lavender Hotel",hotel_3366217,"Ðồng Hới",https://is.gd/MgybxQ,6927,0,8.4,73,"Phòng Giường Đôi","106.620748,17.456424",https://is.gd/ciKtDm,300000
+401,"Coconut garden rooms",hotel_5426525,"Tam Tòa",https://is.gd/u7k543,6927,0,0,0,"Phòng Gia đình nhìn ra 1 Góc Biển","106.626098,17.460441",https://is.gd/9lahd9,225000
+402,"Phong Nha Coco House",hotel_2171050,"Phong Nha",https://is.gd/VmIUeZ,6927,1,9.1,501,"Phòng Deluxe Giường Đôi","106.302450299263,17.6094458135427",https://is.gd/PLE7AG,360000
+403,"Geminai Hotel & Café",hotel_1712102,"Ðồng Hới",https://is.gd/ut4aGM,6927,2,8.1,175,"Phòng Giường Đôi","106.623584982008,17.4770414151167",https://is.gd/QlI7U2,320000
+404,"Hưng Phát Bungalow",hotel_4347895,"Phong Nha",https://is.gd/GE4tcm,6927,0,9.7,320,"Phòng Deluxe","106.323480028164,17.6171312803364",https://is.gd/mtJjUM,389000
+405,"Vagibi Motel",hotel_2486674,"Ðồng Hới",https://is.gd/H5zhjZ,6927,0,8.7,96,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.618640371598,17.4727040109211",https://is.gd/qR4Cdy,250000
+406,"Thao Trang Hotel",hotel_1759844,"Ðồng Hới",https://is.gd/vxtlYN,6927,2,6.9,85,"Phòng Tiêu Chuẩn Giường Đôi","106.597815155983,17.4672202858812",https://is.gd/1AoyKf,414960
+407,"Sunday Hostel",hotel_2449038,"Ðồng Hới",https://is.gd/Doijua,6927,3,8.2,71,"Phòng 2 Giường Đơn","106.621787684656,17.4781068071261",https://is.gd/eKOZGl,200000
+408,"Tan Binh Hotel",hotel_429464,"Ðồng Hới",https://is.gd/MzlN8p,6927,3,7.8,13,"Phòng Tiêu Chuẩn Giường Đôi","106.623086929321,17.4630768605684",https://is.gd/zkgb7X,800000
+409,"Phong Nha Escape Bungalow",hotel_4941675,"Phong Nha",https://is.gd/ZHHi4g,6927,0,8.8,101,Bungalow,"106.335529778831,17.6193994069875",https://is.gd/TyaZim,400000
+410,"Sea Star Resort",hotel_2644735,"Ðồng Hới",https://is.gd/fuUfbC,6927,4,7.7,50,"Phòng Gia đình Nhìn ra Vườn","106.597017936462,17.5327056202846",https://is.gd/MjhSdq,718200
+411,"Diep Le Homestay",hotel_3296111,"Phong Nha",https://is.gd/KbgFW8,6927,0,9.2,228,"Phòng Giường Đôi có Phòng tắm riêng","106.3004976511,17.6065236842615",https://is.gd/NSRMd9,315000
+412,"Phong Nha-Tuan Garden House",hotel_2764655,"Phong Nha",https://is.gd/4u3zkU,6927,0,9.6,550,"Phòng Deluxe Gia đình","106.316112,17.613744",https://is.gd/XAQ9zb,332500
+413,"Nhà khách Xổ số Quảng Bình",hotel_3404304,"Xóm Ðé",https://is.gd/UhXc0U,6927,0,0,0,"Phòng Giường Đôi Lớn","106.625115,17.481554",https://is.gd/q3SnN8,280000
+414,"Phong Nha Garden House",hotel_1998845,"Phong Nha",https://is.gd/hMTfaf,6927,0,8.6,81,"Phòng Deluxe Giường Đôi","106.298927552998,17.6042051851779",https://is.gd/LSRy6V,405000
+415,"Applebee's Homestay",hotel_2469450,"Phong Nha",https://is.gd/NnMSyL,6927,0,9.1,77,"Phòng Giường Đôi có Phòng tắm riêng","106.301854429766,17.6086464964254",https://is.gd/H58cPC,250000
+416,"PAPA ĐỒNG HỚI HOTEL",hotel_6490362,"Nhat Le Beach, Ðồng Hới",https://is.gd/gIIcyQ,6927,3,8.3,3,"Phòng Deluxe 2 Giường Đơn","106.621117631252,17.5004527019108",https://is.gd/PAg4LJ,455000
+417,"Phu Tien Hotel",hotel_3284141,"Ðồng Hới",https://is.gd/NQf0PA,6927,0,8.5,34,"Phòng Giường Đôi/ 2 Giường Đơn Nhìn ra Thành phố","106.584119796753,17.5128192345251",https://is.gd/VR226Q,380000
+418,Balanha,hotel_6562697,"Tam Tòa",https://is.gd/3Sc77R,6927,0,0,0,"Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi","106.632416,17.472237",https://is.gd/5b8ht1,300000
+419,"Son Doong Riverside",hotel_3721050,"Phong Nha",https://is.gd/yVwg9E,6927,0,9.2,577,"Phòng 2 giường đơn với phòng tắm","106.300442583706,17.6063808167587",https://is.gd/XgQmIo,214200
+420,"Oxalis Home",hotel_2377520,"Phong Nha",https://is.gd/ju1v73,6927,0,9,12,"Phòng Giường Đôi Nhìn ra Hồ","106.269088983536,17.5849737579247",https://is.gd/W34m8c,1500000
+421,"Jade Hotel",hotel_6417704,"Phong Nha",https://is.gd/DFl8bv,6927,0,0,0,"Phòng có giường cỡ King nhìn ra cảnh núi non","106.309257621857,17.6117052293848",https://is.gd/RTE8MZ,350000
+422,"RiverView Homestay 2",hotel_5920354,"Xóm Ðé",https://is.gd/UtX6MR,6927,0,0,0,"Phòng Ngủ Tập Thể 4 Giường Cho Cả Nam Và Nữ","106.626864,17.484382",https://is.gd/wv0oH6,196800
+423,"Phong Nha Gecko Hostel",hotel_1846361,"Phong Nha",https://is.gd/pqRr19,6927,2,8.6,125,"Phòng Deluxe Có Giường Cỡ King","106.309075411061,17.610568103789",https://is.gd/Njl5ZP,180000
+424,"Anh Linh 1 Hotel",hotel_586867,"Ðồng Hới",https://is.gd/mkbF10,6927,2,8.7,48,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","106.6222178936,17.4738840132032",https://is.gd/WjhLIu,250000
+425,"Jungle Boss Homestay",hotel_1521219,"Phong Nha",https://is.gd/RPIRpo,6927,0,9.2,119,"Phòng Gia đình nhìn ra Núi","106.291303038597,17.5951815577529",https://is.gd/xbtilH,575000
+426,"Hoa Mai Hotel",hotel_3822621,"Ðồng Hới",https://is.gd/AoPtZB,6927,0,8.6,35,"Phòng Deluxe Giường Đôi","106.616320708004,17.4816088584056",https://is.gd/JcoPQm,280000
+427,"Pomelo Homestay",hotel_3792206,"Phong Nha",https://is.gd/UysJyr,6927,1,8.8,172,"Phòng 2 Giường Đơn Nhìn Ra Hồ.","106.296796601067,17.6013868861711",https://is.gd/pMK1Mi,525000
+428,"Hoai Thuong Hostel",hotel_3319126,"Ðồng Hới",https://is.gd/qr0Aun,6927,0,7.5,93,"Phòng Giường Đôi với Ban công","106.598301,17.4662",https://is.gd/xcTX6M,280000
+429,"Areca Bungalow",hotel_4052148,"Phong Nha",https://is.gd/glDkXn,6927,0,9.3,141,"Phòng Giường Đôi","106.283393,17.590781",https://is.gd/NqqrE0,455000
+430,"Phong Nha River House",hotel_1725751,"Phong Nha",https://is.gd/QcpFJB,6927,0,8.9,62,"Phòng Giường Đôi (Bằng Gỗ)","106.285911295563,17.5946272794403",https://is.gd/4RYogN,500000
+431,"Dolphin Home",hotel_2669235,"Ðồng Hới",https://is.gd/nfO1yB,6927,0,9.5,652,"Phòng Giường Đôi với Phòng tắm Riêng Bên ngoài","106.6231149,17.4754684",https://is.gd/3FPWiv,270000
+432,"Happy Greenfield",hotel_3740216,"Phong Nha",https://is.gd/nwpdL8,6927,0,9.5,66,"Bungalow Nhìn ra vườn","106.352984006145,17.6218249291117",https://is.gd/i5rMda,324000
+433,"Trung Duc hotel",hotel_5474442,"Phong Nha",https://is.gd/r50OBg,6927,0,9.4,101,"Phòng 4 người Nhìn ra cảnh Núi non","106.305640143169,17.6102387687425",https://is.gd/eFQdB4,360000
+434,"Ho Khanh's Homestay",hotel_1532390,"Phong Nha",https://is.gd/Nu2dCs,6927,0,9.6,18,"Phòng 2 Giường Đơn","106.286566257477,17.5952523994897",https://is.gd/t9FVZF,600000
+435,"Hoang Dat Hotel",hotel_2961929,"Ðồng Hới",https://is.gd/ADfF10,6927,1,8.6,9,"Phòng Gia đình Nhìn ra Vườn","106.59194097588,17.4976701761866",https://is.gd/U6kmnF,648000
+436,"Nam Long Hotel",hotel_482576,"Ðồng Hới",https://is.gd/DVE4md,6927,1,9,345,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","106.623097658157,17.4763887043945",https://is.gd/hzGRDF,280000
+437,"Adam Eva Homestay",hotel_3001480,"Ðồng Hới",https://is.gd/gOmoCN,6927,0,8.7,184,"Phòng Giường Đôi","106.622075193779,17.4752720581382",https://is.gd/8XMNd8,288000
+438,"Phong Nha Mountain House",hotel_2472172,"Vực Trô",https://is.gd/BhqpyG,6927,0,9.3,35,"Phòng Giường Đôi","106.28653138876,17.5950187787018",https://is.gd/GMj9ww,550000
+439,"Phong Nha Midtown Hotel",hotel_1709185,"Phong Nha",https://is.gd/v6cfso,6927,0,8.9,194,"Phòng 2 Giường đơn Lớn","106.310601532459,17.6099622304224",https://is.gd/jEgAgk,240300
+440,"Tropical Valley Homestay",hotel_4248014,"Phong Nha",https://is.gd/nUXKHH,6927,0,9.8,130,"Phòng Deluxe Giường Đôi","106.292265747421,17.5982568907197",https://is.gd/A100WE,399713
+441,"Tuấn Anh 2 Hotel",hotel_3276629,"Nhat Le Beach, Ðồng Hới",https://is.gd/Fa4Pui,6927,0,8.1,85,"Phòng Tiêu Chuẩn Giường Đôi","106.612688004971,17.5100231007927",https://is.gd/sDXsPw,518375
+442,"Dong Hoi Riverside",hotel_6358810,"Ðồng Hới",https://is.gd/qi11uA,6927,0,8.6,7,"Phòng Tiêu chuẩn có giường cỡ Queen","106.622346,17.477456",https://is.gd/dL0yQ2,250000
+443,"Bamboo Green Hotel",hotel_6429721,"Xóm Ðé",https://is.gd/peQmDJ,6927,2,0,0,"Phòng Tiêu Chuẩn Giường Đôi","106.623288,17.477308",https://is.gd/VfMWpg,255000
+444,"Phong Nha Orient Hotel",hotel_1745094,"Phong Nha",https://is.gd/yzyL1V,6927,0,8.5,63,"Phòng Tiêu Chuẩn Giường Đôi","106.310175061226,17.6100593779869",https://is.gd/bOJM4y,300000
+445,"Phong Nha Hillside View Bungalow",hotel_4481301,"Phong Nha",https://is.gd/FQEyvn,6927,0,9.3,157,"Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi","106.305926237934,17.6241516582631",https://is.gd/LIDBHx,382500
+446,"Amanda Hotel",hotel_2178806,"Ðồng Hới",https://is.gd/m3Crm4,6927,3,7.9,46,"Phòng Tiêu chuẩn 2 Giường Đơn","106.630892578821,17.4735965887315",https://is.gd/8SWphu,780000
+447,"Hoa Binh Hotel",hotel_1718401,"Ðồng Hới",https://is.gd/D6OstQ,6927,2,6.5,24,"Phòng Giường Đôi","106.620399355888,17.4763810291934",https://is.gd/EV4gin,350000
+448,"Nana Lee Homestay & Restaurant Quảng Bình",hotel_6628074,"Nhat Le Beach, Ðồng Hới",https://is.gd/TJFFq7,6927,0,0,0,"Phòng Giường Đôi/ 2 Giường Đơn Nhìn ra Hồ nước","106.611775,17.514387",https://is.gd/1Od6xc,500000
+449,"Osaka Hotel",hotel_1698202,"Ðồng Hới",https://is.gd/2Qlt22,6927,3,0,0,"Phòng Superior 2 Giường Đơn Nhìn Ra Biển","106.631265734763,17.4733368028567",https://is.gd/O1kocL,650000
+450,"Gold Plus Homestay",hotel_3033570,"Xóm Làng",https://is.gd/wc63Af,6927,0,0,0,"Phòng 2 Giường Đơn","106.310616109581,17.6099119339408",https://is.gd/xsEK3x,270000
+451,"Saigon Phong Nha",hotel_1527398,"Phong Nha",https://is.gd/IoCYfj,6927,2,7.7,14,"Phòng 2 Giường Đơn","106.282019913197,17.5903788986223",https://is.gd/HtNvBb,565000
+452,"Sy's Homestay",hotel_1788899,"Phong Nha",https://is.gd/O6NKay,6927,0,9.5,348,"Phòng Giường Đôi Nhìn Ra Núi","106.323979888111,17.6160213901296",https://is.gd/W6xYGz,420750
+453,"Sky Hotel",hotel_3923732,"Phong Nha",https://is.gd/enUcnh,6927,0,9.4,198,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Vườn.","106.309079796825,17.6106506401849",https://is.gd/hoz6eF,250000
+454,"An An Homestay",hotel_4834555,"Phong Nha",https://is.gd/6PFh53,6927,0,9.7,136,"Phòng Giường Đôi Nhìn Ra Núi","106.291560530605,17.5982301622968",https://is.gd/Jcr67I,315000
+455,"Thao Nguyen Homestay",hotel_2109051,"Phong Nha",https://is.gd/M9Ma38,6927,0,9.3,402,"Phòng Deluxe Có Giường Cỡ Queen","106.309638619423,17.6101622776531",https://is.gd/gMV7fd,360000
+456,"Ocean View Homestay",hotel_1190847,"Nhat Le Beach, Ðồng Hới",https://is.gd/QOSdCu,6927,0,6.8,47,"Phòng Giường Đôi Nhìn Ra Vườn","106.616585254669,17.5046952015396",https://is.gd/peBg8P,300000
+457,"Thuong Hai Hotel",hotel_1797095,"Phong Nha",https://is.gd/gttj9h,6927,2,9,106,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Núi","106.310228705406,17.6103252552651",https://is.gd/XympW9,470000
+458,"Pepperhouse Homestay",hotel_2576025,"Phong Nha",https://is.gd/FqcEDo,6927,0,9.5,44,"Biệt Thự","106.372380852699,17.6122562658441",https://is.gd/5GALNl,500000
+459,"Tam's Homestay",hotel_4710705,"Phong Nha",https://is.gd/eHCoQ1,6927,0,9.8,88,"Phòng Giường Đôi Nhìn Ra Núi","106.316456781693,17.6119815688986",https://is.gd/CC4V9C,320000
+460,"Starlet Hotel Phong Nha",hotel_4959193,"Phong Nha",https://is.gd/xMrqXh,6927,0,8.6,52,"Phòng Deluxe Giường Đôi","106.311172483875,17.6099047719014",https://is.gd/43qkBz,225000
+461,"8-3 Hotel",hotel_6404343,"Xóm Ðé",https://is.gd/PensOH,6927,2,0,0,"Phòng 2 Giường Đơn","106.618253,17.481105",https://is.gd/RfrOzK,504806
+462,"Phong Nha Friendly Home 2",hotel_4949863,"Phong Nha",https://is.gd/yha6H8,6927,3,9.4,124,"Phòng Giường Đôi Nhìn Ra Núi","106.297478742744,17.6022391319083",https://is.gd/5Bi2iB,323190
+463,"Phong Nha Homestay",hotel_2073032,"Phong Nha",https://is.gd/yWaR68,6927,0,9.1,133,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","106.312061324716,17.609557022253",https://is.gd/DTcUgj,200000
+464,"Phong Nha Friendly Home",hotel_4308828,"Phong Nha",https://is.gd/ExgIKo,6927,0,9.6,205,"Phòng Deluxe Giường Đôi","106.297956403824,17.6019720458266",https://is.gd/ejPcaj,399200
+465,"Mountain View House",hotel_6424580,"Phong Nha",https://is.gd/xc4ev6,6927,0,10,7,"Phòng 2 Giường đơn Lớn","106.312702654922,17.6096038923977",https://is.gd/6MMANp,230000
+466,"Song Toan Hotel",hotel_3464942,"Phong Nha",https://is.gd/QsxJOH,6927,0,9.4,294,"Phòng Deluxe Giường Đôi","106.311465602169,17.6098261475976",https://is.gd/cWJ7qK,225000
+467,"Tuong Minh Hotel",hotel_2393347,"Ðồng Hới",https://is.gd/k13DDD,6927,3,5.9,23,"Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển","106.621259036367,17.4738191726608",https://is.gd/LqJgAF,550000
+468,"Adp homestay & Coffee",hotel_4681411,"Ðồng Hới",https://is.gd/1Az7ku,6927,0,8.9,132,"Suite Gia Đình Có Ban Công","106.623128235675,17.4774141523337",https://is.gd/ZOohoM,247500
+469,"Phong Nha Bolero Bungalow",hotel_5393231,"Phong Nha",https://is.gd/vxdQJA,6927,0,9.2,73,"Căn hộ với Ban công","106.287432406776,17.5942735373784",https://is.gd/t61sfw,400000
+470,"Linh's Homestay",hotel_1813800,"Phong Nha",https://is.gd/y8VDFv,6927,0,9.3,117,"Phòng 2 giường đơn có ban công","106.309836605074,17.6103700739964",https://is.gd/6CP7pQ,230000
+471,"Why Not Hostel",hotel_3385349,"Nhat Le Beach, Ðồng Hới",https://is.gd/i4z2e4,6927,3,8.3,22,"Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển","106.62709,17.489611",https://is.gd/Ox0BKF,500000
+472,"Latte Motel",hotel_5462693,"Ðồng Hới",https://is.gd/J3fy2C,6927,0,0,0,"Phòng Đơn Hạng Tiết Kiệm","106.453446,17.892375",https://is.gd/fcexCI,250000
+473,"Phong Nha Love Homestay",hotel_4615013,"Phong Nha",https://is.gd/uTAQ3n,6927,0,9.5,66,"Phòng 2 Giường Đơn Nhìn ra Núi","106.316368734044,17.6125657481972",https://is.gd/QJtGoh,420000
+474,"Highway 20 Homestay",hotel_2469539,"Phong Nha",https://is.gd/rasYiP,6927,0,9.2,149,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.286019086838,17.5952031825499",https://is.gd/XhClvv,425000
+475,"BeHome HomeStay",hotel_1919588,"Phong Nha",https://is.gd/e4CXEl,6927,0,8.9,50,"Phòng Giường Đôi","106.283653378487,17.5931472447707",https://is.gd/dtpvl9,240975
+476,"Hang En Hotel",hotel_2276849,"Phong Nha",https://is.gd/eYA9hL,6927,0,9.1,86,"Phòng Giường Đôi Nhìn Ra Núi","106.307857632637,17.6110615287607",https://is.gd/Z73sUF,300000
+477,"Phong Nha Amanda Homestay",hotel_3215105,"Phong Nha",https://is.gd/yal7KF,6927,0,9.2,236,"Phòng ngủ Tập thể cho cả Nam và Nữ 6 Giường","106.313879191875,17.6193929698755",https://is.gd/PDfoY5,265000
+478,"Ngoc's Garden House",hotel_4381552,"Phong Nha",https://is.gd/KE5gd5,6927,0,9.4,147,"Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi","106.314525480362,17.6079829403104",https://is.gd/Z0S7JB,185000
+479,"Thien Thanh Hotel",hotel_1198013,"Phong Nha",https://is.gd/FZ8073,6927,2,8.4,281,"Phòng cho 3 Người Nhìn ra Núi","106.310169696808,17.6099243965817",https://is.gd/tlVNqc,246000
+480,"Paradise Hotel",hotel_1741486,"Phong Nha",https://is.gd/ligmpl,6927,0,9,41,"Phòng Tiêu Chuẩn Giường Đôi","106.309125311673,17.6105662062101",https://is.gd/3udmF6,408354
+481,"Oasis House",hotel_6352241,"Nhat Le Beach, Ðồng Hới",https://is.gd/oJNyYD,6927,0,0,0,"Phòng Giường Đôi Hạng Bình Dân","106.633127351204,17.476621009738",https://is.gd/jRYL4L,250000
+482,"Green Riverside Cosy Home",hotel_1451719,"Phong Nha",https://is.gd/rmPLP5,6927,0,9,172,"Phòng Ngủ Tập Thể 4 Giường Cho Cả Nam Và Nữ","106.298872232437,17.6042930681809",https://is.gd/VEK4HS,300000
+483,"Golden Forest Homestay",hotel_4618486,"Phong Nha",https://is.gd/BmZY59,6927,0,9.4,131,"Phòng Deluxe Giường Đôi","106.310261914139,17.6103000810529",https://is.gd/UC6sd6,300000
+484,"Jackfruit homestay",hotel_6757665,"Phú Quí",https://is.gd/j11Aj5,6927,0,0,0,"Phòng 4 Người","106.523178190991,17.490787502799",https://is.gd/DpugpU,170000
+485,"Sunshine Homestay",hotel_3577078,"Phong Nha",https://is.gd/rzbFIg,6927,0,9.5,99,"Phòng ngủ Tập thể cho cả Nam và Nữ 6 Giường","106.292782322979,17.5972048966502",https://is.gd/m5TeBU,211500
+486,"Khách Sạn Phương Nam Phong Nha",hotel_6635706,"Phường Chày",https://is.gd/j96sti,6927,2,0,0,"Phòng Deluxe 4 Người","106.283393,17.590781",https://is.gd/dT2pjk,300000
+487,"Nana Lee 2 Homestay & Villa",hotel_6712504,"Bố Trạch",https://is.gd/LnTl5r,6927,2,0,0,"Phòng Giường Đôi","106.300677,17.561864",https://is.gd/j9nL2Q,458558
+488,"Phong Nha - Tien's Cozy Homestay",hotel_3087081,"Phong Nha",https://is.gd/4mc0x1,6927,0,9.5,123,"Phòng Superior Giường Đôi","106.316953003407,17.6107394094758",https://is.gd/tro5zA,240000
+489,"Gia Nguyen Hotel Dong Hoi",hotel_6760365,"Xóm Ðé",https://is.gd/GBkJ7O,6927,2,0,0,"Phòng Tiêu chuẩn 2 Giường Đơn","106.627253,17.487644",https://is.gd/5wilq1,677851
+490,"Citadines Central Binh Duong",hotel_3661452,"Thủ Dầu Một",https://is.gd/aPf6k8,5423,4,8.8,216,"Studio Executive","106.706564827637,10.9479789369205",https://is.gd/nJvU4N,1335180
+491,"Hoang Phuc Hotel",hotel_2990409,"Thủ Dầu Một",https://is.gd/Gz0aW3,5423,1,7.9,99,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.660138964653,11.0425518187907",https://is.gd/9X0iyn,300000
+492,"The Green House - Serviced Apartment",hotel_5730767,"Thủ Dầu Một",https://is.gd/cym3RJ,5423,0,8.7,26,"Căn hộ Studio","106.664207,10.97251",https://is.gd/3pOoWN,889000
+493,"ELIZABETH HOTEL",hotel_5173251,"Phú Lợi",https://is.gd/4kkrUR,5423,0,8.1,36,"Phòng Tiêu chuẩn có giường cỡ Queen","106.675151531248,10.9740473737286",https://is.gd/WvwDMo,850000
+494,"Becamex Hotel New City",hotel_1759607,"Thủ Dầu Một",https://is.gd/JgYlZl,5423,4,8.1,70,"Phòng Deluxe Có Giường Cỡ King","106.684139370918,11.0563200533535",https://is.gd/pScidp,3072300
+495,"SUN HOTEL",hotel_6629048,"Thủ Dầu Một",https://is.gd/GWB1If,5423,2,8.3,12,"Phòng Tiêu chuẩn có giường cỡ Queen","106.678061744827,10.968022396155",https://is.gd/Osc6zu,345000
+496,"Bcons Hotel Binh Duong",hotel_3049993,"Thủ Dầu Một",https://is.gd/p1FITV,5423,4,7.8,115,"Phòng Superior Giường Đôi","106.648463,10.984929",https://is.gd/yhA7AA,640000
+497,"Hung Phuoc Hotel",hotel_2372239,"Bến Cát",https://is.gd/WLRU9R,5423,2,6.8,20,"Phòng Superior Giường Đôi","106.6033244133,11.1301283608072",https://is.gd/V4fPJn,378400
+498,"The Mira Hotel",hotel_574383,"Thủ Dầu Một",https://is.gd/91syHm,5423,5,8.3,66,"Phòng Superior Giường Đôi","106.664645075798,10.9871525166007",https://is.gd/wcvnZq,1859146
+499,"Hoa Khai Apartment & Hotel",hotel_3560504,"Xóm Mỹ Thanh",https://is.gd/o83SrD,5423,0,7.4,12,"Phòng Deluxe Giường Đôi","106.633792186508,11.140326206634",https://is.gd/hXhxl0,285600
+500,"Waterfall Residences Binh Duong",hotel_1550114,"Thủ Dầu Một",https://is.gd/JO7z6S,5423,3,8.3,50,"Căn Hộ 1 Phòng Ngủ","106.664902567863,10.9539839901691",https://is.gd/zKqllp,600000
+501,"Long Bao Chau Hotel",hotel_863408,"Thủ Dầu Một",https://is.gd/3rRKVV,5423,3,6.7,39,"Phòng Tiêu Chuẩn Giường Đôi","106.663083493677,10.9721909183468",https://is.gd/xhdR27,425000
+502,"Bideco Hotel",hotel_1939225,"Thủ Dầu Một",https://is.gd/E6L88T,5423,0,7.4,114,"Phòng Giường Đôi Hạng Tiết kiệm","106.665433142334,10.972939332254",https://is.gd/GOC79E,400000
+503,"Tran Long Hotel",hotel_2110698,"Thủ Dầu Một",https://is.gd/qoJe8j,5423,1,5.8,11,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.682941412008,11.0719795846779",https://is.gd/TC6p0i,450000
+504,"7s Hotel Diamond Binh Duong",hotel_6756101,"Thủ Dầu Một",https://is.gd/F3jlF1,5423,3,6.1,8,"Phòng Superior có giường cỡ Queen","106.666119,10.972745",https://is.gd/f7K7Sx,860000
+505,"New Hotel & Apartment",hotel_1950920,"Thủ Dầu Một",https://is.gd/8tf589,5423,3,7.5,72,"Căn hộ Tiêu chuẩn","106.676073716953,10.9668444666715",https://is.gd/sZRIEY,450000
+506,"Tiamo Hotel & Serviced Apartment",hotel_737107,"Thủ Dầu Một",https://is.gd/bbRSbk,5423,0,6.4,59,"Phòng Tiêu Chuẩn Giường Đôi","106.656807661057,10.9495713230296",https://is.gd/YCWO4i,300000
+507,"Dung Khanh Motel",hotel_6740405,"Dĩ An",https://is.gd/TDqDr0,5423,1,0,0,"Phòng Tiêu Chuẩn Giường Đôi","106.780274,10.902768",https://is.gd/IbZlQe,590232
+508,"7s Anh Duc 2 Hotel Binh Duong",hotel_6083185,"Thủ Dầu Một",https://is.gd/gxRSOb,5423,3,7.4,26,"Phòng Superior Giường Đôi","106.663193,10.975361",https://is.gd/Bt1ZQM,540000
+509,"Khách sạn Khang Điền 2",hotel_6743662,"Xóm Phước Mỹ",https://is.gd/KqsMa8,5423,3,0,0,"Phòng Giường Đôi Lớn","106.661722,10.997173",https://is.gd/X5knzX,380000
+510,"Becamex Hotel Thu Dau Mot",hotel_1027674,"Thủ Dầu Một",https://is.gd/BpB3EX,5423,3,7.6,85,"Suite Tiêu Chuẩn","106.675521405271,10.9708403975906",https://is.gd/tINHyz,2199698
+511,"Khải Hoàn Hotel",hotel_6752278,"Bến Cát",https://is.gd/GOOF9C,5423,2,9.6,10,"Phòng Deluxe Giường Đôi","106.614575103996,11.1249353869127",https://is.gd/oP7URo,328000
+512,"May Hotel",hotel_2233426,"Thuận An",https://is.gd/kDr1Ve,5423,1,8.7,167,"Phòng Tiêu Chuẩn Giường Đôi","106.697714030743,10.9587182226847",https://is.gd/gDQbym,334800
+513,"Phuong Nam Resort",hotel_3699621,"Thuận An",https://is.gd/mpMX2L,5423,0,8.1,44,"Phòng 2 Giường Đơn","106.698683,10.874885",https://is.gd/PIjUXh,1445000
+514,"Nhà nghỉ Lộc Thiên",hotel_6851581,"Ấp Nhì (1)",https://is.gd/Iao8Tx,5423,0,0,0,"Phòng Business 1 Giường Đôi với Quyền sử dụng Phòng tập thể dục.","106.73405,10.922568",https://is.gd/hQHWvY,300000
+515,"The Mira Boutique Hotel",hotel_3760831,"Thủ Dầu Một",https://is.gd/r7mSqf,5423,0,7.9,41,"Phòng Superior 2 Giường Đơn","106.667107,10.981134",https://is.gd/5qWOc3,1365903
+516,"SPRING HOTEL",hotel_4628357,"Thủ Dầu Một",https://is.gd/hTKwnt,5423,0,9,77,"Phòng Deluxe","106.710622880707,10.9060472623968",https://is.gd/O4yd4U,400000
+517,"Hotel lối về",hotel_6804635,"Dĩ An",https://is.gd/UMKNUb,5423,0,0,0,"Phòng Deluxe Giường Đôi","106.788342,10.887758",https://is.gd/nO2LsC,644000
+518,"Hoang Hung Hotel",hotel_6850115,"Dĩ An",https://is.gd/sndunI,5423,0,0,0,"Phòng Superior Giường Đôi","106.763035,10.891577",https://is.gd/GJjwLu,1580617
+519,"Hotel Thien Duong Xanh",hotel_3756337,"Bình Chuẩn",https://is.gd/pPHKcz,5423,0,8.4,37,"Bungalow Superior","106.705918251934,11.1110942160903",https://is.gd/FLVJf9,250000
+520,"Au Lac Hotel",hotel_1360719,"Bến Cát",https://is.gd/LIWV7h,5423,2,7.5,29,"Phòng Superior Giường Đôi","106.614428771472,11.1319698234698",https://is.gd/hISYSd,276750
+521,"A Plus Hotel (A+ Hotel)",hotel_2758825,"Thủ Dầu Một",https://is.gd/Tqre1t,5423,1,5.7,34,"Phòng có Giường cỡ King Nhìn ra Vườn","106.669748783079,10.971852554941",https://is.gd/jSirlN,470000
+522,"Hoang Yen Hotel",hotel_416380,"Thuận An",https://is.gd/50z94z,5423,3,8,33,"Phòng Đôi Tiêu chuẩn - Không có Cửa sổ","106.70710295426,10.872733141176",https://is.gd/UdUNyT,555156
+523,"Nhà nghỉ hoa anh đào",hotel_6813589,"Thủ Dầu Một",https://is.gd/cIaGeT,5423,0,0,0,"Phòng 2 giường đơn với toilet chung","106.740655,10.943964",https://is.gd/4w0hnJ,300000
+524,"Nhà Nghỉ 226",hotel_6555308,"Thủ Dầu Một",https://is.gd/wMVHhS,5423,0,0,0,"Phòng Giường Đôi Hạng Bình Dân","106.631454,11.140638",https://is.gd/wkaZQ2,120000
+525,"Nhà nghỉ Đế Vương",hotel_6910994,"Thủ Dầu Một",https://is.gd/jo999G,5423,0,0,0,"Phòng Giường Đôi Lớn","106.6913987,10.9823343",https://is.gd/rA24zT,240000
+526,"Nhà Nghỉ Kiss",hotel_6905528,"Ấp Phú Thọ",https://is.gd/8auRr1,5423,0,0,0,"Phòng Giường Đôi","106.6735902,10.9611922",https://is.gd/EDGAEK,290000
+527,"Quang ninh gate hotel",hotel_6660798,"Xã Thi Tính",https://is.gd/kPSNnQ,5423,1,0,0,"Phòng Giường Đôi Nhìn Ra Vườn","106.379346,21.100132",https://is.gd/aVrvxb,1000000
+528,"Đóng cửa để sửa chữa !!! STOP !!!",hotel_6736137,"Xóm Bưng Ðìa",https://is.gd/fiM0mn,5423,0,0,0,"Căn Hộ 2 Phòng Ngủ","106.678786546883,11.0463656465747",https://is.gd/DVebNW,9000000
+529,"Phạm Vân Sakura Hotel",hotel_6256264,"Ấp Bình Hòa (1)",https://is.gd/SxTK95,5423,2,0,0,"Phòng Giường Đôi Lớn","106.711321,10.930869",https://is.gd/sQXvpy,990000
+530,"Hoang Ngoc Hotel",hotel_3225390,"Dĩ An",https://is.gd/viOQKa,5423,1,8.1,51,"Phòng Tiêu Chuẩn Giường Đôi","106.749746203423,10.8772235935196",https://is.gd/YMEfam,337500
+531,"Lan Rung Hotel",hotel_5052676,"Thủ Dầu Một",https://is.gd/fNWCmS,5423,0,7.6,10,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.684302030308,11.051096295484",https://is.gd/1AubWx,632500
+532,"Lavender Hotel",hotel_2517694,"Thủ Dầu Một",https://is.gd/HdC56o,5423,2,6,22,"Phòng Tiêu Chuẩn Có Giường Cỡ King","106.66681141698,10.9751574105647",https://is.gd/bfx3ZQ,850000
+533,"Hoang Yen 2 Hotel",hotel_1783466,"Thủ Dầu Một",https://is.gd/NxAFAB,5423,2,6.1,9,"Phòng Deluxe 2 Giường Đơn","106.653202772141,10.9762357144416",https://is.gd/T7kppw,665500
+534,"Pizzpart - Becamex Binh Duong",hotel_6431203,"Xóm Bưng Ðìa",https://is.gd/yIjHtN,5423,0,0,0,"Căn Hộ 1 Phòng Ngủ","106.675756194131,11.0571369662767",https://is.gd/Rdh9zY,499000
+535,"ANMY HOTEL",hotel_4548123,"Thủ Dầu Một",https://is.gd/U0DJfp,5423,0,8.1,8,"Phòng Gia đình","106.682304676613,11.0392775429309",https://is.gd/126KRy,603000
+536,"Hoang Anh Hotel",hotel_6893545,"Dĩ An",https://is.gd/UyupEA,5423,0,0,0,"Phòng Tiêu Chuẩn Giường Đôi","106.77197,10.890815",https://is.gd/BjBjG4,871934
+537,"Bau bang",hotel_6871324,"Bình Mỹ",https://is.gd/XTUXni,5423,0,0,0,"Phòng Giường Đôi","106.65850178349,10.971021785138",https://is.gd/JB33t2,1000000
+538,"Thang Loi Hotel",hotel_6902437,"Thủ Dầu Một",https://is.gd/qflwqh,5423,3,0,0,"Phòng Superior Giường Đôi","106.662878206186,10.9774037815058",https://is.gd/knO64N,1111500
+539,"Mai Vuong Thuy Hotel",hotel_6917681,"Thủ Dầu Một",https://is.gd/cuJrxG,5423,1,0,0,"Phòng Superior Giường Đôi","106.663173,10.992359",https://is.gd/ijg7G0,1194000
+540,"The Habitat , VSIP 1, Binh Duong",hotel_6796243,"Ấp Bình Hòa (1)",https://is.gd/xVfVPB,5423,0,0,0,"Căn Hộ 2 Phòng Ngủ","106.7135718,10.9245625",https://is.gd/oeOqs7,2240000
+541,"Victoria Hotel And Apartment",hotel_6465976,"Xóm Bưng Ðìa",https://is.gd/WlDNlo,5423,0,0,0,"Căn hộ Deluxe","106.683824,11.052292",https://is.gd/rwoDrp,500000
+542,"Dang Khoi Hotel",hotel_6764081,"Thuận An",https://is.gd/IEWx8p,5423,0,0,0,"Phòng Đơn Có Ban Công","106.699433,10.885789",https://is.gd/2YutC6,1000000
+543,"Nhà nghỉ Hoa Anh Đào",hotel_6874145,"Thuận An",https://is.gd/REX0Xd,5423,0,0,0,"Phòng Tiêu Chuẩn Giường Đơn","106.742393,10.947946",https://is.gd/netMWD,300000
+544,"nhà nghỉ Hoa Anh Đào",hotel_6895156,"Xóm Chợ",https://is.gd/rfcGhW,5423,0,0,0,"Phòng Đơn","106.740655,10.943964",https://is.gd/iPFmwc,550000
+545,"HOTEL TÂN KHỞI ĐẠT",hotel_6494260,"Xóm Ông Phùng",https://is.gd/zIN0Ul,5423,1,0,0,"Phòng Đơn Có Phòng Tắm Riêng","106.684406,11.073832",https://is.gd/ZjHlWl,500000
+546,"Draha Halong Hotel",hotel_5454646,"Hòn Gai, Hạ Long",https://is.gd/bYpTFF,5288,3,8.8,216,"Budget Double Room - Day Use (3 Hours)","107.072274606152,20.949798021981",https://is.gd/dLZaMb,239623
+547,"Wyndham Legend Halong",hotel_1669848,"Bãi Cháy, Hạ Long",https://is.gd/IUUXb9,5288,5,8.5,560,"Phòng Superior 2 giường đơn - Được hút thuốc","107.060166299343,20.959676291964",https://is.gd/r8YKvV,1301685
+548,"Muong Thanh Luxury Quang Ninh Hotel",hotel_727844,"Bãi Cháy, Hạ Long",https://is.gd/MzgNhT,5288,5,8.1,318,"Phòng Deluxe Giường Đôi Nhìn Ra Thành Phố","107.049456238747,20.9566355143416",https://is.gd/SIu12i,1305000
+549,"FLC Halong Bay Golf Club & Luxury Resort",hotel_4219613,"Hạ Long",https://is.gd/VMASdM,5288,5,7.8,149,"Phòng Deluxe Giường Đôi – Nhìn Ra Sân Golf","107.107391,20.948492",https://is.gd/P4ESi4,3315000
+550,"Halios Hotel Halong",hotel_5050958,"Hòn Gai, Hạ Long",https://is.gd/vCD5DL,5288,3,9.1,360,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.075307,20.950649",https://is.gd/gdgET2,488889
+551,"Stellar of the Seas Cruise",hotel_4006656,"Tuần Châu, Hạ Long",https://is.gd/NUrb3G,5288,5,9.9,646,"Suite Junior Có Ban Công Riêng - 2 Ngày 1 Đêm","106.981785,20.928677",https://is.gd/74xwh7,9059531
+552,"Margaret Cruises",hotel_1693975,"Tuần Châu, Hạ Long",https://is.gd/c3XeOj,5288,5,9.1,122,"Phòng Deluxe nhìn ra đại dương","106.991277258231,20.9232616378242",https://is.gd/mLFAEv,13472972
+553,"Hôtel Perle d'Orient Cat Ba - MGallery",hotel_6044850,"Đảo Cát Bà",https://is.gd/DQkQJn,5288,5,7.9,67,"Phòng Cổ điển có Giường cỡ King nhìn ra Biển","107.049119100726,20.7153789666223",https://is.gd/8B3feN,2644950
+554,"Khách sạn Hải Quân - The Marine Hotel",hotel_5340458,"Bãi Cháy, Hạ Long",https://is.gd/xYyvSo,5288,3,8.8,111,"Phòng Superior Giường Đôi","107.034820073975,20.946229159908",https://is.gd/a2ewJw,225000
+555,"Halong Glory Cruise",hotel_714374,"Hạ Long",https://is.gd/bdAc3H,5288,4,8.9,25,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 2 Ngày 1 Đêm","107.060091197491,20.9513302864578",https://is.gd/YogsUz,9495000
+556,"Ramada Hotel & Suites by Wyndham Halong Bay View",hotel_6511768,"Hạ Long",https://is.gd/gN2imL,5288,5,7.8,39,"Căn hộ Superior","107.083212,20.957894",https://is.gd/htNkFQ,1248000
+557,"The Confetti hotel",hotel_4444083,"Hòn Gai, Hạ Long",https://is.gd/DuXoOu,5288,3,8.9,423,"Phòng Tiêu chuẩn 2 Giường Đơn","107.074316170639,20.9466261169908",https://is.gd/0dCzLL,498750
+558,"Muong Thanh Grand Bai Chay",hotel_5928979,"Bãi Cháy, Hạ Long",https://is.gd/P4Osyx,5288,4,7.9,24,"Phòng Deluxe Giường Đôi","107.051362,20.956453",https://is.gd/oDT3Zw,1495000
+559,"Halong Boutique Hotel",hotel_4555377,"Hòn Gai, Hạ Long",https://is.gd/sb25Ng,5288,4,8.9,250,"Phòng Cổ điển Giường Đôi/2 Giường Đơn có Cửa sổ","107.075307,20.950649",https://is.gd/q3ar4a,423714
+560,"D'Lecia Ha Long Hotel",hotel_6508134,"Bãi Cháy, Hạ Long",https://is.gd/6PGEER,5288,3,9.5,34,"Phòng Superior Có Giường Cỡ King","107.021827,20.958164",https://is.gd/S6CfUo,707850
+561,"Ha Long Essence Hotel",hotel_6709738,"Bãi Cháy, Hạ Long",https://is.gd/7WeXY9,5288,3,9.9,55,"Superior King Suite","107.039263156915,20.9458738242918",https://is.gd/yAhiBN,598000
+562,"Cat Ba Island Resort & Spa",hotel_343304,"Đảo Cát Bà",https://is.gd/MHJlfG,5288,4,6.8,129,"Phòng Superior Giường Đôi/ 2 Giường Đơn Nhìn Ra Đại Dương","107.051998972893,20.7184019982727",https://is.gd/udENMQ,1575360
+563,"Hạ Long Legend Hotel",hotel_6431746,"Hòn Gai, Hạ Long",https://is.gd/uuvnpR,5288,2,9,44,"Phòng 2 Giường Đơn","107.07217,20.948766",https://is.gd/sarSpj,400000
+564,"BBQ HOSTEL",hotel_4666714,"Hạ Long",https://is.gd/8IbULD,5288,3,9.3,298,"Phòng Giường Đôi với Ban công","107.099457762882,20.9498360665547",https://is.gd/i0bhf0,380000
+565,"Deja Vu House Ha Long",hotel_3166092,"Hòn Gai, Hạ Long",https://is.gd/YfLYK2,5288,3,9.3,132,"Phòng Nhỏ có 2 Giường đơn","107.073779325409,20.9474308736262",https://is.gd/dapKNd,435000
+566,"Le Theatre Cruises - Wonder on Lan Ha Bay",hotel_2050929,"Tuần Châu, Hạ Long",https://is.gd/gyDIVC,5288,5,9.7,821,"Junior Suite - 2 Ngày 1 Đêm","106.98246927666,20.9279799352748",https://is.gd/MMCair,10406880
+567,"Halong Glory Legend Cruise",hotel_303574,"Bãi Cháy, Hạ Long",https://is.gd/4eGEfT,5288,4,8.7,132,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 2 Ngày 1 Đêm","107.029886841774,20.9466911889514",https://is.gd/N5rvR9,5649525
+568,"Hon Gai Hotel",hotel_6814227,"Hạ Long",https://is.gd/K6Z9qL,5288,3,8.8,12,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi","107.101363388355,20.947800361563",https://is.gd/KZu4a6,654150
+569,"Căn hộ trung cư grenbay garden",hotel_6642284,"Hạ Long",https://is.gd/D8yhTB,5288,0,0,0,"Căn Hộ 2 Phòng Ngủ","107.005524056476,20.958870595004",https://is.gd/1aaXMe,1760000
+570,"Scarlet Pearl Cruises",hotel_5324093,"Hạ Long",https://is.gd/fU0VW0,5288,5,9.8,125,"Suite Silver Pearl Có ban Công","107.056122201538,20.9532492986965",https://is.gd/3IxDAB,9482597
+571,"Flamingo Cat Ba Beach Resort",hotel_6312317,"Đảo Cát Bà",https://is.gd/pcx8I4,5288,5,8.7,21,"Phòng Deluxe Nhìn ra Núi","107.052744,20.717777",https://is.gd/k1OSWB,1501000
+572,"Pusan Halong Hotel",hotel_3331031,"Bãi Cháy, Hạ Long",https://is.gd/uZOT3c,5288,3,8,182,"Phòng Deluxe Có Giường Cỡ King","107.056056977921,20.9566338568094",https://is.gd/BJosuf,648000
+573,"Halong Overnight In Cat Ba Island",hotel_6513362,"Tuần Châu, Hạ Long",https://is.gd/QpxM2k,5288,0,0,0,"Phòng Gia đình","106.9860384,20.9274495",https://is.gd/YkKAT4,6264425
+574,"Venezia Cruises",hotel_3834854,"Hạ Long",https://is.gd/ebrLwX,5288,4,9.2,146,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 2 Ngày 1 Đêm","106.89717821582,20.8024773822711",https://is.gd/JpPglh,6652800
+575,"Azela Cruise",hotel_3660275,"Hạ Long",https://is.gd/ZcJB1T,5288,4,8.6,71,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn Nhìn ra Đại dương - 2 Ngày 1 Đêm","106.990467,20.888504",https://is.gd/4GK1ua,4320000
+576,"Premier Village Ha Long Bay Resort",hotel_5737031,"Bãi Cháy, Hạ Long",https://is.gd/O8tvFv,5288,5,8.4,12,"Biệt Thự Nhìn Ra Vườn Có 2 Phòng Ngủ","107.039623,20.95099",https://is.gd/pjsR5O,5119970
+577,"Ivy Hotel",hotel_4139146,"Bãi Cháy, Hạ Long",https://is.gd/bJyydx,5288,0,8.2,95,"Phòng Giường Đôi Hạng Tiết kiệm","107.049622225517,20.9571011667932",https://is.gd/kRLQpi,404100
+578,"Lotus FLC Villa Halong Bay",hotel_6767603,"Hạ Long",https://is.gd/iyLLky,5288,0,0,0,"Biệt thự có Hồ bơi Riêng","107.1096622,20.9530758",https://is.gd/jrqXff,8000000
+579,"Orchid Ha Long Cruise",hotel_1810645,"Hạ Long",https://is.gd/drjGVd,5288,5,9.4,425,"Suite với Ban công Riêng - 2 Ngày 1 Đêm","106.902050078652,20.8072960675503",https://is.gd/XVh6fp,11309760
+580,"Image hotel halong",hotel_4484978,"Bãi Cháy, Hạ Long",https://is.gd/dgJD2U,5288,2,8.6,80,"Phòng Giường Đôi/ 2 Giường Đơn Nhìn ra Thành phố","107.050807,20.958299",https://is.gd/UGiv79,200000
+581,"Lapinta Luxury Cruises",hotel_6035772,"Tuần Châu, Hạ Long",https://is.gd/Hvv1eX,5288,5,10,4,"Suite Junior Có Ban Công - 2 Ngày 1 Đêm","106.990436,20.922347",https://is.gd/xa7mg5,30000000
+582,"Dynasty Cruises Halong",hotel_5158422,"Tuần Châu, Hạ Long",https://is.gd/n3g94x,5288,5,8.9,37,"Cabin Dynasty Deluxe Có Ban Công và Bồn Tạo Sóng - 2 Ngày 1 Đêm","106.988887,20.921378",https://is.gd/GRerrE,6872040
+583,"Sai Gon Ha Long Hotel",hotel_294741,"Bãi Cháy, Hạ Long",https://is.gd/flIw38,5288,4,8.1,257,"Phòng Superior 2 giường đơn nhìn ra đồi","107.03964471817,20.9514956080133",https://is.gd/p04Cst,1140000
+584,"Alex Hotel",hotel_427054,"Bãi Cháy, Hạ Long",https://is.gd/RwgCNs,5288,2,8.5,225,"Phòng Giường Đôi Hạng Tiết kiệm","107.051065564156,20.9576274057626",https://is.gd/0TEeTd,229878
+585,"PHAN TRUNG VILLA",hotel_6462555,"Hạ Long",https://is.gd/NSu386,5288,0,0,0,"Căn Hộ","107.00502677368,20.955881548276",https://is.gd/C9YhkY,3000000
+586,"Sea Pearl Cat Ba Hotel",hotel_341695,"Đảo Cát Bà",https://is.gd/xoNnrf,5288,3,8.1,344,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.049783468246,20.724548315423",https://is.gd/peTeqh,935000
+587,"Monkey Island Resort",hotel_286056,"Đảo Cát Bà",https://is.gd/RKJqo8,5288,3,7.6,613,"Bungalow Tiêu Chuẩn Giường Đôi","107.078488469124,20.7288445683556",https://is.gd/fYZwMZ,888250
+588,"Sealife Legend Cruises Halong",hotel_4233674,"Tuần Châu, Hạ Long",https://is.gd/sgf0JA,5288,5,9.5,11,"Suite Legend Có Ban Công Riêng - 2 Ngày 1 Đêm","106.990671814224,20.9231511177415",https://is.gd/9KIRzh,9772920
+589,"Ancora Cruises",hotel_3010590,"Hạ Long",https://is.gd/IAhnkK,5288,4,9,132,"Phòng Deluxe Giường Đôi/2 Giường Đơn có Ban công - 2 Ngày 1 Đêm","107.05644607544,20.9533485746173",https://is.gd/KXYFQv,7182000
+590,"Sunlight Legend Cruise",hotel_5211217,"Tuần Châu, Hạ Long",https://is.gd/48W1ME,5288,3,8.9,13,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn ra Biển - 2 Ngày 1 Đêm","106.983951,20.921935",https://is.gd/nAc6Gv,7370000
+591,"Vinpearl Resort & Spa Ha Long",hotel_1456596,"Bãi Cháy, Hạ Long",https://is.gd/3b9DfQ,5288,5,8.6,332,"Phòng Deluxe Có Giường Cỡ King - Chỉ Bao Bữa Sáng","107.040202617645,20.950209351397",https://is.gd/ilEH2w,3300000
+592,"Nam Dat Hotel",hotel_1240428,"Hòn Gai, Hạ Long",https://is.gd/IsaSOU,5288,2,9.1,26,"Phòng Superior Giường Đôi","107.079335973016,20.9506965830348",https://is.gd/E2c1pp,417120
+593,"An House Homestay Hạ Long",hotel_6778136,"Hạ Long",https://is.gd/T9bncp,5288,0,0,0,"Căn Hộ 1 Phòng Ngủ","107.0080697,20.9601309",https://is.gd/idbiKU,1050000
+594,"Bayhomes Villa Beverly Ha Long",hotel_6614479,"Bãi Cháy, Hạ Long",https://is.gd/dMdemM,5288,0,0,0,"Biệt thự nhìn ra biển","107.062080326056,20.959796595968",https://is.gd/icodTG,9400000
+595,"GIA BAO HOMESTAY GREEN BAY HẠ LONG, QUẢNG NINH",hotel_5480121,"Hạ Long",https://is.gd/nYYYdC,5288,0,0,0,"Căn Hộ 2 Phòng Ngủ","107.010794824359,20.959399518193",https://is.gd/FiZm4f,1400000
+596,"Ha Long DC Hotel",hotel_432529,"Hòn Gai, Hạ Long",https://is.gd/oum8ie,5288,4,8.1,460,"Phòng Superior Giường Đôi","107.07686573267,20.9518788527348",https://is.gd/jbviOT,800000
+597,"Quang Tung Hotel",hotel_3968613,"Đảo Cát Bà",https://is.gd/aJldNi,5288,3,8,200,"Phòng Giường Đôi Nhìn Ra Núi","107.051277875355,20.7217087422137",https://is.gd/dlKooQ,600000
+598,"Catba Buffalo Hostel",hotel_6492708,"Đảo Cát Bà",https://is.gd/SFrk4E,5288,0,9,24,"Phòng Deluxe Giường Đôi","107.030208288942,20.7422413275424",https://is.gd/DRq0Uu,500000
+599,"Madeline Cruises",hotel_5970627,"Tuần Châu, Hạ Long",https://is.gd/Lw2Qjp,5288,5,10,125,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Đại Dương","106.986067,20.934974",https://is.gd/23YzJr,6603520
+600,"Halong Central Hotel",hotel_1001739,"Bãi Cháy, Hạ Long",https://is.gd/0IHrVO,5288,2,7.2,60,"Phòng Tiêu chuẩn 2 Giường Đơn","107.048983375182,20.9562145215717",https://is.gd/ehyqFI,270000
+601,"Rustic house",hotel_6501619,"Đảo Cát Bà",https://is.gd/7LmuDQ,5288,2,9.6,5,"Phòng 2 Giường đơn có tầm nhìn","107.043639,20.728735",https://is.gd/8y1OKO,500000
+602,"Cat Ba Thailand Hotel",hotel_5224183,"Đảo Cát Bà",https://is.gd/bM8uMo,5288,3,8.4,59,"Phòng Giường Đôi/ 2 Giường Đơn với Phòng tắm Riêng","107.052125,20.726786",https://is.gd/QgvWAg,315000
+603,"Orestay Halong",hotel_4070520,"Bãi Cháy, Hạ Long",https://is.gd/BwCS5I,5288,3,9,247,"Giường Tầng trong Phòng ngủ tập thể cả Nam và Nữ","107.046219130936,20.9609723845425",https://is.gd/v9ZIx2,450000
+604,"Blue Lagoon Cat Ba",hotel_6303550,"Đảo Cát Bà",https://is.gd/Dm1FHx,5288,0,9.7,7,"Phòng King hướng nhìn ra hồ","107.042529,20.740126",https://is.gd/EiMHvO,675000
+605,"Catba Central Hotel 2",hotel_1586793,"Đảo Cát Bà",https://is.gd/B8VyrF,5288,2,8.4,438,"Phòng Giường Đôi Nhìn Ra Núi","107.044630944729,20.7267612421102",https://is.gd/mGGgAr,400000
+606,"Greenbay Garden Hạ Long",hotel_6856019,"Hạ Long",https://is.gd/ZsRMQ6,5288,0,0,0,"Căn Hộ 1 Phòng Ngủ","107.0080697,20.9601309",https://is.gd/5TU1Rj,900000
+607,"Tuan Chau Kingly Villa",hotel_5803027,"Tuần Châu, Hạ Long",https://is.gd/XeFsWN,5288,0,8.7,123,"Phòng Cổ Giường Đôi/2 Giường Đơn Có Cửa Sổ","106.992525668709,20.9210337548676",https://is.gd/huZnMB,630000
+608,"Nam Cat Island Resort - CatbaBay",hotel_2023619,"Đảo Cát Bà",https://is.gd/5BkSCN,5288,4,7.7,81,"Phòng Deluxe 2 Giường Đơn có Ban công và Nhìn ra Biển","107.062559165061,20.7546246672153",https://is.gd/KqpRJU,1290000
+609,"Santa Maria Cruise Halong",hotel_5698977,"Bãi Cháy, Hạ Long",https://is.gd/W3hoDT,5288,4,8.9,185,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Đại Dương","107.049518,20.955386",https://is.gd/TEbrbA,2772719
+610,"Bayhomes Villa FLC Hạ Long",hotel_6620483,"Hạ Long",https://is.gd/1ncEuv,5288,0,0,0,"Biệt Thự 2 Phòng Ngủ","107.1124566,20.9560782",https://is.gd/iEHBoE,9500000
+611,"Halong Plaza Hotel",hotel_244970,"Bãi Cháy, Hạ Long",https://is.gd/oqNkId,5288,4,8.5,586,"Phòng Superior 2 Giường Đơn Nhìn Ra Biển","107.060985565058,20.9600074730659",https://is.gd/BQ3oTq,1113883
+612,"Hometel Gia Hưng Khang",hotel_6675366,"Hạ Long",https://is.gd/3ksCsc,5288,0,0,0,"Căn Hộ","107.103141756907,20.949934453792",https://is.gd/4FdJUJ,1000000
+613,"Kun Home",hotel_6533696,"Hạ Long",https://is.gd/o6Iay3,5288,0,0,0,"Căn Hộ 1 Phòng Ngủ","107.0080697,20.9601309",https://is.gd/QDGwUz,816000
+614,"Bellezza Boutique Cruises",hotel_599035,"Tuần Châu, Hạ Long",https://is.gd/wcESbJ,5288,4,9.5,150,"Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công","106.983940601349,20.9220504628269",https://is.gd/HCu6Mi,5724000
+615,"Haradise suite villa",hotel_5483546,"Hạ Long",https://is.gd/xzDRrn,5288,0,0,0,"Phòng 2 Giường Đơn Nhìn Ra Hồ.","107.004574,20.955769",https://is.gd/qX8ess,1000000
+616,"Vincent Halong Hotel",hotel_5476230,"Bãi Cháy, Hạ Long",https://is.gd/q6Io2g,5288,3,8.7,66,"Phòng Giường Đôi Lớn","107.056079247513,20.956578371135",https://is.gd/uORBaJ,621775
+617,"Angela House Halong",hotel_3889232,"Bãi Cháy, Hạ Long",https://is.gd/47oUkT,5288,3,8.7,152,"Căn hộ 2 Phòng ngủ nhìn ra Biển","107.012819576435,20.9574834992095",https://is.gd/oi0B0U,1200000
+618,"Holiday Hotel",hotel_2442725,"Bãi Cháy, Hạ Long",https://is.gd/mQdZ7s,5288,2,5.1,30,"Phòng Tiêu Chuẩn Có Giường Cỡ King","107.0494364,20.959021",https://is.gd/guJsTP,200000
+619,"Catba Oasis Bungalows",hotel_3867879,"Đảo Cát Bà",https://is.gd/nSyda6,5288,2,8.4,965,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.051405634949,20.7212681418567",https://is.gd/JVts1e,648000
+620,"Cat Ba Green Hotel",hotel_2619330,"Đảo Cát Bà",https://is.gd/Jsfjeq,5288,2,8.9,413,"Phòng 2 Giường đơn có tầm nhìn","107.053093382274,20.724697197846",https://is.gd/8sA9X1,300000
+621,"La Paz Resort Tuan Chau Ha Long",hotel_2271007,"Tuần Châu, Hạ Long",https://is.gd/zFxura,5288,4,7.5,643,"Phòng Đồi Thông Giường Đôi/2 Giường Đơn","106.992193403309,20.9282055920577",https://is.gd/5RQK8r,837200
+622,"Mộc Chảnh Homestay",hotel_5788245,"Bãi Cháy, Hạ Long",https://is.gd/Lh2yB3,5288,0,0,0,"Căn Hộ","107.054188432541,20.959786462146",https://is.gd/VVnWwM,4500000
+623,"Sunlight Boutique Cruise",hotel_4238190,"Hạ Long",https://is.gd/g71Hyx,5288,3,8.7,76,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 3 Ngày 2 Đêm","106.902037178711,20.8066626305545",https://is.gd/kiSbos,6045000
+624,"AN HOUSE HẠ LONG",hotel_6770898,"Hạ Long",https://is.gd/Ze0uw7,5288,0,0,0,"Căn Hộ 1 Phòng Ngủ","107.0080697,20.9601309",https://is.gd/og1SML,960000
+625,"VietHouse Homestay Ha Long",hotel_6533764,"Bãi Cháy, Hạ Long",https://is.gd/SPBRzh,5288,0,9.9,9,"Phòng Giường Đôi/ 2 Giường Đơn với Phòng tắm Riêng","107.024343,20.954393",https://is.gd/daBtnv,315000
+626,"Room in Boat - Halong Bay Overnight Cruise",hotel_6513922,"Tuần Châu, Hạ Long",https://is.gd/gOuLwK,5288,0,0,0,"Phòng Gia đình","106.990158273047,20.919512585054",https://is.gd/iVXg85,5831603
+627,"Amazing Homestay Sapphire",hotel_6224772,"Hòn Gai, Hạ Long",https://is.gd/wfyEHZ,5288,4,9,36,"Căn Hộ 2 Phòng Ngủ","107.0704675,20.9514087",https://is.gd/ZCJjoY,2780602
+628,"The 1108 sapphire Ha Long",hotel_5205431,"Hòn Gai, Hạ Long",https://is.gd/eJjEyL,5288,4,9.2,60,"Căn Hộ 2 Phòng Ngủ","107.070403126984,20.951689245415",https://is.gd/0MlbXU,1280000
+629,"New Sun Hotel",hotel_4632647,"Bãi Cháy, Hạ Long",https://is.gd/BYGgq8,5288,2,8.6,49,"Phòng Deluxe Giường Đôi","107.05075,20.959351",https://is.gd/NpKK5G,360000
+630,"Passion Luxury Ha Long Hotel",hotel_6876581,"Bãi Cháy, Hạ Long",https://is.gd/D2DLxx,5288,3,9.7,6,"Phòng Tiêu Chuẩn Có Giường Cỡ King","107.031298,20.944086",https://is.gd/33w7d8,700000
+631,"Cozy House",hotel_6479680,"Hạ Long",https://is.gd/ok2Id8,5288,0,8.6,8,"Căn Hộ 2 Phòng Ngủ","107.0080697,20.9601309",https://is.gd/b1XLAv,646000
+632,"FLC Halong Bay IDCWH Villa Golf & Resort",hotel_5542513,"Hạ Long",https://is.gd/xVh16A,5288,4,8.6,4,"Biệt thự có Hồ bơi Riêng","107.106989622754,20.94941658057",https://is.gd/G39nQU,12109500
+633,"Emperor Cruises Ha Long",hotel_2269485,"Hòn Gai, Hạ Long",https://is.gd/d7uZ45,5288,5,9.6,29,"Ưu đãi Đặc biệt - Suite Đặc trưng","107.067291924237,20.956135501867",https://is.gd/eBl91L,18661709
+634,"Dora Cruise",hotel_3025394,"Tuần Châu, Hạ Long",https://is.gd/aTthAf,5288,5,9.8,55,"Suite Junior 2 Giường Đơn Nhìn Ra Biển Có Ban Công Riêng - 2 Ngày 1 Đêm","106.989437031738,20.9170888536311",https://is.gd/7rh7lC,6609600
+635,"Khách sạn Time Lotus Hạ Long",hotel_6475430,"Bãi Cháy, Hạ Long",https://is.gd/9TpuqI,5288,3,8.6,12,"Phòng Deluxe Giường Đôi","107.034881431244,20.945849505867",https://is.gd/h3vEgT,450000
+636,"Khách sạn Ngọc Lan Hạ Long Hotel",hotel_4952142,"Bãi Cháy, Hạ Long",https://is.gd/Zk1KKd,5288,3,8.3,74,"Phòng Superior Đôi có 2 Giường Đôi","107.050407,20.962021",https://is.gd/5wvX2X,505750
+637,"OYO 1080 Anh Thu 96 Hotel",hotel_6365708,"Bãi Cháy, Hạ Long",https://is.gd/95GbX3,5288,2,4.8,6,"Phòng Tiêu Chuẩn Giường Đôi","107.013016,20.957655",https://is.gd/6Et4En,169606
+638,"Homestay newlife",hotel_6430956,"Bãi Cháy, Hạ Long",https://is.gd/P9ERyW,5288,0,0,0,"Căn Hộ 2 Phòng Ngủ","107.024114334988,20.952378270205",https://is.gd/8DGBD3,1400000
+639,"Catba Dream Hotel",hotel_1661035,"Đảo Cát Bà",https://is.gd/QdQqTC,5288,2,8.1,252,"Phòng Tiêu Chuẩn Giường Đôi","107.050102651119,20.7239236602915",https://is.gd/jqAoWf,275000
+640,"Pearl Villa B24",hotel_6025651,"Bãi Cháy, Hạ Long",https://is.gd/ClQqTY,5288,0,0,0,"Biệt Thự","107.014925144613,20.9555371622541",https://is.gd/uHYKOk,4700000
+641,"Private Balcony Hotel",hotel_5636888,"Đảo Cát Bà",https://is.gd/V6oeuK,5288,0,7.5,81,"Phòng 2 Giường Đơn Nhìn Ra Khu Vườn","107.04932,20.725047",https://is.gd/cE3pRu,250000
+642,"L'Azalee Cruise Halong",hotel_580256,"Bãi Cháy, Hạ Long",https://is.gd/NBytLM,5288,3,9.3,11,"Phòng Superior Giường đôi hoặc 2 Giường đơn - 2 Ngày 1 Đêm","107.029302120209,20.946981762995",https://is.gd/3751pA,5774435
+643,"City Bay Palace Hotel",hotel_820779,"Hòn Gai, Hạ Long",https://is.gd/mOF8z5,5288,3,8.3,134,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","107.082179188728,20.9513052377215",https://is.gd/AS31yi,600000
+644,"Ha Long Park Hotel",hotel_1538889,"Hạ Long",https://is.gd/Xkc0GA,5288,2,8.4,294,"Phòng Superior 2 Giường Đơn","107.090834677219,20.951974350654",https://is.gd/fD3YDS,495000
+645,"Sunshine hostel Cat Ba",hotel_5813315,"Đảo Cát Bà",https://is.gd/NpTK6I,5288,0,9.3,6,"Phòng Đôi hoặc 2 giường đơn Lớn","107.049723,20.724212",https://is.gd/Z0aK4B,200000
+646,"Royal Lotus Ha Long Resort & Villas",hotel_2423654,"Hạ Long",https://is.gd/CagvUb,5288,4,7.1,58,"Phòng Deluxe 2 Giường Đơn","107.004870395612,20.9545789803062",https://is.gd/04P3lR,1668944
+647,"AROMA Ha Long Hostel",hotel_4313868,"Bãi Cháy, Hạ Long",https://is.gd/5IHUJ2,5288,0,8.8,219,"Phòng Giường Đôi có Phòng tắm riêng","107.02929,20.946984",https://is.gd/9juyOA,400000
+648,"Ha Long Legend Boutique Cruise",hotel_1431682,"Hạ Long",https://is.gd/mIDowX,5288,3,8.8,88,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 3 Ngày 2 Đêm","107.063193567114,20.9488609948281",https://is.gd/UTFvCm,1933200
+649,"Golden Palm HaLong Hotel",hotel_6420929,"Tuần Châu, Hạ Long",https://is.gd/ivPirO,5288,3,9.3,6,"Phòng Deluxe Giường Đôi Nhìn Ra Biển","106.986038,20.92745",https://is.gd/vjAON2,660000
+650,"NAMSON HOTEL",hotel_5687686,"Bãi Cháy, Hạ Long",https://is.gd/KlkMxe,5288,3,0,0,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Núi","107.048038,20.964384",https://is.gd/KzEDQv,850000
+651,"Hung Long Harbour Hotel Cat Ba",hotel_330537,"Đảo Cát Bà",https://is.gd/ZfLKx3,5288,3,7.4,48,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.050378918648,20.7239934010017",https://is.gd/A0sSEM,880000
+652,"Cozy Boutique Cruise",hotel_5985580,"Đảo Cát Bà",https://is.gd/kQyxk2,5288,0,8.2,5,"Phòng Deluxe Giường Đôi/2 Giường Đơn","107.059202667114,20.7319589699534",https://is.gd/3uZnQC,4895520
+653,"Song Loc Luxury Hotel",hotel_2598111,"Bãi Cháy, Hạ Long",https://is.gd/Z2Vw0p,5288,4,8.4,105,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","107.022747,20.954033",https://is.gd/8NlJar,699000
+654,"The GEILA Green Bay Garden Ha Long",hotel_6840601,"Hạ Long",https://is.gd/1YHg34,5288,3,0,0,"Studio Có Ban Công","107.007821872491,20.958075166644",https://is.gd/kpVT1t,630000
+655,"Villa FLC BT 10 -04",hotel_6711279,"Hạ Long",https://is.gd/CvyGWm,5288,0,0,0,"Biệt Thự","107.1089957,20.94579",https://is.gd/eyjjwB,4000000
+656,"Nhà nghỉ Anh Thơ",hotel_5175073,"Hạ Long",https://is.gd/336Pms,5288,0,0,0,"Phòng 2 giường đơn với phòng tắm","106.978507,20.955471",https://is.gd/ffjpSx,360000
+657,"Azalea Cruise",hotel_2429925,"Hạ Long",https://is.gd/2M9BZS,5288,5,9.4,593,"Phòng Deluxe Giường Đôi/2 Giường Đơn có Ban công - 2 Ngày 1 Đêm","106.901966749728,20.8069441091587",https://is.gd/Dx7wR1,9659944
+658,"THAI HA BOUTIQUE",hotel_6589418,"Bãi Cháy, Hạ Long",https://is.gd/U4hEmK,5288,3,0,0,"Phòng Tiêu chuẩn 2 Giường Đơn","107.048038,20.964384",https://is.gd/1SfrFy,650000
+659,"Ruby Hotel",hotel_5366705,"Hạ Long",https://is.gd/IEULfz,5288,0,8.1,8,"Phòng Deluxe Giường Đôi","107.095127486183,20.955503815367",https://is.gd/Ok3JDr,300000
+660,"Mon Cheri Cruises 2",hotel_4843681,"Tuần Châu, Hạ Long",https://is.gd/4ipoLg,5288,5,9.4,38,"Suite Ocean Với Ban Công - 2 Ngày 1 Đêm","106.979633253784,20.9277237314471",https://is.gd/M8sFpR,7412123
+661,"Ocean Cruise",hotel_2754109,"Đảo Cát Bà",https://is.gd/2r5UZ0,5288,0,9,59,"Phòng Deluxe Giường đôi hoặc 2 Giường đơn - 2 Ngày 1 Đêm","107.051063057672,20.7247550784151",https://is.gd/bsd38M,3946300
+662,"Full House Ha Long Hotel",hotel_6529776,"Hòn Gai, Hạ Long",https://is.gd/QCP31Z,5288,2,8.5,8,"Phòng Superior 2 Giường Đơn","107.068708,20.953612",https://is.gd/JgLzzV,375000
+663,"Zen Hotel Hạ Long",hotel_6852431,"Hạ Long",https://is.gd/rAo7G3,5288,0,0,0,"Phòng Deluxe Giường Đôi Có Bồn Tắm","107.099556490738,20.9509741369655",https://is.gd/o5Vrmx,667500
+664,"Deluxe Bay View Apartment - Near Beach",hotel_5596410,"Hạ Long",https://is.gd/v2xZLN,5288,3,9.6,13,"Căn Hộ 2 Phòng Ngủ","107.007838714294,20.958461608861",https://is.gd/VFt6wM,810000
+665,"Manchester Hotel Ha Long",hotel_5035654,"Bãi Cháy, Hạ Long",https://is.gd/drgHPJ,5288,2,8.5,82,"Phòng Tiêu chuẩn Giường Đôi hoặc 2 Giường Đơn","107.04476,20.953266",https://is.gd/qDzh8B,450000
+666,"Sunlight Cruise",hotel_2994763,"Hạ Long",https://is.gd/w5XJv7,5288,3,8.2,81,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn ra Biển - 3 Ngày 2 Đêm","106.901991348023,20.8071570414275",https://is.gd/ub2OQU,5200000
+667,"Alice House FullHouse Ha Long",hotel_6446145,"Hòn Gai, Hạ Long",https://is.gd/bqEKw4,5288,0,9,5,"Căn Hộ","107.07297564078,20.948421968917",https://is.gd/9HzzZH,4050000
+668,"HOMESTAY BINBONG BÃI CHÁY",hotel_3818629,"Bãi Cháy, Hạ Long",https://is.gd/T7tFBB,5288,0,8.8,23,"Căn Hộ 3 Phòng Ngủ","107.024252,20.952305",https://is.gd/IrQH6J,1500000
+669,"Puluong Retreat",hotel_1993657,"Pu Luong",https://is.gd/MEIpUg,6886,3,8.8,92,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Núi","105.149492025375,20.4451545129554",https://is.gd/zVgeZR,1359000
+670,"Dai Viet Hotel",hotel_3857424,"Thanh Hóa",https://is.gd/uJNpfx,6886,3,8.7,185,"Phòng Superior 2 Giường Đơn","105.773114255295,19.8119528428353",https://is.gd/etqZoD,680000
+671,"Puluong Home",hotel_3923540,"Pu Luong",https://is.gd/RuMVI3,6886,0,8.6,201,"Phòng Giường Đôi Nhìn Ra Vườn","105.150174,20.44517",https://is.gd/kD3aZB,620000
+672,"Pu Luong Ecocharm",hotel_6328821,"Huyện Bá Thước",https://is.gd/JS3w1t,6886,0,8.7,28,"Bungalow Nhìn ra vườn","105.150174,20.44517",https://is.gd/JLV0bB,1512000
+673,"Muong Thanh Grand Thanh Hoa Hotel",hotel_1266675,"Thanh Hóa",https://is.gd/7qg8kQ,6886,4,8.5,135,"Phòng Deluxe Có Giường Cỡ King","105.778378844261,19.7825393853397",https://is.gd/BEquxj,840336
+674,"Pu Luong Eco Garden",hotel_3968687,"Pu Luong",https://is.gd/xeTXuB,6886,0,8.7,315,"Phòng Ngủ Tập Thể Cho Cả Nam Và Nữ","105.119570522788,20.470327437425",https://is.gd/NetHOC,546000
+675,"Pu Luong Natura",hotel_5553333,"Pu Luong",https://is.gd/Q0IxhB,6886,0,9.2,128,"Giường trong Phòng ngủ tập thể cả Nam và Nữ 10 Người","105.156212177392,20.4482396231345",https://is.gd/fLbnnh,965250
+676,"PU LUONG BOUTIQUE GARDEN",hotel_5811458,"Pu Luong",https://is.gd/zC4gps,6886,0,8.8,40,"Giường trong Phòng ngủ tập thể cả Nam và Nữ 10 Người","105.153266720871,20.4496384741179",https://is.gd/JMMorU,510150
+677,"Biet thu FLC Sam Son SB21",hotel_5204195,"Sầm Sơn",https://is.gd/oJ098K,6886,0,0,0,"Biệt Thự Nhìn Ra Vườn","105.910081,19.751302",https://is.gd/FZ9RqO,7300000
+678,"Pu Luong Treehouse",hotel_3713786,"Pu Luong",https://is.gd/PF3etG,6886,0,9.6,67,"Phòng Giường Đôi với Phòng tắm Chung","105.150174,20.44517",https://is.gd/L0q0mK,900000
+679,"Huy hoàn hotel + restaurant",hotel_6812603,"Thanh Hóa",https://is.gd/mfpLV5,6886,3,0,0,"Phòng Superior 2 Giường Đơn Nhìn Ra Biển","105.798209,19.340678",https://is.gd/rOiAub,660000
+680,"FLC Luxury Resort Samson",hotel_1411634,"Sầm Sơn",https://is.gd/yHZOi2,6886,5,7.9,26,"Biệt Thự Có Hồ Bơi","105.917885899544,19.7645340947728",https://is.gd/wk0XeE,4335000
+681,"Long Anh Hotel",hotel_4044377,"Thanh Hóa",https://is.gd/HRHioW,6886,0,8.9,106,"Phòng 2 Giường Đơn Có Vòi Sen","105.77801,19.804727",https://is.gd/lhcZOI,585000
+682,"FLC Grand Hotel Samson",hotel_3031746,"Sầm Sơn",https://is.gd/p4BJav,6886,5,7.7,170,"Phòng Grand Comfort","105.914308,19.757601",https://is.gd/BpMb32,2635000
+683,"Pu Luong Riverside Lodge",hotel_6599778,"Thanh Hóa",https://is.gd/c2frqu,6886,0,9,30,"Bungalow Deluxe Nhìn Ra Khu Vườn","105.220264,20.469079",https://is.gd/FZYzk8,396000
+684,"Anh Phat 2 Hotel",hotel_2246153,"Nghi Sơn",https://is.gd/JYgAA9,6886,3,8.5,14,"Phòng 2 Giường Đơn","105.798056870699,19.3369681578373",https://is.gd/wC0hLR,807500
+685,"Khách Sạn Phượng Hoàng 3",hotel_6602055,"Thanh Hóa",https://is.gd/DNjcIY,6886,4,8,8,"Phòng Deluxe Giường Đôi","105.779328,19.808159",https://is.gd/rm7RtK,600000
+686,"Puluong Ohayo",hotel_6752504,"Thanh Hóa",https://is.gd/GByJuc,6886,0,9.2,15,"Phòng 2 Giường Đơn Nhìn Ra Khu Vườn","105.155108113106,20.446740493129",https://is.gd/1Bh2sT,820800
+687,"FLC Luxury Hotel Samson",hotel_1423910,"Sầm Sơn",https://is.gd/JN6pgb,6886,5,7.4,250,"Suite Studio","105.917826890945,19.7644960687555",https://is.gd/IohaxR,2635000
+688,"Pù Luông Glamping",hotel_4713852,"Thanh Hóa",https://is.gd/d6s1TA,6886,0,9,46,"Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)","105.150174,20.44517",https://is.gd/Clyo5C,1050000
+689,"Villa FLC Sầm Sơn Thanh Hóa",hotel_6593644,"Hăi Thôn",https://is.gd/d5MtuL,6886,0,0,0,"Biệt Thự","105.905483925,19.764538963885",https://is.gd/rP7KqZ,6000000
+690,"Pu Luong Holiday",hotel_3028008,"Làng Chiêu",https://is.gd/EYsHCi,6886,0,9,114,"Phòng Giường Đôi","105.222064,20.464171",https://is.gd/JzzYdx,419175
+691,"Phúc Đức Motel",hotel_5745478,"Thanh Hóa",https://is.gd/mn3FMp,6886,3,8.5,23,"Phòng Giường Đôi","105.788432,19.79974",https://is.gd/6kjTJt,220000
+692,"Xuan Thanh Hotel",hotel_4713827,"Thanh Hóa",https://is.gd/yCE6CF,6886,0,8.5,89,"Phòng Tiêu Chuẩn Giường Đôi","105.792741,19.81371",https://is.gd/5QehdX,229000
+693,"Monza Villa",hotel_4711020,"Sầm Sơn",https://is.gd/WqI4WR,6886,3,8.3,116,"Phòng có Giường cỡ King Nhìn ra Vườn","105.91475731393,19.7608034282657",https://is.gd/8gIEsT,546750
+694,"Palm Hotel Thanh Hoa",hotel_1962131,"Thanh Hóa",https://is.gd/NeTxtR,6886,3,8.8,75,"Phòng Deluxe 2 Giường Đơn","105.773016605526,19.81205920528",https://is.gd/ac7Wqq,666000
+695,"KingSales Hotel",hotel_5953008,"Thanh Hóa",https://is.gd/vbWT9d,6886,3,8.7,54,"Phòng Giường Đôi Nhỏ","105.788714150787,19.8077548448731",https://is.gd/QtvWFp,300000
+696,"Tường Vy Villa FLC Sầm Sơn",hotel_6460767,"Sầm Sơn",https://is.gd/DsCgp8,6886,0,0,0,"Biệt Thự","105.919012443808,19.767984346628",https://is.gd/ZhRoZi,6000000
+697,"Biệt Thự FLC Sầm Sơn",hotel_6415229,"Thanh Hóa",https://is.gd/5AL8KF,6886,0,0,0,"Biệt thự có Hồ bơi Riêng","105.8175933,19.7742316",https://is.gd/2nXZki,4000000
+698,"Khách Sạn Trống Đồng",hotel_3430185,"Thanh Hóa",https://is.gd/52FhiA,6886,0,8.9,150,"Phòng Superior 2 Giường Đơn","105.779964734779,19.812033437621",https://is.gd/tKWotD,430000
+699,"Jungle Lodge Pu Luong",hotel_6382581,"Pu Luong",https://is.gd/55ldjI,6886,0,9.4,11,"Bungalow Deluxe Nhìn Ra Khu Vườn","105.137591,20.434805",https://is.gd/iv9daW,1350000
+700,"Semec Hotel Nghi Son",hotel_4304115,"Tĩnh Gia",https://is.gd/J7KzHN,6886,3,6.5,18,"Phòng Superior Có Giường Cỡ King","105.744351816956,19.3860988537804",https://is.gd/3dN8LE,435600
+701,"Ciel de Puluong Resort",hotel_5513211,"Pu Luong",https://is.gd/0QhRag,6886,0,8.4,44,"Phòng có giường cỡ King nhìn ra cảnh núi non","105.156795084023,20.4452061883416",https://is.gd/rsysjo,1323000
+702,"VILLA FLC SẦM SƠN THANH HÓA",hotel_6628466,"Việt Yen (2)",https://is.gd/Yv8PAG,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.8175933,19.7742316",https://is.gd/aYJqXI,6000000
+703,"3B beach house Hải Tiến",hotel_6608282,"Mỹ Ðuc",https://is.gd/Hn44eh,6886,0,0,0,"Ngôi Nhà 2 Phòng Ngủ","105.941211295245,19.856064982983",https://is.gd/cZr1cp,5400000
+704,"Van Chai Resort",hotel_446900,"Sầm Sơn",https://is.gd/AgXQbo,6886,4,8,75,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Vườn.","105.914184451103,19.7571578782236",https://is.gd/vMT4vj,1349920
+705,"Anh Phat Hotel 3",hotel_6191198,"Tĩnh Gia",https://is.gd/plgD5y,6886,4,0,0,"Phòng Gia đình","105.730418948303,19.3442924647498",https://is.gd/tJWjHJ,1320000
+706,"Phương Thuỷ Hotel",hotel_6504207,"Sầm Sơn",https://is.gd/S8GQ0l,6886,0,8.1,20,"Phòng 2 Giường Đơn Nhìn Ra Biển","105.899474,19.730532",https://is.gd/jk6Prl,300000
+707,"Valley Homestay",hotel_5282399,"Thanh Hóa",https://is.gd/Wj5wdL,6886,0,0,0,"Phòng Giường Đôi/ 2 Giường Đơn với Phòng tắm Chung","105.021406,20.553235",https://is.gd/MD3lJA,981818
+708,"HOẰNG MINH HOTEL",hotel_6571576,"Sầm Sơn",https://is.gd/KOIYwR,6886,0,8.2,10,"Phòng có Giường cỡ King","105.916469,19.764485",https://is.gd/eryPQf,400000
+709,"Ban Hieu Garden Lodge",hotel_2030529,"Làng Cào",https://is.gd/pEeDHj,6886,0,8.2,29,"Phòng Giường Đôi với Ban công","105.190828219056,20.4526400415855",https://is.gd/CrSmpj,890000
+710,"Villa FLC Sầm sơn -NT01",hotel_6495735,"Sầm Sơn",https://is.gd/WZWDOn,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.9191675,19.766346",https://is.gd/miYsdM,11000000
+711,"The Marron Hotel",hotel_4762776,"Thanh Hóa",https://is.gd/ufm1cy,6886,3,7.5,30,"Phòng 2 Giường Đơn","105.908745,19.749061",https://is.gd/VnGo7m,650000
+712,"Pu Luong Discovery",hotel_5528541,"Làng Chiên (1)",https://is.gd/aKvBCA,6886,0,7.1,13,Bungalow,"105.172682,20.466527",https://is.gd/3JfaEa,1480148
+713,"Biệt thự Sao Biển - SB118 FLC Sầm Sơn Resort",hotel_3417580,"Sầm Sơn",https://is.gd/0l9DPk,6886,3,8.9,5,"Biệt Thự","105.92277,19.768938",https://is.gd/hf9lJM,8100000
+714,"Villa 4PN - Eureka Linh Trường",hotel_6540378,"Thanh Hóa",https://is.gd/6txgAn,6886,0,0,0,"Căn Hộ","105.941050362704,19.856357621553",https://is.gd/RaGffs,3825000
+715,"Villa FLC Sầm Sơn Thanh Hóa",hotel_6442695,"Lôc Hải",https://is.gd/Sxhjiy,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.918725942822,19.775246471133",https://is.gd/s1N9S3,6000000
+716,"Khách sạn Hoàng Thái",hotel_4925026,"Sầm Sơn",https://is.gd/UImsvw,6886,3,8.4,12,"Phòng Đôi hoặc 2 giường đơn Lớn","105.898124,19.736492",https://is.gd/kKgu5x,600000
+717,"Central Hotel Thanh Hoa",hotel_2280904,"Thanh Hóa",https://is.gd/sDE05b,6886,5,8.8,55,"Phòng Deluxe Giường Đôi","105.816982537508,19.7852626670406",https://is.gd/KflLtf,1200000
+718,"SAMBLUE HOTEL",hotel_6439894,"Binh Tân",https://is.gd/fKzk9s,6886,3,0,0,"Phòng 4 Người Tiện nghi","105.900747,19.740233",https://is.gd/7x59BW,700000
+719,"Villa FLC Sầm sơn -SB67",hotel_6493251,"Sầm Sơn",https://is.gd/En9tIQ,6886,0,0,0,"Căn hộ với Ban công","105.918557,19.76412",https://is.gd/nfv8Nm,6500000
+720,"Phuong Hoang Hotel",hotel_1424952,"Thanh Hóa",https://is.gd/0zymI8,6886,3,7.8,14,"Phòng Deluxe Giường Đôi","105.804859603766,19.7988047128469",https://is.gd/5cHzpL,490000
+721,"Camellia Hotel",hotel_4643978,"Thanh Hóa",https://is.gd/ziIrB5,6886,0,8.7,100,"Phòng Deluxe Giường Đôi","105.776319,19.785268",https://is.gd/AC9EBX,220000
+722,"Dragon Style hotel",hotel_5271125,"Sầm Sơn",https://is.gd/bEgxY8,6886,4,9.3,3,"Phòng 2 Giường đơn có tầm nhìn","105.889757,19.737601",https://is.gd/g37dd2,2800000
+723,"FLC Sam Son SB14 9 phong ngu",hotel_2286634,"Sầm Sơn",https://is.gd/GF2Hci,6886,3,8.8,9,"Villa Deluxe","105.921095895584,19.7692912932887",https://is.gd/yGP6mw,4500000
+724,"Anh Phat Hotel 1",hotel_6191231,"Thanh Hóa",https://is.gd/owlQDd,6886,3,0,0,"Phòng Deluxe Giường Đôi","105.760803,19.810643",https://is.gd/taLWlM,1000000
+725,"Dragon Sea Hotel",hotel_1448546,"Sầm Sơn",https://is.gd/fVOXX8,6886,4,8.5,53,"Phòng Deluxe 2 Giường đơn Nhìn ra cảnh Biển của Thành phố","105.901489520771,19.7356633793144",https://is.gd/iCupfG,1050000
+726,"Villas FLC Sầm Sơn 6 phòng ngủ có bể bơi",hotel_6416120,"Thanh Hóa",https://is.gd/HJepOd,6886,0,0,0,"Biệt Thự","105.9177481,19.7630577",https://is.gd/Jpbl1K,2700000
+727,"Biệt thự FLC Sầm Sơn View hồ điều hòa BT40-08",hotel_6445700,"Sầm Sơn",https://is.gd/Szofdg,6886,0,0,0,"Biệt Thự","105.915367721705,19.7652388959",https://is.gd/Y3u6LU,5000000
+728,"Khách Sạn Phú Hồng 3 Sầm Sơn",hotel_6703934,"Thanh Hóa",https://is.gd/TtZZJ1,6886,3,0,0,"Giường Trong Phòng Ngủ Tập Thể 8 Giường","105.919168,19.766346",https://is.gd/YCtLDq,300000
+729,"SH20 Villa/FLC Samson",hotel_3183594,"Sầm Sơn",https://is.gd/NOUiJC,6886,0,8.5,5,"Biệt Thự","105.920981168747,19.7667641317003",https://is.gd/cIf5uz,5000000
+730,"Biệt thự biển FLC Sầm Sơn Thanh Hóa",hotel_3438351,"Thanh Hóa",https://is.gd/6hYAt2,6886,3,0,0,"Biệt Thự","105.92277,19.768938",https://is.gd/NShTaj,4000000
+731,"Ngoc Trai 01 Villa FLC Sam Son",hotel_2448189,"Sầm Sơn",https://is.gd/Lv9TjC,6886,0,8,3,"Biệt thự Tiêu chuẩn","105.9102705,19.7513488",https://is.gd/gxXgRM,3500000
+732,"Villa Sầm Sơn 7 phòng ngủ có bể bơi sân vườn rộng",hotel_6416875,"Sầm Sơn",https://is.gd/i1ArfA,6886,0,0,0,"Biệt Thự","105.9177481,19.7630577",https://is.gd/t8igTl,3500000
+733,"Anh Quang Hotel",hotel_6455954,"Hoằng Hóa",https://is.gd/lVpauP,6886,3,8.1,8,"Phòng 4 người nhìn ra vườn","105.936163,19.84688",https://is.gd/1OiTdX,550000
+734,"Nghi Son hotel",hotel_3964008,"Thanh Hóa",https://is.gd/FkRu6h,6886,0,8.8,13,"Phòng Giường Đôi Hạng Tiết kiệm","105.799477,19.33647",https://is.gd/S0ilBD,880000
+735,"Biet Thu FLC Sam Son SB88",hotel_5209830,"Thanh Hóa",https://is.gd/Kzr0je,6886,0,0,0,"Biệt thự Superior","105.899671,19.731051",https://is.gd/pbWtET,9700000
+736,"Royal Hotel Sầm Sơn",hotel_6465680,"Sầm Sơn",https://is.gd/zFUi6h,6886,0,6.6,9,"Phòng Superior Giường Đôi","105.899952,19.735744",https://is.gd/H6TBlz,750000
+737,"Hương homestay - biển Hải Tiến",hotel_6259292,"Nam Khê",https://is.gd/R0r4fy,6886,0,0,0,"Phòng Giường Đôi","105.940786899822,19.8592566435324",https://is.gd/jbQzt3,750000
+738,"Ngoc Linh Villas",hotel_2984788,"Lê Vinh",https://is.gd/e8pIb9,6886,2,8.2,20,"Phòng Giường Đôi Nhìn ra Biển","105.807470083237,19.4507201848981",https://is.gd/p5qP3b,800000
+739,"Thanh hoá",hotel_6542746,"Việt Yen (2)",https://is.gd/TcbRnK,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.8175933,19.7742316",https://is.gd/GlSR4L,640000
+740,"Khách sạn Hồ Gươm",hotel_3445685,"Sầm Sơn",https://is.gd/RyQD0s,6886,2,6.2,125,"Phòng 2 Giường Đơn","105.90027,19.733161",https://is.gd/m5tBQS,300000
+741,"Khách sạn Sao Mai",hotel_5975147,"Thanh Hóa",https://is.gd/SCg7ZF,6886,3,0,0,"Phòng Deluxe Giường Đôi","105.77268,19.812451",https://is.gd/EODyCF,650000
+742,"Minh Hang Hotel 2",hotel_6442252,"Thanh Hóa",https://is.gd/RUmwO0,6886,0,9.3,3,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.769631922615,19.7778196309738",https://is.gd/c2fWd0,280000
+743,"Homestay Đại Dương Xanh",hotel_6443625,"Thanh Hóa",https://is.gd/GrxTwe,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.836399628836,19.664639071205",https://is.gd/UkueQm,550000
+744,"Kim Chung Hotel",hotel_6496530,"Thanh Hóa",https://is.gd/hI7KgX,6886,0,0,0,"Phòng Tiêu Chuẩn Giường Đôi","105.776374,19.804712",https://is.gd/ej5MSi,410000
+745,"Homestay Biển Hải Tiến",hotel_6605799,"Thanh Hóa",https://is.gd/nd7wrk,6886,0,0,0,"Phòng Giường Đôi","105.870132,19.853277",https://is.gd/qSt7Wv,450000
+746,"FLC Xanh Tot Hotel",hotel_6522033,"Thanh Hóa",https://is.gd/n4lmZl,6886,0,0,0,"Phòng Deluxe Giường Đôi","105.919168,19.766346",https://is.gd/XcnZ1y,900000
+747,"Minh Chau Hotel",hotel_3502772,"Sầm Sơn",https://is.gd/67nkwD,6886,0,5.8,6,"Phòng 4 Người Nhìn Ra Biển","105.90875617791,19.7493925909069",https://is.gd/0EXOMN,630000
+748,"Ngoc Trai 02 FLC Sam Son",hotel_2288905,"Sầm Sơn",https://is.gd/VMi7ii,6886,0,6.7,4,"Biệt thự nhìn ra biển","105.9102705,19.7513488",https://is.gd/1ZEL4P,3500000
+749,"Chảnh coffee",hotel_6603688,"Sầm Sơn",https://is.gd/2oHV3r,6886,0,3.3,3,"Phòng Giường Đôi","105.895195,19.734042",https://is.gd/02ECMm,300000
+750,"Nhà Nghỉ Hoàng Việt",hotel_6410618,"Binh Tân",https://is.gd/lygseW,6886,0,0,0,"Phòng Giường Đôi","105.903905,19.745165",https://is.gd/N89UPW,500000
+751,"Thành Lợi Hotel",hotel_6540652,"Thanh Hóa",https://is.gd/c7WY4t,6886,0,0,0,"Phòng Giường Đôi Deluxe Nhìn ra Phía Biển","105.936023,19.843231",https://is.gd/PKXtg8,400000
+752,"Homestay Đại Dương Xanh",hotel_6611438,"Thanh Hóa",https://is.gd/0J1rD4,6886,0,0,0,"Căn Hộ","105.836786292493,19.665792423856",https://is.gd/2KtA0Y,550000
+753,"PHÒNG VIP",hotel_5743977,"Thanh Hóa",https://is.gd/fsdNOp,6886,1,0,0,"Phòng Giường Đôi","105.8031,19.830799",https://is.gd/c0kk7p,400000
+754,"Sunny Hotel",hotel_4181700,"Thanh Hóa",https://is.gd/c3urB0,6886,0,9.2,5,"Phòng Deluxe Giường Đôi/2 Giường Đơn","105.778213,19.782331",https://is.gd/Dmou1V,315000
+755,"Mùi Oanh Sầm Sơn",hotel_4800651,"Sầm Sơn",https://is.gd/N6BXfP,6886,0,8,59,"Phòng 2 Giường Đơn","105.899060035374,19.7305915041442",https://is.gd/dyw2fX,400000
+756,"Marissa Hotel & Spa Hai Tien",hotel_4730399,"Thanh Hóa",https://is.gd/VBkXR1,6886,0,7.1,10,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.93325935051,19.8324897619358",https://is.gd/7Vu1rk,875000
+757,"Nhà nghỉ Việt Hưng",hotel_6478148,"Sầm Sơn",https://is.gd/LNox3b,6886,0,0,0,"Phòng 4 Người","105.902868,19.741327",https://is.gd/g23bqg,350000
+758,"Pu Luong homestay Nguyen Lan",hotel_4738909,"Thanh Hóa",https://is.gd/9n1ItJ,6886,0,8.7,5,"Phòng Giường Đôi Nhìn Ra Núi","105.118360279171,20.4753187539104",https://is.gd/cEH1vx,600000
+759,"MOTEL FAMILY",hotel_6516719,"Sầm Sơn",https://is.gd/w9nWvZ,6886,0,8.2,4,"Phòng 2 Giường Đơn","105.894949,19.730518",https://is.gd/uFyJnN,320000
+760,"Golden Dream Hotel",hotel_3580900,"Sầm Sơn",https://is.gd/fmXyca,6886,3,7.4,30,"Phòng Giường Đôi","105.918339,19.763833",https://is.gd/6cRUCW,1350000
+761,"Hải cường Hotel17",hotel_6543499,"Sầm Sơn",https://is.gd/hMllsw,6886,0,3,4,"Phòng 2 Giường Đơn Với Phòng Tắm Riêng","105.899554,19.730456",https://is.gd/MCoute,300000
+762,"Thăng Long Hotel",hotel_6442777,"Thanh Hóa",https://is.gd/QCvZBi,6886,2,0,0,"Phòng Superior Có Giường Cỡ King","105.768509,19.811699",https://is.gd/8prFDw,395000
+763,"Hotel Tùng Long",hotel_6233475,"Thanh Hóa",https://is.gd/AdwyCM,6886,0,0,0,"Phòng Giường Đôi Hạng Bình Dân","105.829987,19.765172",https://is.gd/gubbko,300000
+764,"Minh Hang Motel",hotel_3677594,"Thanh Hóa",https://is.gd/SBy51L,6886,0,7.4,21,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.771307423279,19.7784860516208",https://is.gd/R3MlZV,250000
+765,"nhà nghỉ minh phát",hotel_6910833,"Tri Lê",https://is.gd/cZ3utu,6886,0,0,0,"Phòng Deluxe Gia đình","105.884187128757,19.740758353294",https://is.gd/JKgsof,550000
+766,"PuLuong BamBoo",hotel_6931517,"Thạch Thành",https://is.gd/CwWXup,6886,0,0,0,"Phòng 4 Người với Phòng tắm Riêng","105.137591,20.434805",https://is.gd/KZsgfs,1500000
+767,"Khách sạn Phương Anh",hotel_6585061,"Kiều Ðại",https://is.gd/2xPdPN,6886,2,0,0,"Phòng Giường Đôi","105.777119164348,19.7776301439613",https://is.gd/Oxd8OS,360000
+768,"*BOM HOMES* THE VILLAS LUXURY FLC SẦM SƠN",hotel_6690770,"Lôc Hải",https://is.gd/xG6fBI,6886,4,0,0,"Biệt thự có Hồ bơi Riêng","105.9185569,19.7641197",https://is.gd/yUwvLK,3500000
+769,"K English Homestay",hotel_6675433,"Thanh Hóa",https://is.gd/lv2HQB,6886,0,0,0,"Phòng Giường Đôi","105.769898562921,19.82055098745",https://is.gd/8HEhiP,350000
+770,"Biệt thự FLC Sầm Sơn SB 66",hotel_6525068,"Thanh Hóa",https://is.gd/jDpV3O,6886,0,0,0,"Căn Hộ","105.92046735138,19.769502706595",https://is.gd/4DH1iR,8500000
+771,"Villa FLC Sầm sơn – NT 05",hotel_6495818,"Sầm Sơn",https://is.gd/HQxKN4,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.9192329,19.7678197",https://is.gd/JcxqkT,7000000
+772,"Villa FLC Sầm sơn -NT 12A - Trống Đồng",hotel_6495767,"Sầm Sơn",https://is.gd/SOw85b,6886,0,0,0,"Căn Hộ 1 Phòng Ngủ","105.9191675,19.766346",https://is.gd/tP0EjF,10500000
+773,"NHÀ NGHỈ MINH PHÁT",hotel_6816104,"Sầm Sơn",https://is.gd/AnEIcp,6886,3,0,0,"Phòng 4 Người với Phòng tắm Riêng","105.884229,19.740752",https://is.gd/4AZkFU,550000
+774,"Pu Luong Panorama",hotel_6839229,"Thanh Hóa",https://is.gd/s79EZZ,6886,0,0,0,"Suite 1 Phòng Ngủ","105.137591,20.434805",https://is.gd/ZBiUKA,2150000
+775,"Villa Ngọc Trai 135",hotel_6673871,"Thanh Hóa",https://is.gd/0I4if5,6886,0,0,0,"Biệt Thự","105.9191675,19.766346",https://is.gd/ZdXRoK,4500000
+776,"Nhà nghỉ-Cafe Phương Trang",hotel_6871947,"Thanh Hóa",https://is.gd/KJpbeR,6886,0,0,0,"Phòng Giường Đôi Lớn","105.778739210281,19.7382292681301",https://is.gd/C2qmxe,250000
+777,"Khách Sạn Anh Phat",hotel_6927790,"Thanh Hóa",https://is.gd/G1F5m7,6886,5,0,0,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.820223,19.328615",https://is.gd/GNVGNs,1000000
+778,"Hương Bưởi - SB 71",hotel_3521918,"Sầm Sơn",https://is.gd/MeoLCP,6886,0,0,0,"Biệt thự có Hồ bơi Riêng","105.921329663052,19.76823011649",https://is.gd/TH7lSM,5400000
+779,"Biet Thu FLC Sam Son SB57",hotel_5197221,"Sầm Sơn",https://is.gd/OzNuKt,6886,0,0,0,"Biệt Thự","105.910081,19.751302",https://is.gd/k2xMud,8433735
+780,"Bamboo Hotel",hotel_6480027,"Thanh Hóa",https://is.gd/GfalKd,6886,3,9.1,8,"Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)","105.91414,19.758565",https://is.gd/EIGnvH,850000
+781,"Khách sạn Thiên Hải Sầm Sơn",hotel_6432625,"Sầm Sơn",https://is.gd/jCUA6J,6886,3,0,0,"Phòng Deluxe Giường Đôi Nhìn ra Biển","105.916469,19.764485",https://is.gd/1GT10T,350000
+782,"Khách Sạn Ngọc Ly 3",hotel_4379201,"Thanh Hóa",https://is.gd/Wiu7jK,6886,2,6.1,25,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.7793,19.809391",https://is.gd/5UfDM6,295000
+783,"KHÁCH SẠN NGỌC LY 8",hotel_4185670,"Thanh Hóa",https://is.gd/sY5EIM,6886,2,7,14,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.7793,19.809391",https://is.gd/Y1PACg,315000
+784,"Hoang Gia Hotel",hotel_3487148,"Thanh Hóa",https://is.gd/oSD6iQ,6886,2,7.4,67,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.79361679364,19.8137496605485",https://is.gd/a8fk3r,249900
+785,"Panoramic Homestay",hotel_5247738,"Pu Luong",https://is.gd/cw33jD,6886,0,0,0,"Giường Trong Phòng Nghỉ Tập Thể 8 Giường Cho Cả Nam Và Nữ","105.150938,20.443278",https://is.gd/YEceDQ,540000
+786,"Hotel Quyen Quy",hotel_4166852,"Thanh Hóa",https://is.gd/mctho7,6886,2,6.4,3,"Phòng Deluxe Đơn","105.808482,19.832825",https://is.gd/DSS3Ku,520000
+787,"F5 Motel",hotel_2278492,"Thanh Hóa",https://is.gd/KNYUCV,6886,2,6.2,16,"Phòng Tiêu Chuẩn Giường Đơn","105.778366710034,19.7786918122307",https://is.gd/DadNt0,560000
+788,"Risemount Premier Resort Da Nang",hotel_1996992,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/riHt6l,6232,5,8.7,176,"Phòng Superior Giường Đôi","108.242071753373,16.0548808149093",https://is.gd/nHcLdr,800000
+789,"Grand Jeep Hotel Managed by RHM GROUP",hotel_2353620,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/nTmwOP,6232,4,8.3,114,"Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","108.243013512109,16.0732836581227",https://is.gd/VvE1Jx,216000
+790,"Sala Danang Beach Hotel",hotel_4806428,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/wvyCUT,6232,4,9.1,484,"Phòng Superior Giường Đôi Nhìn Ra Thành Phố","108.245392076057,16.0622551511165",https://is.gd/HG1itx,744000
+791,"Dreams Hotel",hotel_627757,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/UfcGMp,6232,3,8.1,392,"Phòng Superior Giường Đôi","108.248243,16.042244",https://is.gd/OYeDed,478125
+792,"Hyatt Regency Danang Resort and Spa",hotel_345059,"Bãi biển Non Nước, Đà Nẵng",https://is.gd/vjmJ6B,6232,5,8.5,1155,"Phòng Có Giường Cỡ King","108.263901472092,16.0132903761792",https://is.gd/7kRFB6,3673431
+793,"Naman Retreat",hotel_1193343,"Đà Nẵng",https://is.gd/F1Zyu0,6232,5,8.6,344,"Căn Hộ 1 Phòng Ngủ Nhìn Ra Biển - Sử Dụng Trong Ngày (6 giờ). Phụ phí được tính cho khách lưu trú qua đêm.","108.283822238445,15.9689125535122",https://is.gd/aJZyVu,1800000
+794,"HAIAN Beach Hotel & Spa",hotel_3266307,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/w3FHLQ,6232,4,8.8,1024,"Ưu đãi Đặc biệt - Phòng Superior 2 Giường Đơn với Tầm nhìn ra Thành phố","108.247927,16.053532",https://is.gd/8gO3Xu,752500
+795,"Pullman Danang Beach Resort",hotel_265220,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/n4Mybq,6232,5,8.9,522,"Phòng Superior Giường Đôi Có Ban Công","108.249535560608,16.0402661385643",https://is.gd/pHvnMc,2182950
+796,"Lamuno Da Nang Hotel",hotel_1115688,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/hK9t3d,6232,3,8.7,1230,"Phòng Superior Có Giường Cỡ King","108.242322581476,16.0694042485214",https://is.gd/w5S82w,394400
+797,"Mercure Danang French Village Bana Hills",hotel_1395573,"Đà Nẵng",https://is.gd/NpCmKa,6232,4,8.2,3323,"Phòng Tiêu chuẩn 2 Giường Đơn","108.000326156616,15.9924373461089",https://is.gd/5VPfMc,2363153
+798,"InterContinental Danang Sun Peninsula Resort",hotel_420134,"Bán đảo Sơn Trà, Đà Nẵng",https://is.gd/1xzfGA,6232,5,9,450,"Phòng Queen Resort Cổ điển với 2 Giường cỡ Queen và Tầm nhìn ra Đại dương","108.310174942017,16.1220372789624",https://is.gd/kT5N30,10015582
+799,"La Maison Da Nang Beach",hotel_1112696,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/coS0cG,6232,3,8.5,689,"Phòng Superior Có Giường Cỡ King","108.242444289198,16.0699590105057",https://is.gd/HpoptA,195840
+800,"Sea Corner Boutique Hotel & Apartment",hotel_4252651,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/gC14KP,6232,3,8.8,1205,"Ưu Đãi Sử Dụng Trong Ngày (150 Phút). Phụ phí được tính cho khách lưu trú qua đêm.","108.246616115414,16.0529462381175",https://is.gd/AbX2Pw,216000
+801,"Abogo Resort Villas Luxury Da Nang",hotel_6730841,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/9j1dcC,6232,5,10,10,"Villa Deluxe","108.251103013657,16.0370727556998",https://is.gd/w5MiER,5900000
+802,"Muong Thanh Luxury Da Nang Hotel",hotel_2354697,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/biOqkT,6232,5,8.2,235,"Phòng Superior 2 Giường Đơn Không Có Tầm Nhìn, Không Có Cửa Sổ","108.24745953083,16.0539359834012",https://is.gd/Oz1vED,1012500
+803,"Lavender Riverside Hotel",hotel_2818836,"Sông Hàn, Đà Nẵng",https://is.gd/k25CZh,6232,3,8.2,673,"Phòng superior giường đôi hoặc 2 giường đơn có tầm nhìn","108.222372327,16.0470691181462",https://is.gd/SZJP4t,393750
+804,"Lotus Rock Hotel",hotel_5752152,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/h5kxgW,6232,2,8.2,74,"Phòng Giường Đôi Nhỏ","108.211746,16.059828",https://is.gd/63ERa2,209807
+805,"Calix Hotel",hotel_6429126,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/5YBTf7,6232,3,9.2,160,"Phòng Superior 2 Giường Đơn","108.237718,16.061927",https://is.gd/uJuzew,324000
+806,"Dreamy Sky - Airport View Boutique Hotel",hotel_4872564,"Đà Nẵng",https://is.gd/Bpy3RM,6232,1,7.9,515,"Phòng Giường Đôi Hạng Tiết kiệm","108.204002733972,16.0593636294898",https://is.gd/dgcIqE,192500
+807,"Altara Suites by Ri-Yaz",hotel_2469518,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/MZt6tA,6232,5,8.8,303,"Suite Bliss 1 Phòng Ngủ Có Ban Công","108.24527756526,16.0775870071389",https://is.gd/BVY4IV,1350000
+808,"Happy Day Hotel & Spa",hotel_593996,"Sông Hàn, Đà Nẵng",https://is.gd/tqrNat,6232,2,7.8,720,"Phòng Tiêu Chuẩn Giường Đôi","108.224703669548,16.0667356494005",https://is.gd/4MtnzY,315000
+809,"Stella Maris Beach Danang",hotel_4711008,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/8Pzbf2,6232,4,9.2,243,"Phòng Superior có 2 Giường đơn với Cửa sổ","108.244951057247,16.0635902265045",https://is.gd/TZDmRH,778500
+810,"Sheraton Grand Danang Resort",hotel_2944240,"Bãi biển Non Nước, Đà Nẵng",https://is.gd/cuNV87,6232,5,8.8,450,"Deluxe, Phòng Nghỉ, 2 Giường Cỡ Queen, Nhìn Ra Vịnh, Ban Công","108.276392508915,15.980736673547",https://is.gd/bhBwFh,2310000
+811,"Sea Sand Hotel",hotel_5412235,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/rMoKse,6232,0,9.3,60,"Phòng Giường Đôi Lớn","108.24694,16.048642",https://is.gd/lahTEY,420000
+812,"Melia Danang Beach Resort",hotel_1012795,"Bãi biển Non Nước, Đà Nẵng",https://is.gd/L0gqO0,6232,5,8.3,811,"Phòng Meliá - Phòng Giường Đôi (Giảm Giá 40% Cho Spa & 15% Cho Đồ Ăn & Thức Uống)","108.269735276699,15.9996825253986",https://is.gd/oFjqbx,1734265
+813,"Fusion Maia Resort - All Spa Inclusive",hotel_264161,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/7yNn16,6232,5,8.8,141,"Biệt Thự Có Hồ Bơi","108.254342079163,16.030470316479",https://is.gd/trAq0H,5792974
+814,"Hilton Da Nang",hotel_2693639,"Sông Hàn, Đà Nẵng",https://is.gd/KI7FLN,6232,5,8.5,320,"Phòng có Giường King - Thích hợp cho Khách suy giảm khả năng vận động","108.224273,16.073",https://is.gd/AbndC1,1557500
+815,"Haian Riverfront Hotel Da Nang",hotel_6490651,"Sông Hàn, Đà Nẵng",https://is.gd/x4TdcD,6232,4,9.2,36,"Ưu Đãi Đặc Biệt - Phòng Superior Giường Đôi","108.22451,16.066145",https://is.gd/xs2oDX,929100
+816,"Mai Boutique Villa",hotel_1733500,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/WyJXLa,6232,3,8.7,766,"Phòng Tiêu Chuẩn Giường Đôi","108.242117593185,16.0702914403925",https://is.gd/lZPYal,403520
+817,"Sofiana My Khe Hotel & Spa",hotel_5708278,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/eSIP3L,6232,4,9.4,521,"Phòng Deluxe Giường Đôi","108.247701,16.049633",https://is.gd/y8sjOg,589500
+818,"Vinpearl Condotel Riverfront Da Nang",hotel_3457161,"Sông Hàn, Đà Nẵng",https://is.gd/oq3heN,6232,5,8.9,207,"Phòng Studio 2 Giường đơn","108.230959,16.076847",https://is.gd/GYZPxu,1219500
+819,"Halina Hotel and Apartment",hotel_2817554,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/30V9RR,6232,4,8.8,1078,"Phòng Superior Giường Đôi Có Cửa Sổ Nhỏ Nhìn Ra Cảnh Thành Phố","108.246162431315,16.053720591943",https://is.gd/n0uZG8,419300
+820,"Serene Beach Danang Hotel & Spa",hotel_1720410,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/GPbgej,6232,4,8.4,169,"Phòng Superior Giường Đôi","108.247655332088,16.0535052002516",https://is.gd/oQQfPR,584416
+821,"Salmalia Boutique Hotel & Spa",hotel_4751564,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Lfrd5j,6232,4,9.2,420,"Phòng Deluxe Có Giường Cỡ King Và Ban Công","108.245541,16.060328",https://is.gd/wLjBxX,1475010
+822,"Zalo Sea Hotel",hotel_2114570,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Cf5rMD,6232,3,9.2,377,"Phòng Deluxe Có Giường Cỡ King","108.245923426407,16.0566548497625",https://is.gd/M75Yqk,255000
+823,"Bamboo Hotel",hotel_2688108,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/3btjRW,6232,2,8,104,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố","108.210292504338,16.0524141466579",https://is.gd/PSI1jr,387600
+824,"DLG Hotel Danang",hotel_3332222,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/f9yKv1,6232,5,8.7,256,"Phòng Deluxe Giường Đôi Nhìn Ra Biển","108.246646821499,16.0578561638867",https://is.gd/hNiQ5I,1315762
+825,"Paris Deli Danang Beach Hotel",hotel_2619507,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/gI1eVN,6232,4,8.7,471,"Phòng Superior 2 Giường Đơn","108.245085338623,16.0677684388608",https://is.gd/60noT3,803571
+826,"Muong Thanh Grand Da Nang Hotel",hotel_630251,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/K1JsN7,6232,4,7.8,124,"Phòng 3 Người Nhìn Ra Thành Phố","108.233259916306,16.0649185445534",https://is.gd/hlyXsT,1350000
+827,"Raon Danang Beach",hotel_2439030,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/89p8ov,6232,3,8.9,187,"Phòng Superior có Giường cỡ Queen và Không có Cửa sổ","108.246340546757,16.0511315264956",https://is.gd/f12MR5,256000
+828,"Monalisa Apartment",hotel_5419488,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/0P8MP9,6232,4,9.2,40,"Superior Studio","108.24650181842,16.052883479327",https://is.gd/lL7BlZ,402500
+829,"Seahorse Hotel & Office by HAVI",hotel_6025792,"Sông Hàn, Đà Nẵng",https://is.gd/YmirZH,6232,0,9.5,102,"Superior Studio","108.222927,16.068956",https://is.gd/VhXgxg,506250
+830,"Lupin Boutique Hotel",hotel_4875524,"Vịnh Đà Nẵng, Đà Nẵng",https://is.gd/iWwoth,6232,3,9.3,151,"Phòng Superior 2 Giường Đơn","108.215587,16.087146",https://is.gd/XBKyeM,432000
+831,"Monarque Hotel Danang",hotel_2604345,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/zjpDcT,6232,4,9.5,748,"Phòng Deluxe Giường Đôi","108.2452581,16.0676785",https://is.gd/xOapPb,825000
+832,"Adina Hotel",hotel_590416,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/rXw28Z,6232,3,8.1,162,"Phòng Superior 2 Giường Đơn","108.236998915673,16.0708363172177",https://is.gd/1GtN9B,252000
+833,"Maximilan Danang Beach Hotel",hotel_5462587,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Gzf2BK,6232,4,8.9,173,"Phòng Deluxe 2 Giường Đơn - Bao Gồm Trà Chiều","108.245198,16.067001",https://is.gd/VYsTLq,754800
+834,"Cicilia Hotel & Spa",hotel_1426061,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/lrFWqF,6232,4,8.7,151,"Phòng Deluxe 2 Giường Đơn","108.246638734918,16.0519303012986",https://is.gd/E4T3lx,663000
+835,"Raon Apartment and Hotel",hotel_3258723,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/aqypOZ,6232,3,9,690,"Phòng Superior Giường Đôi/2 Giường Đơn - Đồ Uống Chào Đón Miễn Phí","108.241214483856,16.0730315589562",https://is.gd/Ab4q7t,256000
+836,"Seashore Hotel & Apartment",hotel_3487775,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Y9ceGR,6232,4,8.8,467,"Ưu Đãi Sử Dụng Trong Ngày (1 giờ) - Phụ phí áp dụng cho nghỉ qua đêm","108.249378777771,16.0892900464925",https://is.gd/SA9HWq,169200
+837,"Tropical Sea Apartments",hotel_5710617,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/LbwIib,6232,3,8.5,19,"Căn Hộ Nhìn Ra Biển","108.2473251,16.0537217",https://is.gd/qVOUhD,684000
+838,"Vien Dong Hotel",hotel_2728577,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/DSWcIM,6232,0,7.8,663,"Phòng Đôi Tiêu chuẩn với Phòng tắm Chung","108.2207743,16.0653623",https://is.gd/ciRjGU,162000
+839,"Happy Sky Hotel",hotel_2325640,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Bfh5l7,6232,3,8.4,741,"Phòng Superior 2 Giường Đơn","108.2423451,16.0745856",https://is.gd/gmkoXj,295200
+840,"M Boutique Danang",hotel_6521955,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/7qC3sQ,6232,4,9.2,9,"Phòng Deluxe 2 Giường Đơn","108.244316,16.073034",https://is.gd/XST6vy,754150
+841,"The Shann Hotel",hotel_3415078,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/MIB13D,6232,3,8,320,"Phòng Superior Có Giường Cỡ King","108.244386,16.065521",https://is.gd/NYgl1k,234600
+842,"Danang Golden Bay",hotel_2832600,"Đà Nẵng",https://is.gd/V9APAO,6232,5,8.7,867,"Phòng Deluxe 2 Giường Đơn Nhìn Ra Thành Phố Có Ban Công","108.224217686802,16.0972660041197",https://is.gd/Tp0f88,1379828
+843,"Happy Time Hotel & Apartment",hotel_3703761,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/YltUcQ,6232,3,8.6,970,"Phòng Deluxe Giường Đôi","108.24731,16.049132",https://is.gd/RkTEyN,250000
+844,"Euro Star Riverside Hotel",hotel_6187591,"Sông Hàn, Đà Nẵng",https://is.gd/iNFbfR,6232,2,9.9,96,"Phòng Tiêu Chuẩn Giường Đôi","108.231924353859,16.0565738454161",https://is.gd/wpOtp5,294583
+845,"Connect Hotel",hotel_1004683,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Y38aKv,6232,3,8.2,78,"Phòng Superior Giường Đôi","108.243763579029,16.0654241180659",https://is.gd/SYifkI,344250
+846,"Dreamy House - Boutique Hotel",hotel_3541340,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/L0hQjP,6232,2,8.3,327,"Phòng Giường Đôi Lớn","108.243722922615,16.0669355085623",https://is.gd/GEJWqu,238000
+847,"The Navis Hotel & Apartment",hotel_5933180,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/YD5PL3,6232,3,9.4,32,"Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công","108.245926,16.05319",https://is.gd/2a2WzJ,350000
+848,"Samdi Hotel",hotel_1332569,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/ElhTHx,6232,4,8.7,219,"Phòng Superior Giường Đôi/2 Giường Đơn Nhìn ra Thành phố","108.207982742792,16.059505755119",https://is.gd/zR5nCV,663000
+849,"SPOT ON 667 Minh Anh Villa Coffee And Apartment",hotel_5943059,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/lIG1mN,6232,2,8.7,65,"Phòng Tiêu chuẩn 2 Giường Đơn","108.217869,16.056893",https://is.gd/iQLeZK,259397
+850,"Muong Thanh Luxury Song Han Hotel",hotel_246975,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/ZEchSv,6232,5,8.1,130,"Phòng Superior 2 giường đơn nhìn ra cảnh thành phố","108.216925263405,16.0604027738368",https://is.gd/N908zF,1085400
+851,"Novotel Danang Premier Han River",hotel_426861,"Sông Hàn, Đà Nẵng",https://is.gd/6dCzkw,6232,5,8.6,500,"Phòng Superior 2 Giường Đơn","108.22390973568,16.0774704052726",https://is.gd/CQabCw,1975050
+852,"White Sand Hotel & Apartment",hotel_2086820,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/waYkHk,6232,3,8.8,872,"Phòng Superior 2 Giường Đơn","108.242281861603,16.062761838646",https://is.gd/g82AHb,504000
+853,"Anh Nguyet Da Nang Hotel",hotel_4842816,"Sông Hàn, Đà Nẵng",https://is.gd/Yr2swQ,6232,0,8.9,113,"Phòng Superior Giường Đôi","108.223642,16.070451",https://is.gd/nSUe1s,409500
+854,"Lua House Apartment Da Nang",hotel_5515365,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/FYNzVT,6232,3,9.5,36,"Căn hộ Tiêu chuẩn","108.244286138098,16.051541673896",https://is.gd/TqcQrf,239000
+855,"HAMA Boutique Home",hotel_5675393,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/WZIrE6,6232,0,9.4,91,"Phòng Superior Có Giường Cỡ King","108.245186,16.060654",https://is.gd/m6Sb7T,208250
+856,"Four Points by Sheraton Danang",hotel_3347357,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/ao40Wi,6232,5,8.7,418,"Phòng Superior 2 Giường Đơn Nhìn Ra Vịnh","108.245025,16.077806",https://is.gd/4Y6uk8,999999
+857,"Seahorse Hostel & Bar by HAVI",hotel_4198211,"Sông Hàn, Đà Nẵng",https://is.gd/gTtznE,6232,0,9.2,522,"Giường trong Phòng ngủ tập thể cả Nam và Nữ 4 Người","108.224546,16.067829",https://is.gd/F3Rrnj,540000
+858,"Grand Mercure Danang",hotel_306866,"Sông Hàn, Đà Nẵng",https://is.gd/PKvnue,6232,5,8.6,154,"Phòng Superior có Giường cỡ Queen và Nhìn ra Thành phố","108.227123022079,16.0479580992634",https://is.gd/VQ0FOa,1680000
+859,"The Secret Garden",hotel_4127279,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/dyTJtO,6232,0,8.7,820,"Phòng Giường Đôi/ 2 Giường Đơn với Phòng tắm Chung","108.222914,16.06872",https://is.gd/EFYr1n,327600
+860,"Avatar Danang Hotel",hotel_1388919,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/evzfMN,6232,4,8.3,229,"Phòng Superior Giường Đôi Nhìn Ra Thành Phố","108.247049678504,16.0492559952971",https://is.gd/HwSSPk,600000
+861,"Homestay C&E Da Nang",hotel_5973155,"Sông Hàn, Đà Nẵng",https://is.gd/ODsDOv,6232,3,8.9,69,"Studio Deluxe Có Giường Cỡ King","108.231766038294,16.066504049218",https://is.gd/v6QHRM,247500
+862,"Gio Bien 2 Hotel",hotel_1778619,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/cAwVD3,6232,3,9.3,52,"Phòng Deluxe Giường Đôi Có Bồn Tắm","108.245858252048,16.0562437344028",https://is.gd/1rK15L,221200
+863,"AMAZING V.I.P Villa",hotel_2777965,"Bãi biển Non Nước, Đà Nẵng",https://is.gd/qawPoM,6232,4,0,0,"Biệt thự nhìn ra biển","108.28188687439,15.9797908285371",https://is.gd/iZshTd,40384499
+864,"Vien Dong Hotel",hotel_1667333,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/4z7N2J,6232,2,7.8,286,"Phòng Superior Giường Đôi","108.215339718385,16.070736408673",https://is.gd/aP8kqn,243000
+865,"Mercury Boutique Hotel",hotel_3209805,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/4BegMM,6232,3,8.3,86,"Phòng Deluxe 2 Giường Đơn","108.216726452944,16.0605450060682",https://is.gd/lAJAEn,572000
+866,"Ponte Boutique Villa",hotel_3481939,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/IO13j9,6232,0,9.5,554,"Phòng Giường Đôi Nhìn ra Hồ bơi","108.242863,16.074819",https://is.gd/kEcIJL,707200
+867,"Hong Phuong Hotel",hotel_6514891,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/DykSU9,6232,3,0,0,"Phòng 2 Giường Đơn Với Phòng Tắm Riêng","108.239684679728,16.0741056517246",https://is.gd/bfaqEQ,226800
+868,"ChiPa Homestay",hotel_6485844,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/ZEpKMj,6232,0,9.6,31,"Phòng Giường Đôi","108.209567,16.059153",https://is.gd/QpnEB9,290000
+869,"The Carnation Hotel Da Nang",hotel_577900,"Vịnh Đà Nẵng, Đà Nẵng",https://is.gd/DpjWOJ,6232,2,8.1,50,"Phòng Superior Giường Đôi","108.219162225723,16.0858567716244",https://is.gd/eCMu8C,215100
+870,"Minh Hải Hostel",hotel_6804355,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/L2vEMY,6232,0,8.3,22,"Phòng Tiêu Chuẩn Có Giường Cỡ King","108.244368,16.056106",https://is.gd/xdc6vE,199000
+871,"Minh Boutique",hotel_5506520,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/2nYUkn,6232,0,9.7,488,"Phòng 2 giường đơn Tiêu chuẩn với ghế sofa","108.241634,16.06958",https://is.gd/5em86A,891000
+872,"Bella Boutique Villa Apartment",hotel_4454127,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/DUC1QF,6232,0,9.5,310,"Căn Hộ Studio Deluxe Có Ban Công - Ưu Đãi Sử Dụng Trong Ngày (4 Giờ/Ngày). Phụ phí được tính cho khách lưu trú qua đêm.","108.244533,16.079318",https://is.gd/I3FNsC,427778
+873,"Minh Tran Apartment and Hotel",hotel_3781764,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/8ENvln,6232,3,9.3,356,"Căn Hộ Deluxe 1 Phòng Ngủ","108.217186817184,16.0701507151659",https://is.gd/fll5MA,662116
+874,"Bayhomes Point DN",hotel_6647913,"Đà Nẵng",https://is.gd/v16OLY,6232,0,0,0,"Biệt Thự 1 Phòng Ngủ","108.276373784656,15.978254359836",https://is.gd/U5DdOh,8000000
+875,"OYO 1063 Thuan An Hotel",hotel_6344274,"Đà Nẵng",https://is.gd/nhafPn,6232,2,0,0,"Phòng Tiêu Chuẩn Giường Đôi","108.20951,16.019532",https://is.gd/Nto2hP,164617
+876,"Son Tra Resort",hotel_258733,"Bán đảo Sơn Trà, Đà Nẵng",https://is.gd/poU70m,6232,4,7.3,38,"Biệt Thự 1 Phòng Ngủ Nhìn Ra Vườn","108.298174738884,16.106572207819",https://is.gd/oppJ1r,1872000
+877,"Minh Hung Apartment & Hotel",hotel_5467542,"Sông Hàn, Đà Nẵng",https://is.gd/p34s4k,6232,3,9.1,58,"Căn hộ Tiêu chuẩn","108.2292175,16.0348588",https://is.gd/fO3UNM,408000
+878,"Sofia Boutique Hotel",hotel_574875,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/Vpv8PI,6232,3,9,237,"Phòng Deluxe Giường Đôi/2 Giường Đơn","108.2421246171,16.0704780598547",https://is.gd/nHHA5t,360000
+879,"Diamond Sea Hotel",hotel_1295315,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/RvVTAI,6232,4,8.6,1233,"Phòng Superior 2 Giường Đơn","108.245034813881,16.0669075324839",https://is.gd/4ww0F5,833000
+880,"F.Home Modern & Art 3BR Near My Khe Beach",hotel_6415237,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/i9O9fG,6232,0,9.9,11,"Biệt Thự 3 Phòng Ngủ","108.24296095264,16.057721065693",https://is.gd/cagvDW,1840000
+881,Delistay,hotel_5770924,"Vịnh Đà Nẵng, Đà Nẵng",https://is.gd/ZwHCaC,6232,0,8.9,81,"Phòng Giường Đôi có Phòng tắm riêng","108.216950808815,16.0744937164546",https://is.gd/lNWypW,290000
+882,"Happy House",hotel_5277272,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/9SG1ou,6232,2,8.9,109,"Phòng Superior Giường Đôi","108.243021198742,16.0668700362616",https://is.gd/LVzF8M,199500
+883,"An Hoi Canary Hotel",hotel_2140215,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/quhM5c,6232,2,8.3,295,"Phòng Tiêu chuẩn 2 Giường Đơn","108.247201535851,16.0490719783034",https://is.gd/tkbHxX,199500
+884,"DGreen Hostel",hotel_2737975,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/euxDAh,6232,2,8.5,208,"Phòng Tiêu Chuẩn Giường Đôi","108.218427384272,16.0440858148053",https://is.gd/S8jQiQ,234000
+885,"The Nang Suites",hotel_5589288,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/nnO1Sj,6232,4,9.4,43,"Căn hộ Studio","108.237320060664,16.063123383869",https://is.gd/eBCQ7g,562500
+886,"The Now Boutique Hotel",hotel_6305614,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/0J75LQ,6232,3,9.3,12,"Căn hộ Superior","108.23940195372,16.0490610516206",https://is.gd/pXycLl,594292
+887,"Crowne Plaza Danang",hotel_337056,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/zUh3qS,6232,5,7.7,22,"Phòng Premier 2 Giường Đơn Nhìn ra cảnh Thành phố","108.255779743195,16.0270158854891",https://is.gd/9BkQsA,2300000
+888,"Dang's Hotel",hotel_3899393,"Sông Hàn, Đà Nẵng",https://is.gd/LlqMcY,6232,0,8.7,181,"Phòng Tiêu chuẩn có giường cỡ Queen","108.231633,16.062999",https://is.gd/AQ95Jv,350000
+889,"An Dương Hotel & Apartment",hotel_5528645,"Ngũ Hành Sơn/ Núi Non Nước, Đà Nẵng",https://is.gd/bMDfFw,6232,3,9,120,"Phòng Superior Giường Đôi","108.255685450636,16.015227280788",https://is.gd/CVj9Vx,380000
+890,"King House Villa Hotel & Spa",hotel_4513160,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/FCqGu4,6232,3,8.8,393,"Phòng Deluxe Giường Đôi","108.23992390357,16.063746973392",https://is.gd/jKRwpU,349616
+891,"T P Luxury House",hotel_6235793,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/2lJWgJ,6232,4,9.4,10,"Biệt Thự","108.243418506495,16.0512648911834",https://is.gd/hWnqqM,1058873
+892,"QaMi Hotel",hotel_2252448,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/nvCPyx,6232,2,7,252,"Phòng Superior Giường Đôi","108.241216202447,16.0677050548588",https://is.gd/iEbJWe,175840
+893,"Yen Vy Hotel and Apartment",hotel_4172381,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/ZTbeUr,6232,3,8.7,148,"Phòng Deluxe","108.245639,16.051045",https://is.gd/RRfJbJ,333000
+894,"Brown Bean 2 Hotel",hotel_483237,"Sông Hàn, Đà Nẵng",https://is.gd/SPcGYu,6232,2,7.2,47,"Phòng Tiêu Chuẩn Giường Đôi","108.223354518414,16.0385493266426",https://is.gd/LOxlQ6,310000
+895,"Homestay Halley",hotel_2772901,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/Je7Hme,6232,0,9.4,261,"Phòng Giường Đôi Lớn","108.211995,16.043244",https://is.gd/ql5hOK,200000
+896,"Thanh Lan - City River View Hotel",hotel_5707914,"Vịnh Đà Nẵng, Đà Nẵng",https://is.gd/NVGKPa,6232,2,9.1,31,"Phòng Tiêu Chuẩn Giường Đôi","108.220641,16.085075",https://is.gd/Qzo0SM,210000
+897,"VYAN Beach House",hotel_6529612,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/WwyHfY,6232,0,9.6,30,"Phòng Superior có giường cỡ Queen","108.237789546024,16.0715015232779",https://is.gd/PyDz9r,360000
+898,"SPOT ON 806 Net Viet Homestay",hotel_6050510,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/QmNVpq,6232,2,8.8,39,"Phòng Superior Giường Đôi","108.212152,16.043327",https://is.gd/X41tSE,179582
+899,"Satya Danang Hotel",hotel_504853,"Sông Hàn, Đà Nẵng",https://is.gd/E7iQj0,6232,4,8.8,651,"Phòng Deluxe 2 Giường Đơn","108.223453760147,16.0668382316881",https://is.gd/TGSxGA,833340
+900,"Queen Da Nang Hotel",hotel_1561484,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/M6HGru,6232,3,6.4,127,"Phòng Tiêu Chuẩn Giường Đôi","108.208843767643,16.0538895864576",https://is.gd/eknf3m,357500
+901,"Valentine Hotel",hotel_1704941,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/d4L3Nm,6232,2,7.5,204,"Phòng Superior 2 Giường Đơn","108.244384813492,16.0669259871977",https://is.gd/yTTzri,221000
+902,"Tehana Beach Hotel Da Nang",hotel_6855015,"Bãi biển Bắc Mỹ An, Đà Nẵng",https://is.gd/CoWcR6,6232,3,9.7,19,"Standard King Room - Day Use Offer 150 Minutes. Extra charge for overnight stay","108.249886,16.03939",https://is.gd/MsxzfS,302250
+903,"Nhu Minh Plaza Danang Hotel",hotel_2868067,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/FsrP00,6232,4,8.7,69,"Phòng Deluxe giường cỡ King nhìn ra Biển","108.237099,16.070314",https://is.gd/GWXdGc,735000
+904,"Top Hotel",hotel_2515399,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/XPsp2u,6232,2,7.7,172,"Phòng Giường Đôi Deluxe Nhìn ra Phía Biển","108.243229,16.064441",https://is.gd/YcAOfy,199000
+905,"Sumi Home",hotel_6239658,"Sông Hàn, Đà Nẵng",https://is.gd/PVFkfR,6232,3,9.6,27,"Căn Hộ 1 Phòng Ngủ","108.222518,16.05981",https://is.gd/8meV2L,468000
+906,"Mango Mini Hotel",hotel_4904899,"Bãi biển Mỹ Khê, Đà Nẵng",https://is.gd/XExL99,6232,2,8.8,111,"Phòng Tiêu Chuẩn Giường Đôi","108.245493,16.050731",https://is.gd/dm1MlC,180000
+907,"Thanh Hoang Chau Hotel",hotel_1737933,"Trung tâm Thành phố Đà Nẵng, Đà Nẵng",https://is.gd/JAqMd7,6232,3,7.2,506,"Phòng Superior Có Giường Cỡ King","108.219065666199,16.0649549512496",https://is.gd/x9eALq,324000
+908,"Vinpearl Hotel Can Tho",hotel_1979491,"Cần Thơ",https://is.gd/8yv2ri,6230,5,9.2,1165,"Phòng Deluxe 2 Giường đơn Nhìn ra Thành phố","105.774492323399,10.0246731414993",https://is.gd/d7oCLj,1260000
+909,"Can Tho Ecolodge",hotel_4767879,"Cần Thơ",https://is.gd/VlI0Ho,6230,4,8.9,307,"Phòng Superior Deluxe Đôi hoặc 2 Giường đơn","105.738051,9.983268",https://is.gd/yo33oq,1870000
+910,"KP Hotel",hotel_3648871,"Cần Thơ",https://is.gd/F3fLFW,6230,0,9,1000,"Phòng Tiêu Chuẩn Giường Đôi","105.786208,10.031745",https://is.gd/iTYD0O,741804
+911,"Con Khuong Resort Can Tho",hotel_5173591,"Cần Thơ",https://is.gd/UTPP3h,6230,4,9,175,"Phòng Deluxe 2 Giường Đơn","105.777142244389,10.0666369697588",https://is.gd/4lWmCR,1260000
+912,"West Hotel",hotel_1268107,"Cần Thơ",https://is.gd/TW4ecG,6230,4,8,803,"Phòng Deluxe Giường Đôi","105.78704,10.028609",https://is.gd/dGH9S0,805950
+913,"LION HOTEL",hotel_6469602,"Cần Thơ",https://is.gd/7OmTrG,6230,3,8.2,169,"Phòng Tiêu Chuẩn Giường Đôi","105.778652,10.043702",https://is.gd/ulhEsi,350000
+914,"Aura Hotel",hotel_1181850,"Cần Thơ",https://is.gd/PJYsAJ,6230,3,7.4,275,"Phòng Tiêu Chuẩn Giường Đôi","105.786590079901,10.0434327195728",https://is.gd/NQlzA7,324000
+915,"Nesta Can Tho Hotel",hotel_1248092,"Cần Thơ",https://is.gd/paQkbI,6230,4,8,392,"Phòng Superior 2 Giường Đơn","105.789536833763,10.0517828838418",https://is.gd/Vkvi71,880000
+916,"TTC Hotel - Can Tho",hotel_550628,"Cần Thơ",https://is.gd/SrHHKJ,6230,4,8.9,550,"Phòng Deluxe 2 Giường đơn Nhìn ra Thành phố","105.78988015159,10.0361122050408",https://is.gd/HfBveM,1080100
+917,"Henry Iris Hotel",hotel_3990481,"Cần Thơ",https://is.gd/TxcZBC,6230,0,8.1,312,"Phòng Deluxe Có Giường Cỡ Queen","105.78759,10.032963",https://is.gd/0w8d5P,358400
+918,"OYO 971 Lam Hoang Hotel",hotel_1064737,"Cần Thơ",https://is.gd/ldiWdG,6230,2,7.3,81,"Phòng Deluxe 2 Giường Đơn","105.787921071314,10.047021651383",https://is.gd/9glXta,209512
+919,"Ete 18",hotel_4248045,"Cần Thơ",https://is.gd/pazVjx,6230,0,8.5,247,"Phòng Giường Đôi Nhỏ","105.781547,10.034944",https://is.gd/VDRkJK,350000
+920,"CT Morning Hostel",hotel_5671636,"Cần Thơ",https://is.gd/TwXgDZ,6230,2,8.9,248,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.78431,10.045258",https://is.gd/ioaSoc,300000
+921,"CASA ECO Mekong Resort",hotel_5502056,"Cần Thơ",https://is.gd/ZSc7Tp,6230,0,8.3,249,"Phòng có Giường cỡ King Nhìn ra Vườn","105.705223594485,10.0602188162006",https://is.gd/PDgbqh,552500
+922,"Vien Hotel",hotel_6232974,"Cần Thơ",https://is.gd/OFGUam,6230,0,8.5,19,"Phòng Tiêu chuẩn có giường cỡ Queen","105.787028,10.031486",https://is.gd/YFFhiM,490000
+923,"Magnolia's Can Tho",hotel_4786688,"Cần Thơ",https://is.gd/gv11rt,6230,0,8.9,232,"Studio Có Ban Công","105.785119,10.03096",https://is.gd/yMWTRg,646000
+924,"International Hotel",hotel_1354270,"Cần Thơ",https://is.gd/N0T8RR,6230,3,6.8,114,"Phòng Superior Giường Đôi","105.787847064418,10.0304785872812",https://is.gd/n0XALU,819759
+925,"HOLIDAY 2 HOTEL",hotel_6155182,"Cần Thơ",https://is.gd/PtpO7e,6230,3,8.2,19,"Phòng Superior Giường Đôi","105.786609,10.043442",https://is.gd/I9htol,680000
+926,"Hau Giang 2 Hotel",hotel_855833,"Cần Thơ",https://is.gd/tyjUZO,6230,2,6.9,86,"Phòng Tiêu Chuẩn Giường Đôi","105.786792933941,10.0303306697889",https://is.gd/LpcbWJ,450000
+927,"Ruby Can Tho Hotel",hotel_2121171,"Cần Thơ",https://is.gd/uH6yU2,6230,2,8.5,316,"Phòng Tiêu Chuẩn Giường Đôi","105.787017606152,10.0310743055147",https://is.gd/s9bHAE,270000
+928,"Rabbit Hostel Can Tho",hotel_5449768,"Cần Thơ",https://is.gd/dahNwC,6230,0,9.3,107,"Phòng Giường Đôi với Ban công","105.79234332547,10.0092384259221",https://is.gd/3Hmdeh,223200
+929,"MIDMOST Boutique Hostel",hotel_4696281,"Cần Thơ",https://is.gd/qFMypX,6230,0,9,249,"Phòng Deluxe Giường Đôi","105.784941,10.034297",https://is.gd/l2Jzwy,467000
+930,"54 Homestay",hotel_6310360,"Cần Thơ",https://is.gd/xOTB09,6230,0,8.7,33,"Phòng Ngủ Tập Thể 4 Giường Cho Cả Nam Và Nữ","105.785854658401,10.0331220540518",https://is.gd/knE7yw,252000
+931,"Number One Hotel",hotel_1410249,"Cần Thơ",https://is.gd/rfDD7S,6230,0,6.4,165,"Phòng Giường Đôi","105.787571338623,10.0297412594925",https://is.gd/uS46Bj,243000
+932,"Amazon 1",hotel_3540652,"Cần Thơ",https://is.gd/FmRSyr,6230,1,8.1,332,"Phòng Deluxe Giường Đôi Có Ban Công","105.779274,10.03269",https://is.gd/hZkhqp,251830
+933,"MIS HOSTEL",hotel_4823689,"Cần Thơ",https://is.gd/zXxgHY,6230,0,8.4,146,"Phòng Deluxe Có Giường Cỡ King","105.791354,10.010668",https://is.gd/LZmskq,236500
+934,"Hotel 139",hotel_2868248,"Cần Thơ",https://is.gd/KHKtea,6230,1,7.4,41,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.786409378052,10.0288730469179",https://is.gd/QNUieE,280000
+935,"NGỌC HƯNG TÂY NAM HOTEL",hotel_6698697,"Cần Thơ",https://is.gd/Nt6PNA,6230,3,6.7,12,"Phòng Tiêu chuẩn 2 Giường Đơn","105.78672,10.046251",https://is.gd/2aubk6,382500
+936,"AN NAM CORNER - Can Tho",hotel_5743879,"Cần Thơ",https://is.gd/eFOjmA,6230,0,8.8,60,"Phòng Tiêu Chuẩn Giường Đôi","105.788361,10.047167",https://is.gd/sGAB1P,226800
+937,"Chang’s hostel",hotel_4630333,"Cần Thơ",https://is.gd/VQTMsh,6230,0,8.4,132,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.780749278991,10.035233940763",https://is.gd/64kedV,320850
+938,"Adora Central Park Hostel",hotel_5704272,"Cần Thơ",https://is.gd/2CPSRS,6230,3,8.9,319,"Phòng Tiêu Chuẩn Giường Đôi","105.779000787697,10.0333973807334",https://is.gd/h1pyiO,281254
+939,"Can Tho Orchid Garden Homestay",hotel_5463265,"Cần Thơ",https://is.gd/qDJCt9,6230,0,9,63,"Phòng Superior Giường Đôi","105.764563,10.060859",https://is.gd/ua30SM,400000
+940,"CONVOI HOTEL",hotel_6522368,"Cần Thơ",https://is.gd/WHHUlZ,6230,0,8.9,46,"Phòng Deluxe Giường Đôi","105.754417,10.036685",https://is.gd/RAPMUL,295200
+941,"Linh Phuong 3 Hotel",hotel_1016784,"Cần Thơ",https://is.gd/TyI3X7,6230,2,8.9,11,"Phòng Superior Giường Đôi","105.785428527743,10.0444654745505",https://is.gd/w2MAx3,586500
+942,"Hotel 199",hotel_1834589,"Cần Thơ",https://is.gd/7cYv6m,6230,1,7.5,87,"Phòng Deluxe 2 Giường Đơn","105.785189139881,10.0351993293467",https://is.gd/elAha7,290000
+943,"Moony hostel",hotel_5632929,"Cần Thơ",https://is.gd/4qEGL8,6230,0,8.1,25,"Phòng Deluxe Giường Đôi Có Ban Công","105.755656,10.031185",https://is.gd/rH404X,200000
+944,"Thuy Ha Hotel",hotel_4900430,"Cần Thơ",https://is.gd/5KofDW,6230,0,8,78,"Phòng Tiêu Chuẩn Giường Đôi","105.7817589,10.0349",https://is.gd/4LDc5C,250000
+945,"Can Tho Riverside Hostel",hotel_4361652,"Bình Thủy",https://is.gd/PN47IT,6230,0,8.5,105,"Phòng Giường Đôi Nhỏ","105.741475532524,10.06235633582",https://is.gd/D1YVXM,170000
+946,"Azerai Can Tho",hotel_2998205,"Cần Thơ",https://is.gd/8xdXN3,6230,5,9.6,97,"Phòng trong Vườn","105.800855755806,10.0384303249763",https://is.gd/Uv6Ikt,9282735
+947,"Khách sạn Amy Cần Thơ",hotel_5042121,"Cần Thơ",https://is.gd/hLXTco,6230,0,7.2,126,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.785569946102,10.0483630149045",https://is.gd/x9AOqY,260000
+948,"BangBang Motel",hotel_3711336,"Cần Thơ",https://is.gd/G3uu11,6230,0,8.7,310,"Phòng Đôi Tiêu chuẩn với Phòng tắm Chung","105.783305668301,10.0390705042334",https://is.gd/ZMSea1,180000
+949,"Iris Hotel Can Tho",hotel_836455,"Cần Thơ",https://is.gd/tYzWvU,6230,4,7.7,82,"Phòng Superior Giường Đôi - Không có Cửa sổ","105.775361359119,10.0258696298075",https://is.gd/RNUb2T,840000
+950,"AN NGỌC HOTEL",hotel_5970041,"Cần Thơ",https://is.gd/G8i14q,6230,2,7.8,19,"Phòng Superior Giường Đôi","105.783486,10.046217",https://is.gd/ZaLJpu,320000
+951,"The Lighthouse",hotel_5542294,"Cần Thơ",https://is.gd/6TjCfm,6230,0,9.4,14,"Phòng Deluxe Giường Đôi","105.788115,10.031887",https://is.gd/xgjRN1,1080000
+952,"09 Homestay",hotel_6755245,"Cần Thơ",https://is.gd/wvO4Lj,6230,0,8.7,8,"Phòng Deluxe Giường Đôi","105.785615488795,10.0155992582278",https://is.gd/7xZ9lR,280000
+953,"Victoria Can Tho Resort",hotel_173772,"Cần Thơ",https://is.gd/UkTYjq,6230,4,9.3,188,"Phòng Superior Giường Đôi hoặc 2 Giường Đơn","105.791870355606,10.0427679043728",https://is.gd/jhQOSh,2319506
+954,"Khoa Phu Hotel",hotel_1267661,"Cần Thơ",https://is.gd/QFRmLH,6230,1,8.1,39,"Phòng Giường Đôi","105.775264741356,10.0267227463537",https://is.gd/VRF94I,250000
+955,"Sunny Hostel",hotel_4578579,"Cần Thơ",https://is.gd/7c0uCI,6230,0,7.8,243,"Phòng Giường Đôi Hạng Bình Dân","105.780232,10.032388",https://is.gd/37nHh1,234000
+956,"Max Hostel",hotel_3806197,"Cần Thơ",https://is.gd/04qKZ5,6230,0,8.5,343,"Phòng Superior Giường Đôi","105.79143,10.010859",https://is.gd/GPP58m,280000
+957,"Winter Spring Colors House",hotel_5316233,"Cần Thơ",https://is.gd/xYcjQQ,6230,3,9.3,52,"Nhà 1 Phòng ngủ","105.785176629639,10.049048855152",https://is.gd/ecyvDC,278400
+958,"CALI HOTEL",hotel_4576325,"Cần Thơ",https://is.gd/M7kLgC,6230,1,7.7,247,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.786501,10.04477",https://is.gd/6YjmH5,292500
+959,"08 Homestay",hotel_3558296,"Cần Thơ",https://is.gd/oxoWwm,6230,0,8.2,74,"Phòng Deluxe Giường Đôi","105.778712,10.045466",https://is.gd/GR0aeK,323900
+960,"Motel Thanh Hằng",hotel_4735401,"Cần Thơ",https://is.gd/6LHnEa,6230,0,8.5,145,"Phòng Giường Đôi","105.785763662878,10.0328927726632",https://is.gd/1tp31y,250000
+961,"Royal Hotel Can Tho",hotel_4361690,"Cần Thơ",https://is.gd/m9FAW2,6230,2,8.2,45,"Phòng Superior Giường Đôi","105.801562,10.008575",https://is.gd/nnCf0q,300000
+962,"VẠN LỘC HOTEL",hotel_3122480,"Cần Thơ",https://is.gd/xgD4Yb,6230,2,8.4,328,"Phòng Tiêu Chuẩn Có Giường Cỡ King","105.784502327443,10.0299846706613",https://is.gd/MvluVr,315000
+963,"Linh Phuong 2 Hotel",hotel_502496,"Cần Thơ",https://is.gd/Ti1GO2,6230,3,8.1,15,"Phòng Tiêu Chuẩn Giường Đôi","105.786323547363,10.0442891812126",https://is.gd/WdVhuJ,531000
+964,"Thien Ngoc Hostel",hotel_6414099,"Cần Thơ",https://is.gd/fmJaSI,6230,0,9.5,17,"Phòng Deluxe Giường Đôi Có Ban Công","105.79045,10.010256",https://is.gd/P7hgam,204000
+965,"Stay House",hotel_5591929,"Cần Thơ",https://is.gd/kkVoX4,6230,0,8.2,236,"Phòng Tiêu Chuẩn Giường Đôi","105.780424,10.03186",https://is.gd/bQZALK,255000
+966,Aluny,hotel_5458932,"Cần Thơ",https://is.gd/DLske4,6230,0,8.8,50,"Phòng Ngủ Tập Thể 10 Giường Cho Cả Nam Lẫn Nữ","105.786241,10.030035",https://is.gd/4MCMH6,440000
+967,"N&D Homestay",hotel_2269238,"Cần Thơ",https://is.gd/axc5CS,6230,0,7.6,12,"Phòng Giường Đôi","105.790900066495,10.0118396683461",https://is.gd/cvD4rc,250000
+968,"Thiên Bảo Hotel",hotel_6844815,"Cần Thơ",https://is.gd/8HXQQu,6230,0,6.8,4,"Phòng Có Giường Cỡ King Với Ban Công","105.779543,10.03204",https://is.gd/PRuXYS,250000
+969,"PHUC LONG 2 HOTEL",hotel_5503075,"Cần Thơ",https://is.gd/ldtFh2,6230,2,7.1,77,"Phòng Deluxe","105.785643,10.030646",https://is.gd/GyJNSo,200000
+970,"Little Dalat Coffee and Homestay",hotel_5637636,"Cần Thơ",https://is.gd/4OGkF2,6230,3,8.6,40,"Căn Hộ 1 Phòng Ngủ","105.750458621924,10.024704427502",https://is.gd/XhAeOm,550000
+971,"Mekongoi Ecolodge Can Tho",hotel_6912256,"Cần Thơ",https://is.gd/yKjxk3,6230,0,0,0,"Phòng Giường Đôi","105.6906,9.987462",https://is.gd/8QKHru,777000
+972,"Ninh Kieu Riverside Hotel",hotel_1894064,"Cần Thơ",https://is.gd/mPUvML,6230,4,8,304,"Phòng Tiêu chuẩn 2 Giường Đơn","105.790135420971,10.036469226212",https://is.gd/t2BKcg,950000
+973,"Holiday One Can Tho Hotel",hotel_855835,"Cần Thơ",https://is.gd/eWJvV2,6230,4,7.5,233,"Phòng Deluxe Giường Đôi","105.785714685917,10.0445348033649",https://is.gd/WDImGb,1038850
+974,"Minh Minh Nam Hotel",hotel_5982058,"Cần Thơ",https://is.gd/izBSEv,6230,0,9.3,58,"Phòng Deluxe Giường Đôi","105.787525890877,10.0085053968602",https://is.gd/rm2jGM,460000
+975,"Nam Bo Boutique Hotel",hotel_1092425,"Cần Thơ",https://is.gd/jQwp6H,6230,0,9.2,44,"Suite Chính","105.788184928836,10.0335820169775",https://is.gd/OQzN2g,1743000
+976,"Dong Ha Fortuneland Hotel",hotel_590467,"Cần Thơ",https://is.gd/qPO4Ko,6230,4,7.9,130,"Phòng Deluxe Giường Đôi","105.787401795387,10.0464324262869",https://is.gd/QwQgWW,1436400
+977,"Nguyen Shack - Mekong Can Tho",hotel_410411,"Cần Thơ",https://is.gd/edehrb,6230,0,8.8,968,"Phòng Cơ Bản Có Phòng Tắm Chung - Nhìn Ra Sông","105.764627158642,9.97809383144521",https://is.gd/XzwTSw,412500
+978,"Saigon Can Tho Hotel",hotel_899609,"Cần Thơ",https://is.gd/H9Tc6P,6230,3,6.8,39,"Phòng Senior Giường Đôi","105.78693240881,10.0324515571279",https://is.gd/FMUVzy,690000
+979,"SONG ANH HOTEL",hotel_5414573,"Cần Thơ",https://is.gd/Pyh42p,6230,3,8.5,8,"Phòng Tiêu Chuẩn Giường Đôi","105.784699,10.031292",https://is.gd/2VwnRN,850000
+980,"Linh Phuong 5 Hotel",hotel_5777551,"Cần Thơ",https://is.gd/aT9s3l,6230,0,8.9,10,"Phòng Tiêu Chuẩn Giường Đôi","105.786339480526,10.0480961636445",https://is.gd/PtKF7S,462000
+981,"Chins House - Căn hộ gần Bến Ninh Kiều",hotel_6755741,"Cần Thơ",https://is.gd/qih18T,6230,0,0,0,"Căn Hộ","105.778005801236,10.029623809814",https://is.gd/BzdJZs,756000
+982,"Coban Hostel",hotel_2797670,"Cần Thơ",https://is.gd/MrV8RQ,6230,0,8.3,82,"Phòng Deluxe","105.7933202,10.007026",https://is.gd/MBAD90,200000
+983,"K2 Homestay & Coffee",hotel_5346076,"Cần Thơ",https://is.gd/t2Fhjk,6230,0,8.9,119,"Phòng Giường Đôi có Phòng tắm riêng","105.783988947256,10.0386523627193",https://is.gd/ambaqG,450000
+984,"Sampan House",hotel_4692953,"Cần Thơ",https://is.gd/dP6Fiq,6230,0,8.8,122,"Phòng Deluxe Giường Đôi","105.790434,10.011053",https://is.gd/kRzqEw,252000
+985,"Holiday Hotel",hotel_1031229,"Cần Thơ",https://is.gd/jd3Nmz,6230,3,7,4,"Phòng Deluxe Giường Đôi","105.785247981548,10.0440250711633",https://is.gd/hO4nLo,550000
+986,"Mỹ Ngọc Hotel",hotel_3649473,"Cần Thơ",https://is.gd/9TPnE7,6230,2,7.6,48,"Phòng Deluxe Giường Đôi","105.787022,10.030686",https://is.gd/2G9v14,475000
+987,"Emerald Boutique Stay",hotel_4564098,"Cần Thơ",https://is.gd/UBpISr,6230,3,8.5,150,"Phòng Superior Có Giường Cỡ King","105.782816,10.033883",https://is.gd/wc5ANe,500000
+988,"Winter Spring Homestay",hotel_2781293,"Cần Thơ",https://is.gd/6l3Opd,6230,3,8.7,182,"Studio Có Ban Công","105.782941728824,10.0448892384551",https://is.gd/LzJtN4,390000
+989,"MONACO HOTEL",hotel_6676912,"Cần Thơ",https://is.gd/UDDVVA,6230,0,0,0,"Phòng 4 Người","105.783995,10.019601",https://is.gd/dOqljh,550000
+990,"Kim Thuy Ngan Ha Hotel",hotel_4108770,"Cần Thơ",https://is.gd/YKflFl,6230,0,6.8,106,"Phòng Giường Đôi","105.787461,10.034028",https://is.gd/Vnhhmd,300000
+991,"Lavender Hotel",hotel_4341914,"Cần Thơ",https://is.gd/sZEiNu,6230,0,8.6,178,"Phòng Giường Đôi","105.764062,10.022246",https://is.gd/47GgCK,280000
+992,"MIDMOST VILLA",hotel_6303835,"Cần Thơ",https://is.gd/DDrYUB,6230,0,9.1,7,"Phòng Có Giường Cỡ Queen","105.779850854176,10.0321914524498",https://is.gd/eB4IBz,467000
+993,"Hanh Phat 2 Guesthouse",hotel_3937775,"Cái Răng",https://is.gd/fMXYM1,6230,2,7,7,"Phòng Deluxe","105.750727726181,9.99209912909223",https://is.gd/DsswRK,214969
+994,"Ete homestay",hotel_6707171,"Cần Thơ",https://is.gd/TSZnZC,6230,0,8.8,4,"Phòng Deluxe Giường Đôi","105.783655758536,10.0375557829401",https://is.gd/2K30u6,550000
+995,"Van Phat Riverside Hotel",hotel_590437,"Cần Thơ",https://is.gd/SjsRVI,6230,4,8.1,153,"Phòng Tiêu chuẩn 2 Giường Đơn","105.783190727234,10.0619734992",https://is.gd/mhxMgw,826686
+996,"Winter Spring home & tourist",hotel_3505745,"Cần Thơ",https://is.gd/YB46tX,6230,0,8.8,252,"Phòng Tiêu Chuẩn Giường Đôi","105.782846,10.045085",https://is.gd/Ykpqu5,250000
+997,"Nhà Nghỉ Ngọc Nghi",hotel_5413065,"Cần Thơ",https://is.gd/PAfwc5,6230,0,6.9,89,"Phòng Giường Đôi","105.779018608459,10.043190906248",https://is.gd/KMEOiS,180000
+998,"Huynh Lac Can Tho Hotel",hotel_453303,"Cần Thơ",https://is.gd/2AP8ga,6230,2,7.4,44,"Phòng Tiêu Chuẩn Giường Đôi","105.784596204758,10.0320659422811",https://is.gd/VgXSS4,300000
+999,"Gikgo Hostel Can Tho",hotel_3491582,"Cần Thơ",https://is.gd/tSSLd2,6230,0,9,294,"Phòng Giường Đôi","105.787563,10.046482",https://is.gd/NVD6Pb,348300
+1000,"Emerald Boutique Stay 2",hotel_6102631,"Cần Thơ",https://is.gd/mHXRSI,6230,0,8.9,33,"Studio với Sân hiên","105.777107,10.034348",https://is.gd/ETwCkR,500000

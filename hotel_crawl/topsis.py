@@ -51,7 +51,8 @@ class topsis:
         if self.optimum_choice == None:
             self.calc()
         opt_idx = self.optimum_choice
-        return 'Best alternative\na[{}]: {}'.format(opt_idx, self.a[:, opt_idx])
+        return 'Best alternative\na{}'.format(opt_idx)
+        # return 'Best alternative\na[{}]: {}'.format(opt_idx, self.a[:, opt_idx])
 
     def step1(self):
         """ TOPSIS Step 1
@@ -100,7 +101,9 @@ class topsis:
         # np.seterr(all='ignore')
         # Find relative closeness
         self.C = self.dw / (self.dw + self.db)
-        self.optimum_choice = self.C.argsort()[-1]
+        # self.optimum_choice = self.C.argsort()[-1]
+        self.optimum_choice = self.C.argsort()
+        print("optimum_choice: ", self.optimum_choice)
         return
 
     def calc(self):
