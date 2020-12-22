@@ -5,7 +5,7 @@ TOPSIS_WEIGHT_TOUR = [0.3, 0.1, 0.25, 0.2, 0.15]
 
 # Information on benefit (1) cost (0) criteria should be provided in I.
 TOPSIS_I_HOTEL = [1, 1, 0, 0, 1]
-TOPSIS_I_TOUR = [1, 1, 1, 1, 0]
+TOPSIS_I_TOUR = [1, 0, 1, 1, 0]
 
 TOPSIS_INFORMATION_HOTEL = []
 HOTEL_FEATURES = ["quality", "rating", "number_people_rating",

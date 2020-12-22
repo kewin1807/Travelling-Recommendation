@@ -6,7 +6,7 @@ export default function TourList({ tours }) {
         return (
             <div className="empty-search">
                 <h6>Các tour du lịch</h6>
-                <h3>unfortunately no tours matched your search parameters</h3>
+                <h3>Không tìm được kết quả phù hợp</h3>
             </div>
         );
     }

@@ -6,7 +6,7 @@ import { Card, Rate, Row, Col } from "antd";
 
 export default function Room({ room }) {
   // console.log(room);
-  const { address, description, image, link, price, quality_star, rating, number_people_rating, hotel_name } = room;
+  const { address, description, image, link, price, quality, rating, number_people_rating, name, distance_calc } = room;
   const formatMoney = (text) => {
     return new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND' }).format(text)
   }
@@ -21,13 +21,14 @@ export default function Room({ room }) {
         {/* <Link to={link} className="btn-primary room-link">
           Features
         </Link> */}
-        <a className="btn-primary room-link" href={link} target="_blank">Features</a>
+        <a className="btn-primary room-link" href={link} target="_blank">Chi tiết</a>
       </div>
       <div style={{ padding: 5 }}>
-        <p className="room-info">{hotel_name}</p>
+        <p className="room-info">{name}</p>
         <h6>Địa chỉ: {address}</h6>
         <h6>Mô tả: {description}</h6>
-        <p>Chất lượng khách sạn : {quality_star} sao</p>
+        <p>Khoảng cách đến trung tâm thành phố: {distance_calc ? `${distance_calc} km` : "Không xác định"} </p>
+        <p>Chất lượng khách sạn : {quality} sao</p>
         <p>Đánh giá phục vụ: {rating} / {number_people_rating} số người đánh giá</p>
       </div>
 
