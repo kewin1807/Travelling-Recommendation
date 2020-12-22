@@ -6,12 +6,10 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from flask_cors import CORS
 import pandas as pd
+from constant import LIST_CENTER_CITY
 from utils import calc_distance, ranking_topsis
 df_hotels = pd.read_csv("hotel.csv")
 df_tours = pd.read_csv("tour.csv")
-# print(len(df_hotels[df_hotels["city_id"]
-#                     == "6231"]))
-
 
 engine = db_connect()
 db_session = scoped_session(sessionmaker(bind=engine))
@@ -99,17 +97,17 @@ def recommendation():
     if "type_price_tour" in json_data and json_data["type_price_tour"] != "-1":
         df_tour_return = filter_by_price_tour(
             df_tour_return, type_price=json_data["type_price_tour"])
-    user_location = (json_data["location"]["latitude"],
-                     json_data["location"]["longitude"])
+    center_location = LIST_CENTER_CITY[json_data["city_id"]]
 
     if len(df_hotels_return) > 0:
         df_hotels_return["distance_calc"] = df_hotels_return["distance"].apply(
-            lambda x: calc_distance(x, user_location))
+            lambda x: calc_distance(x, center_location))
 
         prob_hotels, hotel_idxes = ranking_topsis(
             df_hotels_return, type_topsis="hotel")
         df_hotels_return = df_hotels_return.iloc[hotel_idxes]
-    if len(df_hotels_return) > 0:
+
+    if len(df_tour_return) > 0:
 
         prob_tours, tour_idxes = ranking_topsis(
             df_tour_return, type_topsis="tour")

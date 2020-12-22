@@ -34,6 +34,8 @@ def ranking_topsis(df, type_topsis="hotel"):
         I = TOPSIS_I_TOUR
         features = TOUR_FEATURES
     a = df[features].values.tolist()
+    print(df[features])
+    print(a)
     decision = topsis(a, weights, I)
     decision.calc()
     probilities = decision.C
